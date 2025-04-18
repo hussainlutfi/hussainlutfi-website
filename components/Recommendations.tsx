@@ -74,30 +74,30 @@ export default function Recommendations() {
     );
     containerRef.current?.addEventListener("mouseover", pauseCarousel);
     containerRef.current?.addEventListener("mouseout", playCarousel);
-    containerRef.current?.addEventListener(
-      "focus",
-      (event) => {
-        if (
-          event.currentTarget &&
-          !(event.currentTarget as Node).contains(event.relatedTarget as Node)
-        ) {
-          pauseCarousel();
-        }
-      },
-      true,
-    );
-    containerRef.current?.addEventListener(
-      "blur-sm",
-      (event) => {
-        if (
-          event.currentTarget &&
-          !(event.currentTarget as Node).contains(event.relatedTarget as Node)
-        ) {
-          playCarousel();
-        }
-      },
-      true,
-    );
+    // containerRef.current?.addEventListener(
+    //   "focus",
+    //   (event) => {
+    //     if (
+    //       event.currentTarget &&
+    //       !(event.currentTarget as Node).contains(event.relatedTarget as Node)
+    //     ) {
+    //       pauseCarousel();
+    //     }
+    //   },
+    //   true,
+    // );
+    // containerRef.current?.addEventListener(
+    //   "blur-sm",
+    //   (event) => {
+    //     if (
+    //       event.currentTarget &&
+    //       !(event.currentTarget as Node).contains(event.relatedTarget as Node)
+    //     ) {
+    //       playCarousel();
+    //     }
+    //   },
+    //   true,
+    // );
     return () => {
       pauseCarousel();
       containerRef.current?.removeEventListener(
@@ -118,18 +118,18 @@ export default function Recommendations() {
         },
         true,
       );
-      containerRef.current?.removeEventListener(
-        "blur-sm",
-        (event) => {
-          if (
-            event.currentTarget &&
-            !(event.currentTarget as Node).contains(event.relatedTarget as Node)
-          ) {
-            playCarousel();
-          }
-        },
-        true,
-      );
+      // containerRef.current?.removeEventListener(
+      //   "blur-sm",
+      //   (event) => {
+      //     if (
+      //       event.currentTarget &&
+      //       !(event.currentTarget as Node).contains(event.relatedTarget as Node)
+      //     ) {
+      //       playCarousel();
+      //     }
+      //   },
+      //   true,
+      // );
     };
   }, [articleWidth]);
 
@@ -187,7 +187,7 @@ export default function Recommendations() {
   return (
     <section>
       <h2 className="font-inter-tight text-lg font-semibold text-gray-800 dark:text-gray-100 mb-6">
-        Recommendations
+        
       </h2>
       <div className="[mask-image:_linear-gradient(to_right,black_50%,transparent_90%)] md:[mask-image:_linear-gradient(to_right,transparent_48px,black_64px,black_50%,transparent_90%)] -mx-3 md:-mx-16">
         <div
