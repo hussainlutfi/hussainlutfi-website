@@ -42,7 +42,7 @@ export default function Experience() {
               alt="Header 03"
               priority
             />,
-      date: "2021 - Today",
+      date: "June 2024 - August 2024",
       location: "Dammam, SA",
       description:
         [
@@ -60,7 +60,7 @@ export default function Experience() {
               alt="Header 03"
               priority
             />,
-      date: "2017 - 2019",
+      date: "September 2024 - October 2024",
       location: "Dahran, SA",
       description:
         [

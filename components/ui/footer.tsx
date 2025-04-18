@@ -1,5 +1,6 @@
 import Image from "next/image";
 import NameImg from "@/public/images/name-dicoration.png";
+import NameImgWhite from "@/public/images/name-dicoration-white.png";
 
 export default function Footer() {
   return (
@@ -7,11 +8,17 @@ export default function Footer() {
       {/* Initials logo */}
       <div className="flex justify-center">
       <Image
-          className="w-[245px] "
+          className="w-[245px] dark:hidden"
           src={NameImg}
           alt="Header 03"
           priority
-        />
+      />
+      <Image
+          className="w-[245px] opacity-75 light:hidden"
+          src={NameImgWhite}
+          alt="Header 03"
+          priority
+      />
       </div>
       <div className="space-y-6">
         {/* Social icons */}
