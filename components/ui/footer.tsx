@@ -7,18 +7,22 @@ export default function Footer() {
     <footer className="space-y-12 text-center pb-16">
       {/* Initials logo */}
       <div className="flex justify-center">
-      <Image
-          className="w-[245px] dark:hidden"
+      <div className="relative w-[245px] h-[80px]"> {/* or whatever height fits the image */}
+        <Image
+          className="w-[245px] absolute inset-0 opacity-100 dark:opacity-0 transition-opacity duration-500"
           src={NameImg}
-          alt="Header 03"
+          alt="Light Mode Image"
           priority
-      />
-      <Image
-          className="w-[245px] opacity-75 light:hidden"
+        />
+        <Image
+          className="w-[245px] absolute inset-0 opacity-0 dark:opacity-70 transition-opacity duration-500"
           src={NameImgWhite}
-          alt="Header 03"
+          alt="Dark Mode Image"
           priority
-      />
+        />
+      </div>
+
+
       </div>
       <div className="space-y-6">
         {/* Social icons */}
