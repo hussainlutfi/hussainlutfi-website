@@ -1,52 +1,32 @@
-import "./css/style.css";
+import type { Metadata } from "next";
+import { Tajawal } from "next/font/google";
+import "./globals.css";
+import Navbar from "./components/Navbar";
+import Footer from "./components/Footer";
 
-import { Inter, Inter_Tight } from "next/font/google";
-import Theme from "./theme-provider";
-import Header from "@/components/ui/header";
-import Footer from "@/components/ui/footer";
-
-const inter = Inter({
-  subsets: ["latin"],
-  variable: "--font-inter",
-  display: "swap",
+const tajawal = Tajawal({
+  weight: ["200", "300", "400", "500", "700", "800", "900"],
+  subsets: ["arabic"],
+  variable: "--font-tajawal",
 });
 
-const inter_tight = Inter_Tight({
-  weight: ["600", "700"],
-  style: ["normal", "italic"],
-  subsets: ["latin"],
-  variable: "--font-inter-tight",
-  display: "swap",
-});
+export const metadata: Metadata = {
+  title: "حسين الزاير - مهندس برمجيات",
+  description:
+    "الموقع الرسمي لمهندس البرمجيات حسين الزاير - تصميم وتطوير المواقع الحديثة",
+};
 
 export default function RootLayout({
   children,
-}: {
+}: Readonly<{
   children: React.ReactNode;
-}) {
+}>) {
   return (
-    <html lang="en" suppressHydrationWarning>
-      {/* suppressHydrationWarning: https://github.com/vercel/next.js/issues/44343 */}
-      <body
-        className={`${inter.variable} ${inter_tight.variable} font-inter antialiased bg-gray-50 text-gray-800 dark:bg-gray-950 dark:text-gray-100 tracking-tight`}
-      >
-        <Theme>
-          <div className="overflow-hidden supports-[overflow:clip]:overflow-clip">
-            <div className="max-w-[728px] mx-auto">
-              <div className="w-full bg-white dark:bg-gray-900 border-x border-gray-100 dark:border-gray-800 box-content">
-                <div className="px-3 md:px-16">
-                  <div className="flex flex-col min-h-screen">
-                    <Header />
-
-                    <main className="grow py-12 space-y-12">{children}</main>
-
-                    <Footer />
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </Theme>
+    <html lang="ar" dir="rtl">
+      <body className={`${tajawal.variable} font-tajawal antialiased bg-white`}>
+        <Navbar />
+        <main>{children}</main>
+        <Footer />
       </body>
     </html>
   );
