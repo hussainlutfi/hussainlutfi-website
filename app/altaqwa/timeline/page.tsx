@@ -392,25 +392,25 @@ function Accent({ pos }: { pos: "top" | "bottom" }) {
 
 function MilestoneBadge({ label, type }: { label: string; type: "sub" | "beta" | "live" }) {
   const bg = type === "live" ? `linear-gradient(135deg, ${C.teal}, ${C.tealDark})` : type === "beta" ? `linear-gradient(135deg, ${C.orange}, ${C.gold})` : C.orange;
-  return <div style={{ display: "inline-block", color: C.white, padding: "10px 28px", borderRadius: 8, fontSize: 15, fontWeight: 700, marginTop: 28, background: bg }}>{label}</div>;
+  return <div style={{ display: "inline-block", color: C.white, padding: "12px 34px", borderRadius: 8, fontSize: 18, fontWeight: 700, marginTop: 32, background: bg }}>{label}</div>;
 }
 
 function TaskItem({ task }: { task: Task }) {
   return (
-    <li style={{ position: "relative", padding: "5px 22px 5px 0", fontSize: 12.5, color: C.darkSoft, lineHeight: 1.7, borderBottom: `1px solid #f2f1ef` }}>
-      <div style={{ position: "absolute", right: 0, top: 12, width: 9, height: 9, border: `1.5px solid ${C.gold}`, borderRadius: 2 }} />
-      <span style={{ display: "inline-flex", alignItems: "center", justifyContent: "center", width: 20, height: 20, background: C.goldLight, color: C.gold, borderRadius: "50%", fontSize: 10, fontWeight: 700, marginLeft: 6 }}>{task.num}</span>
+    <li style={{ position: "relative", padding: "8px 28px 8px 0", fontSize: 16, color: C.darkSoft, lineHeight: 1.8, borderBottom: `1px solid #f2f1ef` }}>
+      <div style={{ position: "absolute", right: 0, top: 16, width: 11, height: 11, border: `2px solid ${C.gold}`, borderRadius: 2 }} />
+      <span style={{ display: "inline-flex", alignItems: "center", justifyContent: "center", width: 26, height: 26, background: C.goldLight, color: C.gold, borderRadius: "50%", fontSize: 13, fontWeight: 700, marginLeft: 8 }}>{task.num}</span>
       {task.title}
-      {task.sub && <span style={{ display: "block", fontSize: 10.5, color: C.gray, marginTop: 1 }}>{task.sub}</span>}
+      {task.sub && <span style={{ display: "block", fontSize: 13.5, color: C.gray, marginTop: 2 }}>{task.sub}</span>}
     </li>
   );
 }
 
 function CategoryBlock({ cat }: { cat: Category }) {
   return (
-    <div style={{ marginBottom: 14 }}>
-      <div style={{ fontSize: 12.5, fontWeight: 800, color: C.tealDark, background: C.tealLight, padding: "5px 14px", borderRadius: 5, borderRight: `3.5px solid ${C.teal}`, marginBottom: 8 }}>{cat.title}</div>
-      <ul style={{ listStyle: "none", padding: "0 10px" }}>
+    <div style={{ marginBottom: 22 }}>
+      <div style={{ fontSize: 16, fontWeight: 800, color: C.tealDark, background: C.tealLight, padding: "8px 18px", borderRadius: 6, borderRight: `4px solid ${C.teal}`, marginBottom: 10 }}>{cat.title}</div>
+      <ul style={{ listStyle: "none", padding: "0 12px" }}>
         {cat.tasks.map((t, i) => <TaskItem key={i} task={t} />)}
       </ul>
     </div>
@@ -432,7 +432,7 @@ export default function TimelinePage() {
   }, []);
 
   const sectionStyle: React.CSSProperties = {
-    maxWidth: 900,
+    maxWidth: 1000,
     margin: "0 auto",
     padding: "60px 24px",
   };
@@ -457,19 +457,19 @@ export default function TimelinePage() {
           <div style={{ fontSize: "clamp(20px, 4vw, 28px)", fontWeight: 700, color: C.orange, background: C.orangeLight, padding: "12px 44px", borderRadius: 8, display: "inline-block", marginBottom: 40 }}>الخطة الزمنية للتنفيذ</div>
 
           {/* Mini timeline */}
-          <div style={{ maxWidth: 500, margin: "0 auto 32px", padding: "0 20px" }}>
+          <div style={{ maxWidth: 600, margin: "0 auto 36px", padding: "0 20px" }}>
             <div style={{ position: "relative", display: "flex", justifyContent: "space-between", alignItems: "center" }}>
               <div style={{ position: "absolute", top: "50%", left: 0, right: 0, height: 3, background: C.dark, transform: "translateY(-50%)" }} />
               {hijriLabels.map((_, i) => <div key={i} style={{ width: 16, height: 16, borderRadius: "50%", background: C.orange, position: "relative", zIndex: 1 }} />)}
             </div>
             <div style={{ display: "flex", justifyContent: "space-between", marginTop: 8 }}>
-              {[...hijriLabels].reverse().map((l, i) => <span key={i} style={{ fontSize: 10, color: C.gray, flex: 1, textAlign: "center" }}>{l}</span>)}
+              {[...hijriLabels].reverse().map((l, i) => <span key={i} style={{ fontSize: 13, color: C.gray, flex: 1, textAlign: "center" }}>{l}</span>)}
             </div>
           </div>
 
-          <p style={{ fontSize: 14, color: C.gray }}><strong style={{ color: C.darkSoft }}>إعداد:</strong> حسين الزاير — أبو علي</p>
-          <p style={{ fontSize: 14, color: C.gray }}><strong style={{ color: C.darkSoft }}>المراحل:</strong> ٧ مراحل &nbsp;|&nbsp; <strong style={{ color: C.darkSoft }}>المدة:</strong> ٧ أشهر هجرية</p>
-          <div style={{ display: "inline-block", background: C.teal, color: C.white, padding: "5px 22px", borderRadius: 16, fontSize: 13, fontWeight: 700, marginTop: 14 }}>النسخة 2.0</div>
+          <p style={{ fontSize: 17, color: C.gray }}><strong style={{ color: C.darkSoft }}>إعداد:</strong> حسين الزاير — أبو علي</p>
+          <p style={{ fontSize: 17, color: C.gray, marginTop: 4 }}><strong style={{ color: C.darkSoft }}>المراحل:</strong> ٧ مراحل &nbsp;|&nbsp; <strong style={{ color: C.darkSoft }}>المدة:</strong> ٧ أشهر هجرية</p>
+          <div style={{ display: "inline-block", background: C.teal, color: C.white, padding: "7px 26px", borderRadius: 16, fontSize: 15, fontWeight: 700, marginTop: 18 }}>النسخة 2.0</div>
         </div>
       </section>
 
@@ -487,10 +487,10 @@ export default function TimelinePage() {
                 <span style={{ fontSize: 13, fontWeight: 500, color: "rgba(255,255,255,0.8)", marginTop: 2 }}>المرحلة</span>
               </Octagon>
               <div style={{ height: 28 }} />
-              <div style={{ fontSize: 22, fontWeight: 700, color: C.orange, marginBottom: 8 }}>{m.hijri}</div>
-              <h2 style={{ fontSize: "clamp(26px, 4vw, 36px)", fontWeight: 900, color: C.dark, marginBottom: 12 }}>{m.title}</h2>
+              <div style={{ fontSize: 26, fontWeight: 700, color: C.orange, marginBottom: 10 }}>{m.hijri}</div>
+              <h2 style={{ fontSize: "clamp(28px, 5vw, 42px)", fontWeight: 900, color: C.dark, marginBottom: 14 }}>{m.title}</h2>
               <Sep />
-              <p style={{ fontSize: 16, color: C.darkSoft, lineHeight: 2, maxWidth: 600, margin: "0 auto" }}>{m.desc}</p>
+              <p style={{ fontSize: 19, color: C.darkSoft, lineHeight: 2.1, maxWidth: 650, margin: "0 auto" }}>{m.desc}</p>
               {m.milestone && <MilestoneBadge label={m.milestone.label} type={m.milestone.type} />}
             </div>
           </div>
@@ -498,13 +498,13 @@ export default function TimelinePage() {
           {/* Month Tasks */}
           <div style={{ background: C.white, borderBottom: `4px solid ${C.tealLight}` }}>
             <div style={sectionStyle}>
-              <div style={{ display: "flex", alignItems: "center", gap: 14, paddingBottom: 14, borderBottom: `2px solid ${C.tealLight}`, marginBottom: 20 }}>
-                <div style={{ width: 44, height: 44, background: C.teal, clipPath: "polygon(30% 0%,70% 0%,100% 30%,100% 70%,70% 100%,30% 100%,0 70%,0 30%)", display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
-                  <span style={{ color: C.white, fontSize: 18, fontWeight: 900 }}>{m.num}</span>
+              <div style={{ display: "flex", alignItems: "center", gap: 16, paddingBottom: 18, borderBottom: `2px solid ${C.tealLight}`, marginBottom: 28 }}>
+                <div style={{ width: 52, height: 52, background: C.teal, clipPath: "polygon(30% 0%,70% 0%,100% 30%,100% 70%,70% 100%,30% 100%,0 70%,0 30%)", display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
+                  <span style={{ color: C.white, fontSize: 22, fontWeight: 900 }}>{m.num}</span>
                 </div>
                 <div>
-                  <div style={{ fontSize: 20, fontWeight: 800, color: C.dark }}>{m.title}</div>
-                  <div style={{ fontSize: 13, color: C.orange, fontWeight: 600, marginTop: 1 }}>{m.hijri}{m.milestone ? ` — ${m.milestone.label}` : ""}</div>
+                  <div style={{ fontSize: 24, fontWeight: 800, color: C.dark }}>{m.title}</div>
+                  <div style={{ fontSize: 15, color: C.orange, fontWeight: 600, marginTop: 2 }}>{m.hijri}{m.milestone ? ` — ${m.milestone.label}` : ""}</div>
                 </div>
               </div>
 
@@ -517,7 +517,7 @@ export default function TimelinePage() {
       ))}
 
       {/* Footer */}
-      <footer style={{ background: C.dark, color: C.grayLight, textAlign: "center", padding: "24px 16px", fontSize: 13 }}>
+      <footer style={{ background: C.dark, color: C.grayLight, textAlign: "center", padding: "28px 16px", fontSize: 15 }}>
         نظام قافلة التقوى — الخطة الزمنية للتنفيذ &nbsp;|&nbsp; إعداد: حسين الزاير
       </footer>
     </div>
