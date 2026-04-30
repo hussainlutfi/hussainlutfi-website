@@ -3,21 +3,21 @@ export const driveData = {
     {
       "name": "غير مصنف",
       "size": 1048576,
-      "sizeStr": "1.0 MB",
+      "sizeStr": "",
       "date": "2026-04-29 17:47",
       "isDir": true,
       "children": [
         {
           "name": "$RECYCLE.BIN",
           "size": 1048576,
-          "sizeStr": "1.0 MB",
+          "sizeStr": "",
           "date": "2023-11-23 14:52",
           "isDir": true,
           "children": [
             {
               "name": "$I2WXSHL.mp4",
               "size": 58,
-              "sizeStr": "58 B",
+              "sizeStr": "",
               "date": "2025-10-03 11:05",
               "isDir": false,
               "children": []
@@ -25,7 +25,7 @@ export const driveData = {
             {
               "name": "$I7B8XWJ",
               "size": 102,
-              "sizeStr": "102 B",
+              "sizeStr": "",
               "date": "2025-03-12 17:41",
               "isDir": false,
               "children": []
@@ -33,7 +33,7 @@ export const driveData = {
             {
               "name": "$IB9GHO5.MP4",
               "size": 58,
-              "sizeStr": "58 B",
+              "sizeStr": "",
               "date": "2025-10-03 11:05",
               "isDir": false,
               "children": []
@@ -41,7 +41,7 @@ export const driveData = {
             {
               "name": "$IGAU47E._CFF560B54EC7203503F55FB89AA60C7A-proxy-C2463",
               "size": 128,
-              "sizeStr": "128 B",
+              "sizeStr": "",
               "date": "2025-10-03 11:05",
               "isDir": false,
               "children": []
@@ -49,7 +49,7 @@ export const driveData = {
             {
               "name": "$IM4E1PX._00_",
               "size": 62,
-              "sizeStr": "62 B",
+              "sizeStr": "",
               "date": "2025-03-12 17:41",
               "isDir": false,
               "children": []
@@ -57,7 +57,7 @@ export const driveData = {
             {
               "name": "$IPMM8LY.mp4",
               "size": 50,
-              "sizeStr": "50 B",
+              "sizeStr": "",
               "date": "2025-10-03 11:05",
               "isDir": false,
               "children": []
@@ -65,7 +65,7 @@ export const driveData = {
             {
               "name": "$IY623IN",
               "size": 96,
-              "sizeStr": "96 B",
+              "sizeStr": "",
               "date": "2025-10-03 11:05",
               "isDir": false,
               "children": []
@@ -73,7 +73,7 @@ export const driveData = {
             {
               "name": "$R2WXSHL.mp4",
               "size": 4096,
-              "sizeStr": "4 KB",
+              "sizeStr": "",
               "date": "2025-06-18 13:22",
               "isDir": false,
               "children": []
@@ -81,7 +81,7 @@ export const driveData = {
             {
               "name": "$RB9GHO5.MP4",
               "size": 4096,
-              "sizeStr": "4 KB",
+              "sizeStr": "",
               "date": "2024-03-08 16:26",
               "isDir": false,
               "children": []
@@ -89,7 +89,7 @@ export const driveData = {
             {
               "name": "$RGAU47E._CFF560B54EC7203503F55FB89AA60C7A-proxy-C2463",
               "size": 4096,
-              "sizeStr": "4 KB",
+              "sizeStr": "",
               "date": "2025-08-08 16:22",
               "isDir": false,
               "children": []
@@ -97,7 +97,7 @@ export const driveData = {
             {
               "name": "$RPMM8LY.mp4",
               "size": 4096,
-              "sizeStr": "4 KB",
+              "sizeStr": "",
               "date": "2024-09-27 19:28",
               "isDir": false,
               "children": []
@@ -105,7 +105,7 @@ export const driveData = {
             {
               "name": "$RY623IN",
               "size": 4096,
-              "sizeStr": "4 KB",
+              "sizeStr": "",
               "date": "2025-08-04 21:42",
               "isDir": false,
               "children": []
@@ -113,7 +113,7 @@ export const driveData = {
             {
               "name": "desktop.ini",
               "size": 129,
-              "sizeStr": "129 B",
+              "sizeStr": "",
               "date": "2023-11-23 14:52",
               "isDir": false,
               "children": []
@@ -123,14 +123,14 @@ export const driveData = {
         {
           "name": "$RECYCLE.BIN (D)",
           "size": 1048576,
-          "sizeStr": "1.0 MB",
+          "sizeStr": "",
           "date": "2025-09-14 14:15",
           "isDir": true,
           "children": [
             {
               "name": "desktop.ini",
               "size": 129,
-              "sizeStr": "129 B",
+              "sizeStr": "",
               "date": "2025-09-14 14:15",
               "isDir": false,
               "children": []
@@ -148,7 +148,7 @@ export const driveData = {
         {
           "name": "100NCZ_6",
           "size": 1048576,
-          "sizeStr": "1.0 MB",
+          "sizeStr": "",
           "date": "2025-09-20 20:49",
           "isDir": true,
           "children": [
@@ -171,7 +171,7 @@ export const driveData = {
             {
               "name": "NC_FLLST.DAT",
               "size": 81920,
-              "sizeStr": "80 KB",
+              "sizeStr": "",
               "date": "2025-09-20 19:40",
               "isDir": false,
               "children": []
@@ -189,14 +189,14 @@ export const driveData = {
         {
           "name": "Adobe Premiere Pro Audio Previews",
           "size": 1048576,
-          "sizeStr": "1.0 MB",
+          "sizeStr": "",
           "date": "2024-03-11 02:38",
           "isDir": true,
           "children": [
             {
               "name": "Untitled.PRV",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2024-03-11 04:30",
               "isDir": true,
               "children": [
@@ -251,14 +251,14 @@ export const driveData = {
                 {
                   "name": "Peak Files",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2024-03-11 04:30",
                   "isDir": true,
                   "children": [
                     {
                       "name": "36bb7294-36e7-4c47-80f8-32139a946301+5bb8ac8f-8c79-20b8-c961-112f00000049 48000.pek",
                       "size": 43076,
-                      "sizeStr": "42 KB",
+                      "sizeStr": "",
                       "date": "2024-03-11 04:44",
                       "isDir": false,
                       "children": []
@@ -266,7 +266,7 @@ export const driveData = {
                     {
                       "name": "36bb7294-36e7-4c47-80f8-32139a946301+7001fabe-2561-f9a2-4418-14ce00000049 48000.pek",
                       "size": 43076,
-                      "sizeStr": "42 KB",
+                      "sizeStr": "",
                       "date": "2024-03-11 04:30",
                       "isDir": false,
                       "children": []
@@ -274,7 +274,7 @@ export const driveData = {
                     {
                       "name": "49885d9d-fb86-4878-9608-1345611d9f3b+611930a9-f0f1-5698-4f14-c8e100000059 48000.pek",
                       "size": 41028,
-                      "sizeStr": "40 KB",
+                      "sizeStr": "",
                       "date": "2024-03-11 04:44",
                       "isDir": false,
                       "children": []
@@ -282,7 +282,7 @@ export const driveData = {
                     {
                       "name": "52b6a367-52a6-44de-968a-1fc8faa3b9eb+6451acd9-a948-0654-ddcb-b64900000059 48000.pek",
                       "size": 104516,
-                      "sizeStr": "102 KB",
+                      "sizeStr": "",
                       "date": "2024-03-11 17:23",
                       "isDir": false,
                       "children": []
@@ -290,7 +290,7 @@ export const driveData = {
                     {
                       "name": "647ec622-5fcd-4d32-9e9a-170e39876151+0d138668-addb-fb1c-4e36-06db00000049 48000.pek",
                       "size": 26692,
-                      "sizeStr": "26 KB",
+                      "sizeStr": "",
                       "date": "2024-03-11 17:23",
                       "isDir": false,
                       "children": []
@@ -298,7 +298,7 @@ export const driveData = {
                     {
                       "name": "647ec622-5fcd-4d32-9e9a-170e39876151+34cb3157-8dd5-5723-3b46-4d8900000059 48000.pek",
                       "size": 26692,
-                      "sizeStr": "26 KB",
+                      "sizeStr": "",
                       "date": "2024-03-11 04:30",
                       "isDir": false,
                       "children": []
@@ -306,7 +306,7 @@ export const driveData = {
                     {
                       "name": "b357e0bd-fac5-4a0a-81ed-19d37168e919+5abfa855-b16b-d896-ec98-1e6300000049 48000.pek",
                       "size": 16452,
-                      "sizeStr": "16 KB",
+                      "sizeStr": "",
                       "date": "2024-03-11 04:30",
                       "isDir": false,
                       "children": []
@@ -314,7 +314,7 @@ export const driveData = {
                     {
                       "name": "e2ae5f30-8a72-412c-83a9-e82542618d96+23b029a4-a07a-2fa9-90c3-76b900000049 48000.pek",
                       "size": 22596,
-                      "sizeStr": "22 KB",
+                      "sizeStr": "",
                       "date": "2024-03-11 04:30",
                       "isDir": false,
                       "children": []
@@ -342,7 +342,7 @@ export const driveData = {
             {
               "name": "Untitled٦٧٨٩.PRV",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2024-03-11 02:38",
               "isDir": true,
               "children": [
@@ -365,14 +365,14 @@ export const driveData = {
                 {
                   "name": "Peak Files",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2024-03-11 02:38",
                   "isDir": true,
                   "children": [
                     {
                       "name": "435bd730-1097-4c1f-be26-e5c023d880d9+f6abbd9e-fb9c-8d38-7ccc-2c0300000049 48000.pek",
                       "size": 12356,
-                      "sizeStr": "12 KB",
+                      "sizeStr": "",
                       "date": "2024-03-11 02:38",
                       "isDir": false,
                       "children": []
@@ -380,7 +380,7 @@ export const driveData = {
                     {
                       "name": "81deaec4-b2c3-4659-9c0b-aa79ffd00ad3+ff8277e9-8ab4-6503-db86-50cd00000049 48000.pek",
                       "size": 18500,
-                      "sizeStr": "18 KB",
+                      "sizeStr": "",
                       "date": "2024-03-11 02:45",
                       "isDir": false,
                       "children": []
@@ -392,7 +392,7 @@ export const driveData = {
             {
               "name": "ال يس_2.PRV",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2025-01-12 18:00",
               "isDir": false,
               "children": []
@@ -400,14 +400,14 @@ export const driveData = {
             {
               "name": "ريلز الشيخ.PRV",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2024-03-11 19:00",
               "isDir": true,
               "children": [
                 {
                   "name": "Peak Files",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2024-03-11 19:00",
                   "isDir": false,
                   "children": []
@@ -419,14 +419,14 @@ export const driveData = {
         {
           "name": "Adobe Premiere Pro Auto-Save",
           "size": 1048576,
-          "sizeStr": "1.0 MB",
+          "sizeStr": "",
           "date": "2025-08-04 21:42",
           "isDir": true,
           "children": [
             {
               "name": "fff--790590ad-d94e-5f74-b0a0-c9a42e17b30a-2026-02-26_21-16-04.prproj",
               "size": 379041,
-              "sizeStr": "370 KB",
+              "sizeStr": "",
               "date": "2026-02-26 21:16",
               "isDir": false,
               "children": []
@@ -434,7 +434,7 @@ export const driveData = {
             {
               "name": "fff--790590ad-d94e-5f74-b0a0-c9a42e17b30a-2026-02-26_21-21-35.prproj",
               "size": 379337,
-              "sizeStr": "370 KB",
+              "sizeStr": "",
               "date": "2026-02-26 21:21",
               "isDir": false,
               "children": []
@@ -442,7 +442,7 @@ export const driveData = {
             {
               "name": "fff--790590ad-d94e-5f74-b0a0-c9a42e17b30a-2026-02-26_21-27-35.prproj",
               "size": 723520,
-              "sizeStr": "707 KB",
+              "sizeStr": "",
               "date": "2026-02-26 21:27",
               "isDir": false,
               "children": []
@@ -450,7 +450,7 @@ export const driveData = {
             {
               "name": "زيارة حسين مج-2025-08-04_21-42-47.prproj",
               "size": 234760,
-              "sizeStr": "229 KB",
+              "sizeStr": "",
               "date": "2025-08-04 21:42",
               "isDir": false,
               "children": []
@@ -458,7 +458,7 @@ export const driveData = {
             {
               "name": "زيارة حسين مج-2025-08-04_23-49-06.prproj",
               "size": 237166,
-              "sizeStr": "232 KB",
+              "sizeStr": "",
               "date": "2025-08-04 23:49",
               "isDir": false,
               "children": []
@@ -466,7 +466,7 @@ export const driveData = {
             {
               "name": "زيارة حسين مج-2025-08-05_17-47-06.prproj",
               "size": 165699,
-              "sizeStr": "162 KB",
+              "sizeStr": "",
               "date": "2025-08-05 17:47",
               "isDir": false,
               "children": []
@@ -474,7 +474,7 @@ export const driveData = {
             {
               "name": "زيارة حسين مج-2025-08-05_18-03-56.prproj",
               "size": 165752,
-              "sizeStr": "162 KB",
+              "sizeStr": "",
               "date": "2025-08-05 18:03",
               "isDir": false,
               "children": []
@@ -482,7 +482,7 @@ export const driveData = {
             {
               "name": "زيارة حسين مج.prproj",
               "size": 165740,
-              "sizeStr": "162 KB",
+              "sizeStr": "",
               "date": "2025-08-05 18:05",
               "isDir": false,
               "children": []
@@ -516,7 +516,7 @@ export const driveData = {
         {
           "name": "Install SanDisk Software for Mac.dmg",
           "size": 526105,
-          "sizeStr": "514 KB",
+          "sizeStr": "",
           "date": "2021-02-03 22:13",
           "isDir": false,
           "children": []
@@ -524,7 +524,7 @@ export const driveData = {
         {
           "name": "Install SanDisk Software for Windows.exe",
           "size": 671824,
-          "sizeStr": "656 KB",
+          "sizeStr": "",
           "date": "2021-02-18 00:39",
           "isDir": false,
           "children": []
@@ -532,14 +532,14 @@ export const driveData = {
         {
           "name": "SanDiskSecureAccess (D)",
           "size": 1048576,
-          "sizeStr": "1.0 MB",
+          "sizeStr": "",
           "date": "2021-10-26 11:22",
           "isDir": true,
           "children": [
             {
               "name": "DownloadForMac_SanDiskSecureAccessV3.01.pdf",
               "size": 361159,
-              "sizeStr": "353 KB",
+              "sizeStr": "",
               "date": "2016-11-08 04:48",
               "isDir": false,
               "children": []
@@ -547,7 +547,7 @@ export const driveData = {
             {
               "name": "Install SanDisk Software for Mac.dmg",
               "size": 526105,
-              "sizeStr": "514 KB",
+              "sizeStr": "",
               "date": "2021-02-03 22:13",
               "isDir": false,
               "children": []
@@ -555,7 +555,7 @@ export const driveData = {
             {
               "name": "Install SanDisk Software for Windows.exe",
               "size": 671824,
-              "sizeStr": "656 KB",
+              "sizeStr": "",
               "date": "2021-02-18 00:39",
               "isDir": false,
               "children": []
@@ -597,21 +597,21 @@ export const driveData = {
         {
           "name": "System Volume Information",
           "size": 1048576,
-          "sizeStr": "1.0 MB",
+          "sizeStr": "",
           "date": "2023-09-09 22:04",
           "isDir": true,
           "children": [
             {
               "name": "EDP",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2023-11-24 17:56",
               "isDir": true,
               "children": [
                 {
                   "name": "Recovery",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2023-11-24 17:56",
                   "isDir": false,
                   "children": []
@@ -621,7 +621,7 @@ export const driveData = {
             {
               "name": "IndexerVolumeGuid",
               "size": 76,
-              "sizeStr": "76 B",
+              "sizeStr": "",
               "date": "2023-09-09 22:04",
               "isDir": false,
               "children": []
@@ -629,7 +629,7 @@ export const driveData = {
             {
               "name": "WPSettings.dat",
               "size": 12,
-              "sizeStr": "12 B",
+              "sizeStr": "",
               "date": "2023-09-09 22:04",
               "isDir": false,
               "children": []
@@ -639,21 +639,21 @@ export const driveData = {
         {
           "name": "System Volume Information (D)",
           "size": 1048576,
-          "sizeStr": "1.0 MB",
+          "sizeStr": "",
           "date": "2025-02-08 10:42",
           "isDir": true,
           "children": [
             {
               "name": "EDP",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2025-11-05 15:41",
               "isDir": true,
               "children": [
                 {
                   "name": "Recovery",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-11-05 15:41",
                   "isDir": false,
                   "children": []
@@ -663,7 +663,7 @@ export const driveData = {
             {
               "name": "IndexerVolumeGuid",
               "size": 76,
-              "sizeStr": "76 B",
+              "sizeStr": "",
               "date": "2025-02-08 10:42",
               "isDir": false,
               "children": []
@@ -671,7 +671,7 @@ export const driveData = {
             {
               "name": "WPSettings.dat",
               "size": 12,
-              "sizeStr": "12 B",
+              "sizeStr": "",
               "date": "2025-02-08 10:42",
               "isDir": false,
               "children": []
@@ -761,14 +761,14 @@ export const driveData = {
         {
           "name": "مشاريع بريمير",
           "size": 1048576,
-          "sizeStr": "1.0 MB",
+          "sizeStr": "",
           "date": "2026-04-29 09:25",
           "isDir": true,
           "children": [
             {
               "name": "Untitled.prproj",
               "size": 5954,
-              "sizeStr": "6 KB",
+              "sizeStr": "",
               "date": "2024-07-24 23:52",
               "isDir": false,
               "children": []
@@ -776,7 +776,7 @@ export const driveData = {
             {
               "name": "Untitled_1.prproj",
               "size": 5178,
-              "sizeStr": "5 KB",
+              "sizeStr": "",
               "date": "2026-02-02 12:56",
               "isDir": false,
               "children": []
@@ -784,7 +784,7 @@ export const driveData = {
             {
               "name": "Untitled_2.prproj",
               "size": 5212,
-              "sizeStr": "5 KB",
+              "sizeStr": "",
               "date": "2026-02-02 13:00",
               "isDir": false,
               "children": []
@@ -792,7 +792,7 @@ export const driveData = {
             {
               "name": "Untitled_3.prproj",
               "size": 5198,
-              "sizeStr": "5 KB",
+              "sizeStr": "",
               "date": "2026-02-26 21:03",
               "isDir": false,
               "children": []
@@ -800,7 +800,7 @@ export const driveData = {
             {
               "name": "fff.prproj",
               "size": 5052,
-              "sizeStr": "5 KB",
+              "sizeStr": "",
               "date": "2026-02-26 21:09",
               "isDir": false,
               "children": []
@@ -808,7 +808,7 @@ export const driveData = {
             {
               "name": "ال يس.prproj",
               "size": 202677,
-              "sizeStr": "198 KB",
+              "sizeStr": "",
               "date": "2024-05-08 14:38",
               "isDir": false,
               "children": []
@@ -816,7 +816,7 @@ export const driveData = {
             {
               "name": "ال يس_1.prproj",
               "size": 204701,
-              "sizeStr": "200 KB",
+              "sizeStr": "",
               "date": "2024-06-10 04:01",
               "isDir": false,
               "children": []
@@ -824,7 +824,7 @@ export const driveData = {
             {
               "name": "ال يس_2.prproj",
               "size": 204472,
-              "sizeStr": "200 KB",
+              "sizeStr": "",
               "date": "2024-07-24 23:50",
               "isDir": false,
               "children": []
@@ -832,7 +832,7 @@ export const driveData = {
             {
               "name": "ال يس_3.prproj",
               "size": 200458,
-              "sizeStr": "196 KB",
+              "sizeStr": "",
               "date": "2026-04-23 19:13",
               "isDir": false,
               "children": []
@@ -840,7 +840,7 @@ export const driveData = {
             {
               "name": "زيارة حسين مج.prproj",
               "size": 165740,
-              "sizeStr": "162 KB",
+              "sizeStr": "",
               "date": "2025-08-05 18:05",
               "isDir": false,
               "children": []
@@ -848,7 +848,7 @@ export const driveData = {
             {
               "name": "شهر - سي هادي.prproj",
               "size": 755150,
-              "sizeStr": "737 KB",
+              "sizeStr": "",
               "date": "2026-04-21 23:20",
               "isDir": false,
               "children": []
@@ -864,7 +864,7 @@ export const driveData = {
             {
               "name": "شهر - سي هادي_1.prproj",
               "size": 996980,
-              "sizeStr": "974 KB",
+              "sizeStr": "",
               "date": "2026-04-23 21:12",
               "isDir": false,
               "children": []
@@ -892,14 +892,14 @@ export const driveData = {
     {
       "name": "موارد مشتركة",
       "size": 1048576,
-      "sizeStr": "1.0 MB",
+      "sizeStr": "",
       "date": "2026-04-29 17:33",
       "isDir": true,
       "children": [
         {
           "name": "انتقالات",
           "size": 1048576,
-          "sizeStr": "1.0 MB",
+          "sizeStr": "",
           "date": "2025-03-16 04:39",
           "isDir": true,
           "children": [
@@ -970,7 +970,7 @@ export const driveData = {
             {
               "name": "Film Burn Overlay With Sound Effect #lightleak #lightleakeffect #soundeffects #aftereffects.MP4",
               "size": 91146,
-              "sizeStr": "89 KB",
+              "sizeStr": "",
               "date": "2024-12-06 21:09",
               "isDir": false,
               "children": []
@@ -986,7 +986,7 @@ export const driveData = {
             {
               "name": "Light Leak Transition  Film Burn Effect With Sound Effect Part 1 #film #effects #sound #editing.mp4",
               "size": 77075,
-              "sizeStr": "75 KB",
+              "sizeStr": "",
               "date": "2024-12-06 21:43",
               "isDir": false,
               "children": []
@@ -1004,14 +1004,14 @@ export const driveData = {
         {
           "name": "خطوط",
           "size": 1048576,
-          "sizeStr": "1.0 MB",
+          "sizeStr": "",
           "date": "2025-08-07 22:27",
           "isDir": true,
           "children": [
             {
               "name": "18410-ah-naskh-hadith(1).ttf",
               "size": 116812,
-              "sizeStr": "114 KB",
+              "sizeStr": "",
               "date": "2020-03-09 23:46",
               "isDir": false,
               "children": []
@@ -1019,7 +1019,7 @@ export const driveData = {
             {
               "name": "19305-alqabas-bold.ttf",
               "size": 40080,
-              "sizeStr": "39 KB",
+              "sizeStr": "",
               "date": "2020-03-10 00:17",
               "isDir": false,
               "children": []
@@ -1027,7 +1027,7 @@ export const driveData = {
             {
               "name": "1979rg__.ttf",
               "size": 16708,
-              "sizeStr": "16 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -1035,7 +1035,7 @@ export const driveData = {
             {
               "name": "ADDCN___.TTF",
               "size": 39308,
-              "sizeStr": "38 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -1043,7 +1043,7 @@ export const driveData = {
             {
               "name": "ASVCodarLTBold_HelpMacNet_.ttf",
               "size": 233372,
-              "sizeStr": "228 KB",
+              "sizeStr": "",
               "date": "2007-06-07 17:21",
               "isDir": false,
               "children": []
@@ -1051,7 +1051,7 @@ export const driveData = {
             {
               "name": "ASVCodarLTLight_HelpMacNet_.ttf",
               "size": 235656,
-              "sizeStr": "230 KB",
+              "sizeStr": "",
               "date": "2007-06-07 17:21",
               "isDir": false,
               "children": []
@@ -1059,7 +1059,7 @@ export const driveData = {
             {
               "name": "Academy Engraved LET Fonts.ttf",
               "size": 109152,
-              "sizeStr": "107 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -1067,7 +1067,7 @@ export const driveData = {
             {
               "name": "Adobe Arabic SHIN Stout Bold.ttf",
               "size": 73244,
-              "sizeStr": "72 KB",
+              "sizeStr": "",
               "date": "2020-11-10 14:51",
               "isDir": false,
               "children": []
@@ -1075,7 +1075,7 @@ export const driveData = {
             {
               "name": "Adobe Arabic SHIN Typo Bold.ttf",
               "size": 75892,
-              "sizeStr": "74 KB",
+              "sizeStr": "",
               "date": "2020-11-10 14:51",
               "isDir": false,
               "children": []
@@ -1083,7 +1083,7 @@ export const driveData = {
             {
               "name": "AhmedLTOutlineRegular_HelpMacNet_.ttf",
               "size": 340280,
-              "sizeStr": "332 KB",
+              "sizeStr": "",
               "date": "2007-06-07 17:21",
               "isDir": false,
               "children": []
@@ -1091,7 +1091,7 @@ export const driveData = {
             {
               "name": "AhmedLTRegular_HelpMacNet_.ttf",
               "size": 175804,
-              "sizeStr": "172 KB",
+              "sizeStr": "",
               "date": "2007-06-07 17:21",
               "isDir": false,
               "children": []
@@ -1099,7 +1099,7 @@ export const driveData = {
             {
               "name": "Al Nile.ttc",
               "size": 131264,
-              "sizeStr": "128 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -1107,7 +1107,7 @@ export const driveData = {
             {
               "name": "Al Tarikh.ttc",
               "size": 79748,
-              "sizeStr": "78 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -1115,7 +1115,7 @@ export const driveData = {
             {
               "name": "Al-Jazeera-Arabic-Bold.ttf",
               "size": 51604,
-              "sizeStr": "50 KB",
+              "sizeStr": "",
               "date": "2021-08-27 19:09",
               "isDir": false,
               "children": []
@@ -1123,7 +1123,7 @@ export const driveData = {
             {
               "name": "Al-Jazeera-Arabic-Regular.ttf",
               "size": 50580,
-              "sizeStr": "49 KB",
+              "sizeStr": "",
               "date": "2021-08-27 19:09",
               "isDir": false,
               "children": []
@@ -1131,7 +1131,7 @@ export const driveData = {
             {
               "name": "AlBayan.ttc",
               "size": 186408,
-              "sizeStr": "182 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -1139,7 +1139,7 @@ export const driveData = {
             {
               "name": "AlQalam-Khat-e-Sunbali.ttf",
               "size": 83564,
-              "sizeStr": "82 KB",
+              "sizeStr": "",
               "date": "2020-11-10 14:47",
               "isDir": false,
               "children": []
@@ -1147,7 +1147,7 @@ export const driveData = {
             {
               "name": "Alata-Regular.ttf",
               "size": 96208,
-              "sizeStr": "94 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -1155,7 +1155,7 @@ export const driveData = {
             {
               "name": "Aldrich-Regular.ttf",
               "size": 53324,
-              "sizeStr": "52 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -1163,7 +1163,7 @@ export const driveData = {
             {
               "name": "Altered_Carbon_V1.ttf",
               "size": 18392,
-              "sizeStr": "18 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:37",
               "isDir": false,
               "children": []
@@ -1171,7 +1171,7 @@ export const driveData = {
             {
               "name": "AmerLTRegular_HelpMacNet_.ttf",
               "size": 200776,
-              "sizeStr": "196 KB",
+              "sizeStr": "",
               "date": "2007-06-07 17:21",
               "isDir": false,
               "children": []
@@ -1187,7 +1187,7 @@ export const driveData = {
             {
               "name": "AncientRunes.ttf",
               "size": 11532,
-              "sizeStr": "11 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -1195,7 +1195,7 @@ export const driveData = {
             {
               "name": "Andale Mono.ttf",
               "size": 109700,
-              "sizeStr": "107 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -1203,7 +1203,7 @@ export const driveData = {
             {
               "name": "Anton-Regular.ttf",
               "size": 74984,
-              "sizeStr": "73 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -1211,7 +1211,7 @@ export const driveData = {
             {
               "name": "Antonio-Bold.ttf",
               "size": 37504,
-              "sizeStr": "37 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:37",
               "isDir": false,
               "children": []
@@ -1219,7 +1219,7 @@ export const driveData = {
             {
               "name": "Antonio-SemiBold.ttf",
               "size": 37472,
-              "sizeStr": "37 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:37",
               "isDir": false,
               "children": []
@@ -1227,7 +1227,7 @@ export const driveData = {
             {
               "name": "Apple Chancery.ttf",
               "size": 336652,
-              "sizeStr": "329 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -1251,7 +1251,7 @@ export const driveData = {
             {
               "name": "ArchivoBlack-Regular.ttf",
               "size": 89156,
-              "sizeStr": "87 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -1259,7 +1259,7 @@ export const driveData = {
             {
               "name": "Arial Black.ttf",
               "size": 122556,
-              "sizeStr": "120 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -1267,7 +1267,7 @@ export const driveData = {
             {
               "name": "Arial Bold Italic.ttf",
               "size": 558672,
-              "sizeStr": "546 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -1275,7 +1275,7 @@ export const driveData = {
             {
               "name": "Arial Bold.ttf",
               "size": 750984,
-              "sizeStr": "733 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -1283,7 +1283,7 @@ export const driveData = {
             {
               "name": "Arial Italic.ttf",
               "size": 553284,
-              "sizeStr": "540 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -1291,7 +1291,7 @@ export const driveData = {
             {
               "name": "Arial Narrow Bold Italic.ttf",
               "size": 183932,
-              "sizeStr": "180 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -1299,7 +1299,7 @@ export const driveData = {
             {
               "name": "Arial Narrow Bold.ttf",
               "size": 184420,
-              "sizeStr": "180 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -1307,7 +1307,7 @@ export const driveData = {
             {
               "name": "Arial Narrow Italic.ttf",
               "size": 184944,
-              "sizeStr": "181 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -1315,7 +1315,7 @@ export const driveData = {
             {
               "name": "Arial Narrow.ttf",
               "size": 179492,
-              "sizeStr": "175 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -1323,7 +1323,7 @@ export const driveData = {
             {
               "name": "Arial Rounded Bold.ttf",
               "size": 49296,
-              "sizeStr": "48 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -1339,7 +1339,7 @@ export const driveData = {
             {
               "name": "Arial.ttf",
               "size": 773236,
-              "sizeStr": "755 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -1347,7 +1347,7 @@ export const driveData = {
             {
               "name": "Arimo-Regular.ttf",
               "size": 317568,
-              "sizeStr": "310 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:37",
               "isDir": false,
               "children": []
@@ -1363,7 +1363,7 @@ export const driveData = {
             {
               "name": "Ayuthaya.ttf",
               "size": 307268,
-              "sizeStr": "300 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -1371,7 +1371,7 @@ export const driveData = {
             {
               "name": "BOUTROS_ADS_PRO_BOLD_CONDENSED_HelpMacNet_.OTF",
               "size": 116856,
-              "sizeStr": "114 KB",
+              "sizeStr": "",
               "date": "2002-08-22 21:18",
               "isDir": false,
               "children": []
@@ -1379,7 +1379,7 @@ export const driveData = {
             {
               "name": "BOUTROS_ADS_PRO_BOLD_HelpMacNet_.OTF",
               "size": 116304,
-              "sizeStr": "114 KB",
+              "sizeStr": "",
               "date": "2002-08-22 21:18",
               "isDir": false,
               "children": []
@@ -1387,7 +1387,7 @@ export const driveData = {
             {
               "name": "BOUTROS_ADS_PRO_BOLD_INLINE_HelpMacNet_.OTF",
               "size": 214656,
-              "sizeStr": "210 KB",
+              "sizeStr": "",
               "date": "2002-08-22 21:18",
               "isDir": false,
               "children": []
@@ -1395,7 +1395,7 @@ export const driveData = {
             {
               "name": "BOUTROS_ADS_PRO_BOLD_OUTLINE_HelpMacNet_.OTF",
               "size": 178452,
-              "sizeStr": "174 KB",
+              "sizeStr": "",
               "date": "2002-08-22 21:18",
               "isDir": false,
               "children": []
@@ -1403,7 +1403,7 @@ export const driveData = {
             {
               "name": "BOUTROS_ADS_PRO_BOLD_SHADOW_HelpMacNet_.OTF",
               "size": 178024,
-              "sizeStr": "174 KB",
+              "sizeStr": "",
               "date": "2002-08-22 21:18",
               "isDir": false,
               "children": []
@@ -1411,7 +1411,7 @@ export const driveData = {
             {
               "name": "BOUTROS_ADS_PRO_LIGHT_HelpMacNet_.OTF",
               "size": 114844,
-              "sizeStr": "112 KB",
+              "sizeStr": "",
               "date": "2002-08-22 21:18",
               "isDir": false,
               "children": []
@@ -1419,7 +1419,7 @@ export const driveData = {
             {
               "name": "BOUTROS_ADS_PRO_MEDIUM_HelpMacNet_.OTF",
               "size": 115612,
-              "sizeStr": "113 KB",
+              "sizeStr": "",
               "date": "2002-08-22 21:18",
               "isDir": false,
               "children": []
@@ -1427,7 +1427,7 @@ export const driveData = {
             {
               "name": "BOUTROS_ADS_PRO_MEDIUM_ITALIC_HelpMacNet_.OTF",
               "size": 116220,
-              "sizeStr": "113 KB",
+              "sizeStr": "",
               "date": "2002-08-22 21:18",
               "isDir": false,
               "children": []
@@ -1435,7 +1435,7 @@ export const driveData = {
             {
               "name": "BadiyaLT-Bold_HelpMacNet_.ttf",
               "size": 145024,
-              "sizeStr": "142 KB",
+              "sizeStr": "",
               "date": "2009-09-16 12:38",
               "isDir": false,
               "children": []
@@ -1443,7 +1443,7 @@ export const driveData = {
             {
               "name": "BadiyaLT-Regular_HelpMacNet_.ttf",
               "size": 157384,
-              "sizeStr": "154 KB",
+              "sizeStr": "",
               "date": "2009-08-14 20:51",
               "isDir": false,
               "children": []
@@ -1451,7 +1451,7 @@ export const driveData = {
             {
               "name": "Baghdad.ttc",
               "size": 109492,
-              "sizeStr": "107 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -1459,7 +1459,7 @@ export const driveData = {
             {
               "name": "Bangers-Regular.ttf",
               "size": 100928,
-              "sizeStr": "99 KB",
+              "sizeStr": "",
               "date": "2020-12-29 12:56",
               "isDir": false,
               "children": []
@@ -1467,7 +1467,7 @@ export const driveData = {
             {
               "name": "Bangla MN.ttc",
               "size": 317364,
-              "sizeStr": "310 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -1475,7 +1475,7 @@ export const driveData = {
             {
               "name": "Bangla Sangam MN.ttc",
               "size": 440816,
-              "sizeStr": "430 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -1483,7 +1483,7 @@ export const driveData = {
             {
               "name": "Barlow-Light.ttf",
               "size": 97464,
-              "sizeStr": "95 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:37",
               "isDir": false,
               "children": []
@@ -1491,7 +1491,7 @@ export const driveData = {
             {
               "name": "Barlow-Medium.ttf",
               "size": 89352,
-              "sizeStr": "87 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:37",
               "isDir": false,
               "children": []
@@ -1499,7 +1499,7 @@ export const driveData = {
             {
               "name": "Barlow-Regular.ttf",
               "size": 98340,
-              "sizeStr": "96 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:37",
               "isDir": false,
               "children": []
@@ -1507,7 +1507,7 @@ export const driveData = {
             {
               "name": "BarlowCondensed-Black.ttf",
               "size": 104904,
-              "sizeStr": "102 KB",
+              "sizeStr": "",
               "date": "2020-11-19 11:04",
               "isDir": false,
               "children": []
@@ -1515,7 +1515,7 @@ export const driveData = {
             {
               "name": "BarlowCondensed-BlackItalic.ttf",
               "size": 106296,
-              "sizeStr": "104 KB",
+              "sizeStr": "",
               "date": "2020-11-19 11:04",
               "isDir": false,
               "children": []
@@ -1523,7 +1523,7 @@ export const driveData = {
             {
               "name": "BarlowCondensed-Bold.ttf",
               "size": 103872,
-              "sizeStr": "101 KB",
+              "sizeStr": "",
               "date": "2020-11-19 11:04",
               "isDir": false,
               "children": []
@@ -1531,7 +1531,7 @@ export const driveData = {
             {
               "name": "BarlowCondensed-BoldItalic.ttf",
               "size": 105920,
-              "sizeStr": "103 KB",
+              "sizeStr": "",
               "date": "2020-11-19 11:04",
               "isDir": false,
               "children": []
@@ -1539,7 +1539,7 @@ export const driveData = {
             {
               "name": "BarlowCondensed-ExtraBold.ttf",
               "size": 104368,
-              "sizeStr": "102 KB",
+              "sizeStr": "",
               "date": "2020-11-19 11:04",
               "isDir": false,
               "children": []
@@ -1547,7 +1547,7 @@ export const driveData = {
             {
               "name": "BarlowCondensed-ExtraBoldItalic.ttf",
               "size": 106732,
-              "sizeStr": "104 KB",
+              "sizeStr": "",
               "date": "2020-11-19 11:04",
               "isDir": false,
               "children": []
@@ -1555,7 +1555,7 @@ export const driveData = {
             {
               "name": "BarlowCondensed-ExtraLight.ttf",
               "size": 95312,
-              "sizeStr": "93 KB",
+              "sizeStr": "",
               "date": "2020-11-19 11:04",
               "isDir": false,
               "children": []
@@ -1563,7 +1563,7 @@ export const driveData = {
             {
               "name": "BarlowCondensed-ExtraLightItalic.ttf",
               "size": 101820,
-              "sizeStr": "99 KB",
+              "sizeStr": "",
               "date": "2020-11-19 11:04",
               "isDir": false,
               "children": []
@@ -1571,7 +1571,7 @@ export const driveData = {
             {
               "name": "BarlowCondensed-Italic.ttf",
               "size": 103808,
-              "sizeStr": "101 KB",
+              "sizeStr": "",
               "date": "2020-11-19 11:04",
               "isDir": false,
               "children": []
@@ -1579,7 +1579,7 @@ export const driveData = {
             {
               "name": "BarlowCondensed-Light.ttf",
               "size": 96184,
-              "sizeStr": "94 KB",
+              "sizeStr": "",
               "date": "2020-11-19 11:04",
               "isDir": false,
               "children": []
@@ -1587,7 +1587,7 @@ export const driveData = {
             {
               "name": "BarlowCondensed-LightItalic.ttf",
               "size": 102516,
-              "sizeStr": "100 KB",
+              "sizeStr": "",
               "date": "2020-11-19 11:04",
               "isDir": false,
               "children": []
@@ -1595,7 +1595,7 @@ export const driveData = {
             {
               "name": "BarlowCondensed-Medium.ttf",
               "size": 97524,
-              "sizeStr": "95 KB",
+              "sizeStr": "",
               "date": "2020-11-19 11:04",
               "isDir": false,
               "children": []
@@ -1603,7 +1603,7 @@ export const driveData = {
             {
               "name": "BarlowCondensed-MediumItalic.ttf",
               "size": 104272,
-              "sizeStr": "102 KB",
+              "sizeStr": "",
               "date": "2020-11-19 11:04",
               "isDir": false,
               "children": []
@@ -1611,7 +1611,7 @@ export const driveData = {
             {
               "name": "BarlowCondensed-Regular.ttf",
               "size": 96696,
-              "sizeStr": "94 KB",
+              "sizeStr": "",
               "date": "2020-11-19 11:04",
               "isDir": false,
               "children": []
@@ -1619,7 +1619,7 @@ export const driveData = {
             {
               "name": "BarlowCondensed-SemiBold.ttf",
               "size": 103412,
-              "sizeStr": "101 KB",
+              "sizeStr": "",
               "date": "2020-11-19 11:04",
               "isDir": false,
               "children": []
@@ -1627,7 +1627,7 @@ export const driveData = {
             {
               "name": "BarlowCondensed-SemiBoldItalic.ttf",
               "size": 106176,
-              "sizeStr": "104 KB",
+              "sizeStr": "",
               "date": "2020-11-19 11:04",
               "isDir": false,
               "children": []
@@ -1635,7 +1635,7 @@ export const driveData = {
             {
               "name": "BarlowCondensed-Thin.ttf",
               "size": 94532,
-              "sizeStr": "92 KB",
+              "sizeStr": "",
               "date": "2020-11-19 11:04",
               "isDir": false,
               "children": []
@@ -1643,7 +1643,7 @@ export const driveData = {
             {
               "name": "BarlowCondensed-ThinItalic.ttf",
               "size": 101148,
-              "sizeStr": "99 KB",
+              "sizeStr": "",
               "date": "2020-11-19 11:04",
               "isDir": false,
               "children": []
@@ -1651,7 +1651,7 @@ export const driveData = {
             {
               "name": "BarlowSemiCondensed-Black.ttf",
               "size": 107028,
-              "sizeStr": "105 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -1659,7 +1659,7 @@ export const driveData = {
             {
               "name": "BarlowSemiCondensed-BlackItalic.ttf",
               "size": 109212,
-              "sizeStr": "107 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -1667,7 +1667,7 @@ export const driveData = {
             {
               "name": "BarlowSemiCondensed-Bold.ttf",
               "size": 105576,
-              "sizeStr": "103 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -1675,7 +1675,7 @@ export const driveData = {
             {
               "name": "BarlowSemiCondensed-BoldItalic.ttf",
               "size": 108584,
-              "sizeStr": "106 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -1683,7 +1683,7 @@ export const driveData = {
             {
               "name": "BarlowSemiCondensed-ExtraBold.ttf",
               "size": 105756,
-              "sizeStr": "103 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -1691,7 +1691,7 @@ export const driveData = {
             {
               "name": "BarlowSemiCondensed-ExtraBoldItalic.ttf",
               "size": 108784,
-              "sizeStr": "106 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -1699,7 +1699,7 @@ export const driveData = {
             {
               "name": "BarlowSemiCondensed-ExtraLight.ttf",
               "size": 97776,
-              "sizeStr": "95 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -1707,7 +1707,7 @@ export const driveData = {
             {
               "name": "BarlowSemiCondensed-ExtraLightItalic.ttf",
               "size": 103300,
-              "sizeStr": "101 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -1715,7 +1715,7 @@ export const driveData = {
             {
               "name": "BarlowSemiCondensed-Italic.ttf",
               "size": 104960,
-              "sizeStr": "102 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -1723,7 +1723,7 @@ export const driveData = {
             {
               "name": "BarlowSemiCondensed-Light.ttf",
               "size": 98588,
-              "sizeStr": "96 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -1731,7 +1731,7 @@ export const driveData = {
             {
               "name": "BarlowSemiCondensed-LightItalic.ttf",
               "size": 103960,
-              "sizeStr": "102 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -1739,7 +1739,7 @@ export const driveData = {
             {
               "name": "BarlowSemiCondensed-Medium.ttf",
               "size": 99360,
-              "sizeStr": "97 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -1747,7 +1747,7 @@ export const driveData = {
             {
               "name": "BarlowSemiCondensed-MediumItalic.ttf",
               "size": 105436,
-              "sizeStr": "103 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -1755,7 +1755,7 @@ export const driveData = {
             {
               "name": "BarlowSemiCondensed-Regular.ttf",
               "size": 99628,
-              "sizeStr": "97 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -1763,7 +1763,7 @@ export const driveData = {
             {
               "name": "BarlowSemiCondensed-SemiBold.ttf",
               "size": 103544,
-              "sizeStr": "101 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -1771,7 +1771,7 @@ export const driveData = {
             {
               "name": "BarlowSemiCondensed-SemiBoldItalic.ttf",
               "size": 107624,
-              "sizeStr": "105 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -1779,7 +1779,7 @@ export const driveData = {
             {
               "name": "BarlowSemiCondensed-Thin.ttf",
               "size": 96960,
-              "sizeStr": "95 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -1787,7 +1787,7 @@ export const driveData = {
             {
               "name": "BarlowSemiCondensed-ThinItalic.ttf",
               "size": 102760,
-              "sizeStr": "100 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -1795,7 +1795,7 @@ export const driveData = {
             {
               "name": "Baron Neue Black Italic.otf",
               "size": 42772,
-              "sizeStr": "42 KB",
+              "sizeStr": "",
               "date": "2015-02-26 13:23",
               "isDir": false,
               "children": []
@@ -1803,7 +1803,7 @@ export const driveData = {
             {
               "name": "Baron Neue Black.otf",
               "size": 38204,
-              "sizeStr": "37 KB",
+              "sizeStr": "",
               "date": "2015-02-26 13:23",
               "isDir": false,
               "children": []
@@ -1811,7 +1811,7 @@ export const driveData = {
             {
               "name": "Baron Neue Bold Italic.otf",
               "size": 40204,
-              "sizeStr": "39 KB",
+              "sizeStr": "",
               "date": "2015-02-26 13:23",
               "isDir": false,
               "children": []
@@ -1819,7 +1819,7 @@ export const driveData = {
             {
               "name": "Baron Neue Bold.otf",
               "size": 35560,
-              "sizeStr": "35 KB",
+              "sizeStr": "",
               "date": "2015-02-26 13:23",
               "isDir": false,
               "children": []
@@ -1827,7 +1827,7 @@ export const driveData = {
             {
               "name": "Baron Neue Italic.otf",
               "size": 29716,
-              "sizeStr": "29 KB",
+              "sizeStr": "",
               "date": "2015-02-26 13:23",
               "isDir": false,
               "children": []
@@ -1835,7 +1835,7 @@ export const driveData = {
             {
               "name": "Baron Neue.otf",
               "size": 27176,
-              "sizeStr": "27 KB",
+              "sizeStr": "",
               "date": "2015-02-26 13:23",
               "isDir": false,
               "children": []
@@ -1851,7 +1851,7 @@ export const driveData = {
             {
               "name": "Beirut.ttc",
               "size": 81672,
-              "sizeStr": "80 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -1859,7 +1859,7 @@ export const driveData = {
             {
               "name": "Belleza-Regular.ttf",
               "size": 25612,
-              "sizeStr": "25 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:37",
               "isDir": false,
               "children": []
@@ -1867,7 +1867,7 @@ export const driveData = {
             {
               "name": "BenchNine-Bold.ttf",
               "size": 57504,
-              "sizeStr": "56 KB",
+              "sizeStr": "",
               "date": "2022-01-19 14:52",
               "isDir": false,
               "children": []
@@ -1875,7 +1875,7 @@ export const driveData = {
             {
               "name": "BenchNine-Light.ttf",
               "size": 53276,
-              "sizeStr": "52 KB",
+              "sizeStr": "",
               "date": "2022-01-19 14:52",
               "isDir": false,
               "children": []
@@ -1883,7 +1883,7 @@ export const driveData = {
             {
               "name": "BenchNine-Regular.ttf",
               "size": 55616,
-              "sizeStr": "54 KB",
+              "sizeStr": "",
               "date": "2022-01-19 14:52",
               "isDir": false,
               "children": []
@@ -1891,7 +1891,7 @@ export const driveData = {
             {
               "name": "BigCaslon.ttf",
               "size": 223700,
-              "sizeStr": "218 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -1899,7 +1899,7 @@ export const driveData = {
             {
               "name": "BigShouldersText-Thin.ttf",
               "size": 104164,
-              "sizeStr": "102 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:37",
               "isDir": false,
               "children": []
@@ -1907,7 +1907,7 @@ export const driveData = {
             {
               "name": "Bildhauer_Kant_BLOCKTYPO.otf",
               "size": 5052,
-              "sizeStr": "5 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -1915,7 +1915,7 @@ export const driveData = {
             {
               "name": "Bodoni 72 OS.ttc",
               "size": 239752,
-              "sizeStr": "234 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -1923,7 +1923,7 @@ export const driveData = {
             {
               "name": "Bodoni 72 Smallcaps Book.ttf",
               "size": 83128,
-              "sizeStr": "81 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -1931,7 +1931,7 @@ export const driveData = {
             {
               "name": "Bodoni 72.ttc",
               "size": 428976,
-              "sizeStr": "419 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -1939,7 +1939,7 @@ export const driveData = {
             {
               "name": "Bodoni Ornaments.ttf",
               "size": 73972,
-              "sizeStr": "72 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -1947,7 +1947,7 @@ export const driveData = {
             {
               "name": "Bradley Hand Bold.ttf",
               "size": 596736,
-              "sizeStr": "583 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -1955,7 +1955,7 @@ export const driveData = {
             {
               "name": "Brush Script.ttf",
               "size": 222640,
-              "sizeStr": "217 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -1963,7 +1963,7 @@ export const driveData = {
             {
               "name": "Celtic Knots.ttf",
               "size": 151640,
-              "sizeStr": "148 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -1971,7 +1971,7 @@ export const driveData = {
             {
               "name": "Chalkboard.ttc",
               "size": 177616,
-              "sizeStr": "173 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -1979,7 +1979,7 @@ export const driveData = {
             {
               "name": "ChalkboardSE.ttc",
               "size": 538448,
-              "sizeStr": "526 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -1987,7 +1987,7 @@ export const driveData = {
             {
               "name": "Chalkduster.ttf",
               "size": 486880,
-              "sizeStr": "475 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -2003,7 +2003,7 @@ export const driveData = {
             {
               "name": "Cinzel-Black.ttf",
               "size": 76884,
-              "sizeStr": "75 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -2011,7 +2011,7 @@ export const driveData = {
             {
               "name": "Cinzel-Bold.ttf",
               "size": 76848,
-              "sizeStr": "75 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -2019,7 +2019,7 @@ export const driveData = {
             {
               "name": "Cinzel-ExtraBold.ttf",
               "size": 76920,
-              "sizeStr": "75 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -2027,7 +2027,7 @@ export const driveData = {
             {
               "name": "Cinzel-Medium.ttf",
               "size": 76720,
-              "sizeStr": "75 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -2035,7 +2035,7 @@ export const driveData = {
             {
               "name": "Cinzel-Regular.ttf",
               "size": 76456,
-              "sizeStr": "75 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -2043,7 +2043,7 @@ export const driveData = {
             {
               "name": "Cinzel-SemiBold.ttf",
               "size": 76812,
-              "sizeStr": "75 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -2059,7 +2059,7 @@ export const driveData = {
             {
               "name": "Comic Sans MS Bold.ttf",
               "size": 120120,
-              "sizeStr": "117 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -2067,7 +2067,7 @@ export const driveData = {
             {
               "name": "Comic Sans MS.ttf",
               "size": 135484,
-              "sizeStr": "132 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -2083,7 +2083,7 @@ export const driveData = {
             {
               "name": "Corsiva.ttc",
               "size": 75584,
-              "sizeStr": "74 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -2091,7 +2091,7 @@ export const driveData = {
             {
               "name": "Courier New Bold Italic.ttf",
               "size": 506640,
-              "sizeStr": "495 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -2099,7 +2099,7 @@ export const driveData = {
             {
               "name": "Courier New Bold.ttf",
               "size": 691796,
-              "sizeStr": "676 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -2107,7 +2107,7 @@ export const driveData = {
             {
               "name": "Courier New Italic.ttf",
               "size": 589900,
-              "sizeStr": "576 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -2115,7 +2115,7 @@ export const driveData = {
             {
               "name": "Courier New.ttf",
               "size": 684624,
-              "sizeStr": "669 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -2123,7 +2123,7 @@ export const driveData = {
             {
               "name": "CrozierBlackCF-Regular.otf",
               "size": 42036,
-              "sizeStr": "41 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:37",
               "isDir": false,
               "children": []
@@ -2131,7 +2131,7 @@ export const driveData = {
             {
               "name": "DIN Alternate Bold.ttf",
               "size": 152012,
-              "sizeStr": "148 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -2139,7 +2139,7 @@ export const driveData = {
             {
               "name": "DIN Condensed Bold.ttf",
               "size": 212040,
-              "sizeStr": "207 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -2147,7 +2147,7 @@ export const driveData = {
             {
               "name": "DINNEXTLTARABIC-LIGHT-1.ttf",
               "size": 175912,
-              "sizeStr": "172 KB",
+              "sizeStr": "",
               "date": "2020-03-18 04:52",
               "isDir": false,
               "children": []
@@ -2155,7 +2155,7 @@ export const driveData = {
             {
               "name": "DMSerifDisplay-Regular.ttf",
               "size": 72180,
-              "sizeStr": "70 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:37",
               "isDir": false,
               "children": []
@@ -2163,7 +2163,7 @@ export const driveData = {
             {
               "name": "DTHULUTH-II-1.ttf",
               "size": 132160,
-              "sizeStr": "129 KB",
+              "sizeStr": "",
               "date": "2020-03-10 00:05",
               "isDir": false,
               "children": []
@@ -2179,7 +2179,7 @@ export const driveData = {
             {
               "name": "DecoTypeNaskh.ttc",
               "size": 97544,
-              "sizeStr": "95 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -2187,7 +2187,7 @@ export const driveData = {
             {
               "name": "Devanagari Sangam MN.ttc",
               "size": 1029884,
-              "sizeStr": "1006 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -2195,7 +2195,7 @@ export const driveData = {
             {
               "name": "DevanagariMT.ttc",
               "size": 409368,
-              "sizeStr": "400 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -2203,7 +2203,7 @@ export const driveData = {
             {
               "name": "Didot.ttc",
               "size": 724008,
-              "sizeStr": "707 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -2211,7 +2211,7 @@ export const driveData = {
             {
               "name": "DimaThulth2.ttf",
               "size": 101860,
-              "sizeStr": "99 KB",
+              "sizeStr": "",
               "date": "2020-03-10 00:09",
               "isDir": false,
               "children": []
@@ -2219,7 +2219,7 @@ export const driveData = {
             {
               "name": "Diwan Kufi.ttc",
               "size": 93724,
-              "sizeStr": "92 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -2235,7 +2235,7 @@ export const driveData = {
             {
               "name": "DoradoHeadline.ttf",
               "size": 72856,
-              "sizeStr": "71 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -2243,7 +2243,7 @@ export const driveData = {
             {
               "name": "EBGaramond-Medium.ttf",
               "size": 563444,
-              "sizeStr": "550 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:37",
               "isDir": false,
               "children": []
@@ -2251,7 +2251,7 @@ export const driveData = {
             {
               "name": "EBGaramond-Regular.ttf",
               "size": 560560,
-              "sizeStr": "547 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:37",
               "isDir": false,
               "children": []
@@ -2259,7 +2259,7 @@ export const driveData = {
             {
               "name": "EDITION_.TTF",
               "size": 22508,
-              "sizeStr": "22 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:37",
               "isDir": false,
               "children": []
@@ -2267,7 +2267,7 @@ export const driveData = {
             {
               "name": "EuphemiaCAS.ttc",
               "size": 490384,
-              "sizeStr": "479 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -2275,7 +2275,7 @@ export const driveData = {
             {
               "name": "FFHekaya-Light (1).otf",
               "size": 41776,
-              "sizeStr": "41 KB",
+              "sizeStr": "",
               "date": "2020-06-07 17:51",
               "isDir": false,
               "children": []
@@ -2283,7 +2283,7 @@ export const driveData = {
             {
               "name": "FFHekaya-Light.otf",
               "size": 41776,
-              "sizeStr": "41 KB",
+              "sizeStr": "",
               "date": "2020-06-07 17:51",
               "isDir": false,
               "children": []
@@ -2291,7 +2291,7 @@ export const driveData = {
             {
               "name": "FROSTBITE-Narrow Bold.ttf",
               "size": 22804,
-              "sizeStr": "22 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -2299,7 +2299,7 @@ export const driveData = {
             {
               "name": "FROSTBITE-Narrow.ttf",
               "size": 23196,
-              "sizeStr": "23 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -2307,7 +2307,7 @@ export const driveData = {
             {
               "name": "FROSTBITE-Wide Bold.ttf",
               "size": 16780,
-              "sizeStr": "16 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -2315,7 +2315,7 @@ export const driveData = {
             {
               "name": "FROSTBITE-Wide.ttf",
               "size": 17128,
-              "sizeStr": "17 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -2323,7 +2323,7 @@ export const driveData = {
             {
               "name": "Fahkwang-Medium.ttf",
               "size": 80480,
-              "sizeStr": "79 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:37",
               "isDir": false,
               "children": []
@@ -2331,7 +2331,7 @@ export const driveData = {
             {
               "name": "Farah.ttc",
               "size": 91112,
-              "sizeStr": "89 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -2339,7 +2339,7 @@ export const driveData = {
             {
               "name": "Farisi.ttf",
               "size": 281512,
-              "sizeStr": "275 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -2347,7 +2347,7 @@ export const driveData = {
             {
               "name": "Firas_HelpMacNet_.ttf",
               "size": 247128,
-              "sizeStr": "241 KB",
+              "sizeStr": "",
               "date": "2008-05-10 20:36",
               "isDir": false,
               "children": []
@@ -2355,7 +2355,7 @@ export const driveData = {
             {
               "name": "FontsFree-Net-Love-Miracle.ttf",
               "size": 54224,
-              "sizeStr": "53 KB",
+              "sizeStr": "",
               "date": "2021-04-05 15:12",
               "isDir": false,
               "children": []
@@ -2363,7 +2363,7 @@ export const driveData = {
             {
               "name": "FrutigerLTArabic-45Light_HelpMacNet_.ttf",
               "size": 151228,
-              "sizeStr": "148 KB",
+              "sizeStr": "",
               "date": "2008-03-17 18:42",
               "isDir": false,
               "children": []
@@ -2371,7 +2371,7 @@ export const driveData = {
             {
               "name": "FrutigerLTArabic-55Roman_HelpMacNet_.ttf",
               "size": 141480,
-              "sizeStr": "138 KB",
+              "sizeStr": "",
               "date": "2008-03-17 18:42",
               "isDir": false,
               "children": []
@@ -2379,7 +2379,7 @@ export const driveData = {
             {
               "name": "FrutigerLTArabic-65Bold_HelpMacNet_.ttf",
               "size": 134420,
-              "sizeStr": "131 KB",
+              "sizeStr": "",
               "date": "2008-03-17 18:42",
               "isDir": false,
               "children": []
@@ -2387,7 +2387,7 @@ export const driveData = {
             {
               "name": "FrutigerLTArabic-75Black_HelpMacNet_.ttf",
               "size": 131596,
-              "sizeStr": "129 KB",
+              "sizeStr": "",
               "date": "2008-03-17 18:42",
               "isDir": false,
               "children": []
@@ -2395,7 +2395,7 @@ export const driveData = {
             {
               "name": "Futura.ttc",
               "size": 487620,
-              "sizeStr": "476 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -2403,7 +2403,7 @@ export const driveData = {
             {
               "name": "GE-SS-Two-Light_28.otf",
               "size": 19932,
-              "sizeStr": "19 KB",
+              "sizeStr": "",
               "date": "2020-08-28 13:14",
               "isDir": false,
               "children": []
@@ -2411,7 +2411,7 @@ export const driveData = {
             {
               "name": "GEDinkum-Bold-1.ttf",
               "size": 40152,
-              "sizeStr": "39 KB",
+              "sizeStr": "",
               "date": "2021-08-27 19:10",
               "isDir": false,
               "children": []
@@ -2419,7 +2419,7 @@ export const driveData = {
             {
               "name": "GE_SS_Two_Bold-1.otf",
               "size": 20880,
-              "sizeStr": "20 KB",
+              "sizeStr": "",
               "date": "2020-08-28 13:12",
               "isDir": false,
               "children": []
@@ -2427,7 +2427,7 @@ export const driveData = {
             {
               "name": "GE_SS_Two_Medium (1).otf",
               "size": 20412,
-              "sizeStr": "20 KB",
+              "sizeStr": "",
               "date": "2020-10-30 23:25",
               "isDir": false,
               "children": []
@@ -2435,7 +2435,7 @@ export const driveData = {
             {
               "name": "Galvji.ttc",
               "size": 430932,
-              "sizeStr": "421 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -2443,7 +2443,7 @@ export const driveData = {
             {
               "name": "Georgia Bold Italic.ttf",
               "size": 385768,
-              "sizeStr": "377 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -2451,7 +2451,7 @@ export const driveData = {
             {
               "name": "Georgia Bold.ttf",
               "size": 363800,
-              "sizeStr": "355 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -2459,7 +2459,7 @@ export const driveData = {
             {
               "name": "Georgia Italic.ttf",
               "size": 400624,
-              "sizeStr": "391 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -2467,7 +2467,7 @@ export const driveData = {
             {
               "name": "Georgia.ttf",
               "size": 379588,
-              "sizeStr": "371 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -2483,7 +2483,7 @@ export const driveData = {
             {
               "name": "Goldbill-XSExtraBold.ttf",
               "size": 108780,
-              "sizeStr": "106 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:37",
               "isDir": false,
               "children": []
@@ -2491,7 +2491,7 @@ export const driveData = {
             {
               "name": "Goldman-Bold.ttf",
               "size": 76864,
-              "sizeStr": "75 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -2499,7 +2499,7 @@ export const driveData = {
             {
               "name": "Goldman-Regular.ttf",
               "size": 76856,
-              "sizeStr": "75 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -2507,7 +2507,7 @@ export const driveData = {
             {
               "name": "Gujarati Sangam MN.ttc",
               "size": 546372,
-              "sizeStr": "534 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -2515,7 +2515,7 @@ export const driveData = {
             {
               "name": "GujaratiMT.ttc",
               "size": 384232,
-              "sizeStr": "375 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -2523,7 +2523,7 @@ export const driveData = {
             {
               "name": "Gurmukhi MN.ttc",
               "size": 230292,
-              "sizeStr": "225 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -2531,7 +2531,7 @@ export const driveData = {
             {
               "name": "Gurmukhi Sangam MN.ttc",
               "size": 143724,
-              "sizeStr": "140 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -2539,7 +2539,7 @@ export const driveData = {
             {
               "name": "Gurmukhi.ttf",
               "size": 65480,
-              "sizeStr": "64 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -2547,7 +2547,7 @@ export const driveData = {
             {
               "name": "HARRYP__.TTF",
               "size": 27432,
-              "sizeStr": "27 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -2555,7 +2555,7 @@ export const driveData = {
             {
               "name": "HakimGhazali_HelpMacNet_.ttf",
               "size": 284228,
-              "sizeStr": "278 KB",
+              "sizeStr": "",
               "date": "2007-01-30 22:14",
               "isDir": false,
               "children": []
@@ -2563,7 +2563,7 @@ export const driveData = {
             {
               "name": "Harir_complete_OTF_Harir.otf",
               "size": 242748,
-              "sizeStr": "237 KB",
+              "sizeStr": "",
               "date": "2022-02-21 16:43",
               "isDir": false,
               "children": []
@@ -2571,7 +2571,7 @@ export const driveData = {
             {
               "name": "Harir_complete_OTF_Harir_Bold.otf",
               "size": 243876,
-              "sizeStr": "238 KB",
+              "sizeStr": "",
               "date": "2022-02-21 16:43",
               "isDir": false,
               "children": []
@@ -2579,7 +2579,7 @@ export const driveData = {
             {
               "name": "HassanLTBold_HelpMacNet_.ttf",
               "size": 259560,
-              "sizeStr": "253 KB",
+              "sizeStr": "",
               "date": "2007-06-07 17:22",
               "isDir": false,
               "children": []
@@ -2587,7 +2587,7 @@ export const driveData = {
             {
               "name": "HassanLTLight_HelpMacNet_.ttf",
               "size": 269148,
-              "sizeStr": "263 KB",
+              "sizeStr": "",
               "date": "2007-06-07 17:22",
               "isDir": false,
               "children": []
@@ -2595,7 +2595,7 @@ export const driveData = {
             {
               "name": "Haunting Attraction.ttf",
               "size": 61068,
-              "sizeStr": "60 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -2603,7 +2603,7 @@ export const driveData = {
             {
               "name": "HelveticaNeueLT B.otf",
               "size": 116484,
-              "sizeStr": "114 KB",
+              "sizeStr": "",
               "date": "2014-11-05 23:40",
               "isDir": false,
               "children": []
@@ -2611,7 +2611,7 @@ export const driveData = {
             {
               "name": "HelveticaNeueLT.otf",
               "size": 115252,
-              "sizeStr": "113 KB",
+              "sizeStr": "",
               "date": "2014-11-05 23:41",
               "isDir": false,
               "children": []
@@ -2619,7 +2619,7 @@ export const driveData = {
             {
               "name": "HelveticaWorld-BoldItalic_HelpMacNet_.ttf",
               "size": 514428,
-              "sizeStr": "502 KB",
+              "sizeStr": "",
               "date": "2007-06-07 17:22",
               "isDir": false,
               "children": []
@@ -2627,7 +2627,7 @@ export const driveData = {
             {
               "name": "HelveticaWorld-Bold_HelpMacNet_.ttf",
               "size": 535988,
-              "sizeStr": "523 KB",
+              "sizeStr": "",
               "date": "2007-06-07 17:22",
               "isDir": false,
               "children": []
@@ -2635,7 +2635,7 @@ export const driveData = {
             {
               "name": "HelveticaWorld-Italic_HelpMacNet_.ttf",
               "size": 629936,
-              "sizeStr": "615 KB",
+              "sizeStr": "",
               "date": "2007-06-07 17:22",
               "isDir": false,
               "children": []
@@ -2643,7 +2643,7 @@ export const driveData = {
             {
               "name": "HelveticaWorld-Regular_HelpMacNet_.ttf",
               "size": 656824,
-              "sizeStr": "641 KB",
+              "sizeStr": "",
               "date": "2007-06-07 17:22",
               "isDir": false,
               "children": []
@@ -2651,7 +2651,7 @@ export const driveData = {
             {
               "name": "Herculanum.ttf",
               "size": 111468,
-              "sizeStr": "109 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -2659,7 +2659,7 @@ export const driveData = {
             {
               "name": "Hind-Bold.ttf",
               "size": 279028,
-              "sizeStr": "272 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -2667,7 +2667,7 @@ export const driveData = {
             {
               "name": "Hind-Light.ttf",
               "size": 279588,
-              "sizeStr": "273 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -2675,7 +2675,7 @@ export const driveData = {
             {
               "name": "Hind-Medium.ttf",
               "size": 269616,
-              "sizeStr": "263 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -2683,7 +2683,7 @@ export const driveData = {
             {
               "name": "Hind-Regular.ttf",
               "size": 291728,
-              "sizeStr": "285 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -2691,7 +2691,7 @@ export const driveData = {
             {
               "name": "Hind-SemiBold.ttf",
               "size": 274412,
-              "sizeStr": "268 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -2699,7 +2699,7 @@ export const driveData = {
             {
               "name": "HishamLTRegular_HelpMacNet_.ttf",
               "size": 243220,
-              "sizeStr": "238 KB",
+              "sizeStr": "",
               "date": "2007-06-07 17:22",
               "isDir": false,
               "children": []
@@ -2707,7 +2707,7 @@ export const driveData = {
             {
               "name": "Hoefler Text Ornaments.ttf",
               "size": 43380,
-              "sizeStr": "42 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -2723,7 +2723,7 @@ export const driveData = {
             {
               "name": "ITFDevanagari.ttc",
               "size": 818456,
-              "sizeStr": "799 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -2731,7 +2731,7 @@ export const driveData = {
             {
               "name": "IbarraRealNova-Medium.ttf",
               "size": 73804,
-              "sizeStr": "72 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:37",
               "isDir": false,
               "children": []
@@ -2739,7 +2739,7 @@ export const driveData = {
             {
               "name": "IbarraRealNova-Regular.ttf",
               "size": 73772,
-              "sizeStr": "72 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:37",
               "isDir": false,
               "children": []
@@ -2747,7 +2747,7 @@ export const driveData = {
             {
               "name": "Impact.ttf",
               "size": 138488,
-              "sizeStr": "135 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -2755,7 +2755,7 @@ export const driveData = {
             {
               "name": "InaiMathi-MN.ttc",
               "size": 457792,
-              "sizeStr": "447 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -2763,7 +2763,7 @@ export const driveData = {
             {
               "name": "Insan-Bold_HelpMacNet_.ttf",
               "size": 204200,
-              "sizeStr": "199 KB",
+              "sizeStr": "",
               "date": "2007-01-30 00:52",
               "isDir": false,
               "children": []
@@ -2771,7 +2771,7 @@ export const driveData = {
             {
               "name": "Insan-Regular_HelpMacNet_.ttf",
               "size": 222308,
-              "sizeStr": "217 KB",
+              "sizeStr": "",
               "date": "2007-02-14 16:26",
               "isDir": false,
               "children": []
@@ -2779,7 +2779,7 @@ export const driveData = {
             {
               "name": "Insan-Thin_HelpMacNet_.ttf",
               "size": 266588,
-              "sizeStr": "260 KB",
+              "sizeStr": "",
               "date": "2007-02-14 16:26",
               "isDir": false,
               "children": []
@@ -2787,7 +2787,7 @@ export const driveData = {
             {
               "name": "Inter-Light.ttf",
               "size": 288088,
-              "sizeStr": "281 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:37",
               "isDir": false,
               "children": []
@@ -2795,7 +2795,7 @@ export const driveData = {
             {
               "name": "Inter-SemiBold.ttf",
               "size": 293028,
-              "sizeStr": "286 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:37",
               "isDir": false,
               "children": []
@@ -2811,7 +2811,7 @@ export const driveData = {
             {
               "name": "Isra-Regular_HelpMacNet_.ttf",
               "size": 222596,
-              "sizeStr": "217 KB",
+              "sizeStr": "",
               "date": "2008-05-10 20:36",
               "isDir": false,
               "children": []
@@ -2819,7 +2819,7 @@ export const driveData = {
             {
               "name": "Isra-Thin_HelpMacNet_.ttf",
               "size": 241888,
-              "sizeStr": "236 KB",
+              "sizeStr": "",
               "date": "2008-05-10 20:36",
               "isDir": false,
               "children": []
@@ -2827,7 +2827,7 @@ export const driveData = {
             {
               "name": "ItFont-qVv0.ttf",
               "size": 25820,
-              "sizeStr": "25 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -2835,7 +2835,7 @@ export const driveData = {
             {
               "name": "JalalLTBold_HelpMacNet_.ttf",
               "size": 247668,
-              "sizeStr": "242 KB",
+              "sizeStr": "",
               "date": "2007-06-07 17:22",
               "isDir": false,
               "children": []
@@ -2843,7 +2843,7 @@ export const driveData = {
             {
               "name": "JalalLTLight_HelpMacNet_.ttf",
               "size": 255084,
-              "sizeStr": "249 KB",
+              "sizeStr": "",
               "date": "2007-06-07 17:22",
               "isDir": false,
               "children": []
@@ -2867,7 +2867,7 @@ export const driveData = {
             {
               "name": "JannaLT-Bold_HelpMacNet_.ttf",
               "size": 128364,
-              "sizeStr": "125 KB",
+              "sizeStr": "",
               "date": "2009-02-21 07:26",
               "isDir": false,
               "children": []
@@ -2875,7 +2875,7 @@ export const driveData = {
             {
               "name": "JannaLT-Regular_HelpMacNet_.ttf",
               "size": 139308,
-              "sizeStr": "136 KB",
+              "sizeStr": "",
               "date": "2009-02-21 07:26",
               "isDir": false,
               "children": []
@@ -2883,7 +2883,7 @@ export const driveData = {
             {
               "name": "JosefinSans-Thin.ttf",
               "size": 59124,
-              "sizeStr": "58 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:37",
               "isDir": false,
               "children": []
@@ -2891,7 +2891,7 @@ export const driveData = {
             {
               "name": "Jost-Regular.ttf",
               "size": 60924,
-              "sizeStr": "59 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:37",
               "isDir": false,
               "children": []
@@ -2907,7 +2907,7 @@ export const driveData = {
             {
               "name": "Kanit-Black.ttf",
               "size": 173492,
-              "sizeStr": "169 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -2915,7 +2915,7 @@ export const driveData = {
             {
               "name": "Kanit-BlackItalic.ttf",
               "size": 182076,
-              "sizeStr": "178 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -2923,7 +2923,7 @@ export const driveData = {
             {
               "name": "Kanit-Bold.ttf",
               "size": 172876,
-              "sizeStr": "169 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -2931,7 +2931,7 @@ export const driveData = {
             {
               "name": "Kanit-BoldItalic.ttf",
               "size": 180308,
-              "sizeStr": "176 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -2939,7 +2939,7 @@ export const driveData = {
             {
               "name": "Kanit-ExtraBold.ttf",
               "size": 174464,
-              "sizeStr": "170 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -2947,7 +2947,7 @@ export const driveData = {
             {
               "name": "Kanit-ExtraBoldItalic.ttf",
               "size": 184928,
-              "sizeStr": "181 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -2955,7 +2955,7 @@ export const driveData = {
             {
               "name": "Kanit-ExtraLight.ttf",
               "size": 160796,
-              "sizeStr": "157 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -2963,7 +2963,7 @@ export const driveData = {
             {
               "name": "Kanit-ExtraLightItalic.ttf",
               "size": 164908,
-              "sizeStr": "161 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -2971,7 +2971,7 @@ export const driveData = {
             {
               "name": "Kanit-Italic.ttf",
               "size": 171876,
-              "sizeStr": "168 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -2979,7 +2979,7 @@ export const driveData = {
             {
               "name": "Kanit-Light.ttf",
               "size": 168036,
-              "sizeStr": "164 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -2987,7 +2987,7 @@ export const driveData = {
             {
               "name": "Kanit-LightItalic.ttf",
               "size": 171596,
-              "sizeStr": "168 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -2995,7 +2995,7 @@ export const driveData = {
             {
               "name": "Kanit-Medium.ttf",
               "size": 171336,
-              "sizeStr": "167 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -3003,7 +3003,7 @@ export const driveData = {
             {
               "name": "Kanit-MediumItalic.ttf",
               "size": 172360,
-              "sizeStr": "168 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -3011,7 +3011,7 @@ export const driveData = {
             {
               "name": "Kanit-Regular.ttf",
               "size": 169744,
-              "sizeStr": "166 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -3019,7 +3019,7 @@ export const driveData = {
             {
               "name": "Kanit-SemiBold.ttf",
               "size": 171548,
-              "sizeStr": "168 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -3027,7 +3027,7 @@ export const driveData = {
             {
               "name": "Kanit-SemiBoldItalic.ttf",
               "size": 172244,
-              "sizeStr": "168 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -3035,7 +3035,7 @@ export const driveData = {
             {
               "name": "Kanit-Thin.ttf",
               "size": 155788,
-              "sizeStr": "152 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -3043,7 +3043,7 @@ export const driveData = {
             {
               "name": "Kanit-ThinItalic.ttf",
               "size": 161688,
-              "sizeStr": "158 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -3051,7 +3051,7 @@ export const driveData = {
             {
               "name": "Kannada MN.ttc",
               "size": 343548,
-              "sizeStr": "335 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -3059,7 +3059,7 @@ export const driveData = {
             {
               "name": "Kannada Sangam MN.ttc",
               "size": 297528,
-              "sizeStr": "291 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -3067,7 +3067,7 @@ export const driveData = {
             {
               "name": "KarimLTRegular_HelpMacNet_.ttf",
               "size": 286876,
-              "sizeStr": "280 KB",
+              "sizeStr": "",
               "date": "2007-06-07 17:22",
               "isDir": false,
               "children": []
@@ -3075,7 +3075,7 @@ export const driveData = {
             {
               "name": "Karla-ExtraBold.ttf",
               "size": 38684,
-              "sizeStr": "38 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:37",
               "isDir": false,
               "children": []
@@ -3083,7 +3083,7 @@ export const driveData = {
             {
               "name": "Kefa.ttc",
               "size": 361144,
-              "sizeStr": "353 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -3091,7 +3091,7 @@ export const driveData = {
             {
               "name": "Khand-Light.ttf",
               "size": 289216,
-              "sizeStr": "282 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:37",
               "isDir": false,
               "children": []
@@ -3099,7 +3099,7 @@ export const driveData = {
             {
               "name": "Khmer MN.ttc",
               "size": 495056,
-              "sizeStr": "483 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -3107,7 +3107,7 @@ export const driveData = {
             {
               "name": "Khmer Sangam MN.ttf",
               "size": 188048,
-              "sizeStr": "184 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -3115,7 +3115,7 @@ export const driveData = {
             {
               "name": "Kodchasan-SemiBold.ttf",
               "size": 98728,
-              "sizeStr": "96 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:37",
               "isDir": false,
               "children": []
@@ -3131,7 +3131,7 @@ export const driveData = {
             {
               "name": "KoufiyaLT-Bold_HelpMacNet_.ttf",
               "size": 173500,
-              "sizeStr": "169 KB",
+              "sizeStr": "",
               "date": "2009-06-03 09:04",
               "isDir": false,
               "children": []
@@ -3139,7 +3139,7 @@ export const driveData = {
             {
               "name": "KoufiyaLT-Regular_HelpMacNet_.ttf",
               "size": 193680,
-              "sizeStr": "189 KB",
+              "sizeStr": "",
               "date": "2009-06-03 09:04",
               "isDir": false,
               "children": []
@@ -3147,7 +3147,7 @@ export const driveData = {
             {
               "name": "Krungthep.ttf",
               "size": 190152,
-              "sizeStr": "186 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -3155,7 +3155,7 @@ export const driveData = {
             {
               "name": "KufiLTOutlineRegular_HelpMacNet_.ttf",
               "size": 308908,
-              "sizeStr": "302 KB",
+              "sizeStr": "",
               "date": "2007-06-07 17:22",
               "isDir": false,
               "children": []
@@ -3163,7 +3163,7 @@ export const driveData = {
             {
               "name": "KufiLTRegular_HelpMacNet_.ttf",
               "size": 208412,
-              "sizeStr": "204 KB",
+              "sizeStr": "",
               "date": "2007-06-07 17:22",
               "isDir": false,
               "children": []
@@ -3171,7 +3171,7 @@ export const driveData = {
             {
               "name": "KufiStandardGK.ttc",
               "size": 57728,
-              "sizeStr": "56 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -3179,7 +3179,7 @@ export const driveData = {
             {
               "name": "LADYC___.ttf",
               "size": 33116,
-              "sizeStr": "32 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:37",
               "isDir": false,
               "children": []
@@ -3187,7 +3187,7 @@ export const driveData = {
             {
               "name": "Lakers Regular.otf",
               "size": 35204,
-              "sizeStr": "34 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:37",
               "isDir": false,
               "children": []
@@ -3195,7 +3195,7 @@ export const driveData = {
             {
               "name": "Lao MN.ttc",
               "size": 96348,
-              "sizeStr": "94 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -3203,7 +3203,7 @@ export const driveData = {
             {
               "name": "Lao Sangam MN.ttf",
               "size": 58092,
-              "sizeStr": "57 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -3211,7 +3211,7 @@ export const driveData = {
             {
               "name": "Lato-Black.ttf",
               "size": 69484,
-              "sizeStr": "68 KB",
+              "sizeStr": "",
               "date": "2020-11-19 11:04",
               "isDir": false,
               "children": []
@@ -3219,7 +3219,7 @@ export const driveData = {
             {
               "name": "Lato-BlackItalic.ttf",
               "size": 71948,
-              "sizeStr": "70 KB",
+              "sizeStr": "",
               "date": "2020-11-19 11:04",
               "isDir": false,
               "children": []
@@ -3227,7 +3227,7 @@ export const driveData = {
             {
               "name": "Lato-Bold.ttf",
               "size": 73316,
-              "sizeStr": "72 KB",
+              "sizeStr": "",
               "date": "2022-01-19 14:52",
               "isDir": false,
               "children": []
@@ -3235,7 +3235,7 @@ export const driveData = {
             {
               "name": "Lato-BoldItalic.ttf",
               "size": 77680,
-              "sizeStr": "76 KB",
+              "sizeStr": "",
               "date": "2020-11-19 11:04",
               "isDir": false,
               "children": []
@@ -3243,7 +3243,7 @@ export const driveData = {
             {
               "name": "Lato-Italic.ttf",
               "size": 75744,
-              "sizeStr": "74 KB",
+              "sizeStr": "",
               "date": "2020-11-19 11:04",
               "isDir": false,
               "children": []
@@ -3251,7 +3251,7 @@ export const driveData = {
             {
               "name": "Lato-Light.ttf",
               "size": 77192,
-              "sizeStr": "75 KB",
+              "sizeStr": "",
               "date": "2022-01-19 14:52",
               "isDir": false,
               "children": []
@@ -3259,7 +3259,7 @@ export const driveData = {
             {
               "name": "Lato-LightItalic.ttf",
               "size": 49064,
-              "sizeStr": "48 KB",
+              "sizeStr": "",
               "date": "2020-11-19 11:04",
               "isDir": false,
               "children": []
@@ -3267,7 +3267,7 @@ export const driveData = {
             {
               "name": "Lato-Regular.ttf",
               "size": 75136,
-              "sizeStr": "73 KB",
+              "sizeStr": "",
               "date": "2022-01-19 14:52",
               "isDir": false,
               "children": []
@@ -3275,7 +3275,7 @@ export const driveData = {
             {
               "name": "Lato-Thin.ttf",
               "size": 69968,
-              "sizeStr": "68 KB",
+              "sizeStr": "",
               "date": "2020-11-19 11:04",
               "isDir": false,
               "children": []
@@ -3283,7 +3283,7 @@ export const driveData = {
             {
               "name": "Lato-ThinItalic.ttf",
               "size": 48848,
-              "sizeStr": "48 KB",
+              "sizeStr": "",
               "date": "2020-11-19 11:04",
               "isDir": false,
               "children": []
@@ -3291,7 +3291,7 @@ export const driveData = {
             {
               "name": "LibreCaslonText-Bold.ttf",
               "size": 91056,
-              "sizeStr": "89 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -3299,7 +3299,7 @@ export const driveData = {
             {
               "name": "LibreCaslonText-Italic.ttf",
               "size": 100292,
-              "sizeStr": "98 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -3307,7 +3307,7 @@ export const driveData = {
             {
               "name": "LibreCaslonText-Regular.ttf",
               "size": 91220,
-              "sizeStr": "89 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -3315,7 +3315,7 @@ export const driveData = {
             {
               "name": "Lora-Bold.ttf",
               "size": 193268,
-              "sizeStr": "189 KB",
+              "sizeStr": "",
               "date": "2020-11-19 11:04",
               "isDir": false,
               "children": []
@@ -3323,7 +3323,7 @@ export const driveData = {
             {
               "name": "Lora-BoldItalic.ttf",
               "size": 179928,
-              "sizeStr": "176 KB",
+              "sizeStr": "",
               "date": "2020-11-19 11:04",
               "isDir": false,
               "children": []
@@ -3331,7 +3331,7 @@ export const driveData = {
             {
               "name": "Lora-Italic.ttf",
               "size": 174772,
-              "sizeStr": "171 KB",
+              "sizeStr": "",
               "date": "2020-11-19 11:04",
               "isDir": false,
               "children": []
@@ -3339,7 +3339,7 @@ export const driveData = {
             {
               "name": "Lora-Regular.ttf",
               "size": 173616,
-              "sizeStr": "170 KB",
+              "sizeStr": "",
               "date": "2020-11-19 11:04",
               "isDir": false,
               "children": []
@@ -3347,7 +3347,7 @@ export const driveData = {
             {
               "name": "Lotus-Bold_HelpMacNet_.ttf",
               "size": 131524,
-              "sizeStr": "128 KB",
+              "sizeStr": "",
               "date": "2007-06-07 17:22",
               "isDir": false,
               "children": []
@@ -3355,7 +3355,7 @@ export const driveData = {
             {
               "name": "Lotus-Light_HelpMacNet_.ttf",
               "size": 150736,
-              "sizeStr": "147 KB",
+              "sizeStr": "",
               "date": "2007-06-07 17:22",
               "isDir": false,
               "children": []
@@ -3363,7 +3363,7 @@ export const driveData = {
             {
               "name": "Luminari.ttf",
               "size": 558352,
-              "sizeStr": "545 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -3371,7 +3371,7 @@ export const driveData = {
             {
               "name": "MADE Likes Slab.otf",
               "size": 66416,
-              "sizeStr": "65 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:37",
               "isDir": false,
               "children": []
@@ -3379,7 +3379,7 @@ export const driveData = {
             {
               "name": "MYSTP___.TTF",
               "size": 31588,
-              "sizeStr": "31 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -3387,7 +3387,7 @@ export const driveData = {
             {
               "name": "MagedLTBold_HelpMacNet_.ttf",
               "size": 244164,
-              "sizeStr": "238 KB",
+              "sizeStr": "",
               "date": "2007-06-07 17:22",
               "isDir": false,
               "children": []
@@ -3395,7 +3395,7 @@ export const driveData = {
             {
               "name": "MagedLTRegular_HelpMacNet_.ttf",
               "size": 280640,
-              "sizeStr": "274 KB",
+              "sizeStr": "",
               "date": "2007-06-07 17:22",
               "isDir": false,
               "children": []
@@ -3403,7 +3403,7 @@ export const driveData = {
             {
               "name": "Malayalam MN.ttc",
               "size": 174756,
-              "sizeStr": "171 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -3411,7 +3411,7 @@ export const driveData = {
             {
               "name": "Malayalam Sangam MN.ttc",
               "size": 184960,
-              "sizeStr": "181 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -3419,7 +3419,7 @@ export const driveData = {
             {
               "name": "MarcellusSC-Regular.ttf",
               "size": 45056,
-              "sizeStr": "44 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:37",
               "isDir": false,
               "children": []
@@ -3427,7 +3427,7 @@ export const driveData = {
             {
               "name": "Mariam_HelpMacNet_.ttf",
               "size": 106384,
-              "sizeStr": "104 KB",
+              "sizeStr": "",
               "date": "2007-06-07 07:22",
               "isDir": false,
               "children": []
@@ -3435,7 +3435,7 @@ export const driveData = {
             {
               "name": "Marion.ttc",
               "size": 928940,
-              "sizeStr": "907 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -3443,7 +3443,7 @@ export const driveData = {
             {
               "name": "MavenPro-Bold.ttf",
               "size": 57812,
-              "sizeStr": "56 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:37",
               "isDir": false,
               "children": []
@@ -3451,7 +3451,7 @@ export const driveData = {
             {
               "name": "MavenPro-Regular.ttf",
               "size": 57504,
-              "sizeStr": "56 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:37",
               "isDir": false,
               "children": []
@@ -3459,7 +3459,7 @@ export const driveData = {
             {
               "name": "Megrim-Regular.ttf",
               "size": 55272,
-              "sizeStr": "54 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:37",
               "isDir": false,
               "children": []
@@ -3467,7 +3467,7 @@ export const driveData = {
             {
               "name": "Merriweather-Black.ttf",
               "size": 141624,
-              "sizeStr": "138 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -3475,7 +3475,7 @@ export const driveData = {
             {
               "name": "Merriweather-BlackItalic.ttf",
               "size": 142520,
-              "sizeStr": "139 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -3483,7 +3483,7 @@ export const driveData = {
             {
               "name": "Merriweather-Bold.ttf",
               "size": 141964,
-              "sizeStr": "139 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -3491,7 +3491,7 @@ export const driveData = {
             {
               "name": "Merriweather-BoldItalic.ttf",
               "size": 143736,
-              "sizeStr": "140 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -3499,7 +3499,7 @@ export const driveData = {
             {
               "name": "Merriweather-Italic.ttf",
               "size": 142548,
-              "sizeStr": "139 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -3507,7 +3507,7 @@ export const driveData = {
             {
               "name": "Merriweather-Light.ttf",
               "size": 148100,
-              "sizeStr": "145 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -3515,7 +3515,7 @@ export const driveData = {
             {
               "name": "Merriweather-LightItalic.ttf",
               "size": 141956,
-              "sizeStr": "139 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -3523,7 +3523,7 @@ export const driveData = {
             {
               "name": "Merriweather-Regular.ttf",
               "size": 149092,
-              "sizeStr": "146 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -3531,7 +3531,7 @@ export const driveData = {
             {
               "name": "Michroma-Regular.ttf",
               "size": 58528,
-              "sizeStr": "57 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:37",
               "isDir": false,
               "children": []
@@ -3539,7 +3539,7 @@ export const driveData = {
             {
               "name": "Microsoft Sans Serif.ttf",
               "size": 652248,
-              "sizeStr": "637 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -3547,7 +3547,7 @@ export const driveData = {
             {
               "name": "Midan_HelpMacNet_.ttf",
               "size": 259836,
-              "sizeStr": "254 KB",
+              "sizeStr": "",
               "date": "2009-06-02 20:04",
               "isDir": false,
               "children": []
@@ -3555,7 +3555,7 @@ export const driveData = {
             {
               "name": "Mikhak-Light-1.ttf",
               "size": 82896,
-              "sizeStr": "81 KB",
+              "sizeStr": "",
               "date": "2020-03-10 00:08",
               "isDir": false,
               "children": []
@@ -3563,7 +3563,7 @@ export const driveData = {
             {
               "name": "Mishafi Gold.ttf",
               "size": 649384,
-              "sizeStr": "634 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -3579,7 +3579,7 @@ export const driveData = {
             {
               "name": "MitraLTBold_HelpMacNet_.ttf",
               "size": 268240,
-              "sizeStr": "262 KB",
+              "sizeStr": "",
               "date": "2007-06-07 17:22",
               "isDir": false,
               "children": []
@@ -3587,7 +3587,7 @@ export const driveData = {
             {
               "name": "MitraLTLight_HelpMacNet_.ttf",
               "size": 261780,
-              "sizeStr": "256 KB",
+              "sizeStr": "",
               "date": "2007-06-07 17:22",
               "isDir": false,
               "children": []
@@ -3595,7 +3595,7 @@ export const driveData = {
             {
               "name": "MofidMahdiLTRegular_HelpMacNet_.ttf",
               "size": 182556,
-              "sizeStr": "178 KB",
+              "sizeStr": "",
               "date": "2007-06-07 17:22",
               "isDir": false,
               "children": []
@@ -3603,7 +3603,7 @@ export const driveData = {
             {
               "name": "Molot.otf",
               "size": 11900,
-              "sizeStr": "12 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -3611,7 +3611,7 @@ export const driveData = {
             {
               "name": "Monda-Bold.ttf",
               "size": 159596,
-              "sizeStr": "156 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:37",
               "isDir": false,
               "children": []
@@ -3619,7 +3619,7 @@ export const driveData = {
             {
               "name": "Montserrat-Black.ttf",
               "size": 257552,
-              "sizeStr": "252 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -3627,7 +3627,7 @@ export const driveData = {
             {
               "name": "Montserrat-BlackItalic.ttf",
               "size": 261732,
-              "sizeStr": "256 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -3635,7 +3635,7 @@ export const driveData = {
             {
               "name": "Montserrat-Bold.ttf",
               "size": 244468,
-              "sizeStr": "239 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -3643,7 +3643,7 @@ export const driveData = {
             {
               "name": "Montserrat-BoldItalic.ttf",
               "size": 249556,
-              "sizeStr": "244 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -3651,7 +3651,7 @@ export const driveData = {
             {
               "name": "Montserrat-ExtraBold.ttf",
               "size": 244868,
-              "sizeStr": "239 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -3659,7 +3659,7 @@ export const driveData = {
             {
               "name": "Montserrat-ExtraBoldItalic.ttf",
               "size": 249776,
-              "sizeStr": "244 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -3667,7 +3667,7 @@ export const driveData = {
             {
               "name": "Montserrat-ExtraLight.ttf",
               "size": 242128,
-              "sizeStr": "236 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -3675,7 +3675,7 @@ export const driveData = {
             {
               "name": "Montserrat-ExtraLightItalic.ttf",
               "size": 246176,
-              "sizeStr": "240 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -3683,7 +3683,7 @@ export const driveData = {
             {
               "name": "Montserrat-Italic.ttf",
               "size": 249088,
-              "sizeStr": "243 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -3691,7 +3691,7 @@ export const driveData = {
             {
               "name": "Montserrat-Light.ttf",
               "size": 242068,
-              "sizeStr": "236 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -3699,7 +3699,7 @@ export const driveData = {
             {
               "name": "Montserrat-LightItalic.ttf",
               "size": 246276,
-              "sizeStr": "241 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -3707,7 +3707,7 @@ export const driveData = {
             {
               "name": "Montserrat-Medium.ttf",
               "size": 243180,
-              "sizeStr": "237 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -3715,7 +3715,7 @@ export const driveData = {
             {
               "name": "Montserrat-MediumItalic.ttf",
               "size": 248044,
-              "sizeStr": "242 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -3723,7 +3723,7 @@ export const driveData = {
             {
               "name": "Montserrat-Regular.ttf",
               "size": 245708,
-              "sizeStr": "240 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -3731,7 +3731,7 @@ export const driveData = {
             {
               "name": "Montserrat-SemiBold.ttf",
               "size": 243816,
-              "sizeStr": "238 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -3739,7 +3739,7 @@ export const driveData = {
             {
               "name": "Montserrat-SemiBoldItalic.ttf",
               "size": 249192,
-              "sizeStr": "243 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -3747,7 +3747,7 @@ export const driveData = {
             {
               "name": "Montserrat-Thin.ttf",
               "size": 241436,
-              "sizeStr": "236 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -3755,7 +3755,7 @@ export const driveData = {
             {
               "name": "Montserrat-ThinItalic.ttf",
               "size": 245372,
-              "sizeStr": "240 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -3763,7 +3763,7 @@ export const driveData = {
             {
               "name": "Motken K Nasim.ttf",
               "size": 64196,
-              "sizeStr": "63 KB",
+              "sizeStr": "",
               "date": "2013-09-20 08:05",
               "isDir": false,
               "children": []
@@ -3771,7 +3771,7 @@ export const driveData = {
             {
               "name": "Mshtakan.ttc",
               "size": 176224,
-              "sizeStr": "172 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -3779,7 +3779,7 @@ export const driveData = {
             {
               "name": "Muna.ttc",
               "size": 207352,
-              "sizeStr": "202 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -3787,7 +3787,7 @@ export const driveData = {
             {
               "name": "Myanmar MN.ttc",
               "size": 242060,
-              "sizeStr": "236 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -3795,7 +3795,7 @@ export const driveData = {
             {
               "name": "Myanmar Sangam MN.ttc",
               "size": 193720,
-              "sizeStr": "189 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -3811,7 +3811,7 @@ export const driveData = {
             {
               "name": "Nadeem.ttc",
               "size": 62228,
-              "sizeStr": "61 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -3827,7 +3827,7 @@ export const driveData = {
             {
               "name": "NazaninLTBold_HelpMacNet_.ttf",
               "size": 242676,
-              "sizeStr": "237 KB",
+              "sizeStr": "",
               "date": "2007-06-07 17:22",
               "isDir": false,
               "children": []
@@ -3835,7 +3835,7 @@ export const driveData = {
             {
               "name": "NazaninLTLight_HelpMacNet_.ttf",
               "size": 251960,
-              "sizeStr": "246 KB",
+              "sizeStr": "",
               "date": "2007-06-07 17:22",
               "isDir": false,
               "children": []
@@ -3843,7 +3843,7 @@ export const driveData = {
             {
               "name": "Neckar-Font-Regular.ttf",
               "size": 41268,
-              "sizeStr": "40 KB",
+              "sizeStr": "",
               "date": "2020-03-10 00:14",
               "isDir": false,
               "children": []
@@ -3851,7 +3851,7 @@ export const driveData = {
             {
               "name": "New Stencil tfb.ttf",
               "size": 11256,
-              "sizeStr": "11 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:37",
               "isDir": false,
               "children": []
@@ -3859,7 +3859,7 @@ export const driveData = {
             {
               "name": "NewPeninimMT.ttc",
               "size": 157392,
-              "sizeStr": "154 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -3867,7 +3867,7 @@ export const driveData = {
             {
               "name": "NotoSansAdlam-Regular.ttf",
               "size": 61236,
-              "sizeStr": "60 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -3875,7 +3875,7 @@ export const driveData = {
             {
               "name": "NotoSansAvestan-Regular.ttf",
               "size": 12888,
-              "sizeStr": "13 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -3883,7 +3883,7 @@ export const driveData = {
             {
               "name": "NotoSansBamum-Regular.ttf",
               "size": 148664,
-              "sizeStr": "145 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -3891,7 +3891,7 @@ export const driveData = {
             {
               "name": "NotoSansBassaVah-Regular.ttf",
               "size": 7740,
-              "sizeStr": "8 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -3899,7 +3899,7 @@ export const driveData = {
             {
               "name": "NotoSansBatak-Regular.ttf",
               "size": 22084,
-              "sizeStr": "22 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -3907,7 +3907,7 @@ export const driveData = {
             {
               "name": "NotoSansBhaiksuki-Regular.ttf",
               "size": 220044,
-              "sizeStr": "215 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -3915,7 +3915,7 @@ export const driveData = {
             {
               "name": "NotoSansBrahmi-Regular.ttf",
               "size": 39428,
-              "sizeStr": "39 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -3923,7 +3923,7 @@ export const driveData = {
             {
               "name": "NotoSansBuginese-Regular.ttf",
               "size": 7236,
-              "sizeStr": "7 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -3931,7 +3931,7 @@ export const driveData = {
             {
               "name": "NotoSansBuhid-Regular.ttf",
               "size": 5612,
-              "sizeStr": "5 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -3939,7 +3939,7 @@ export const driveData = {
             {
               "name": "NotoSansCanadianAboriginal-Regular.otf",
               "size": 41468,
-              "sizeStr": "40 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -3947,7 +3947,7 @@ export const driveData = {
             {
               "name": "NotoSansCarian-Regular.ttf",
               "size": 6688,
-              "sizeStr": "7 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -3955,7 +3955,7 @@ export const driveData = {
             {
               "name": "NotoSansCaucasianAlbanian-Regular.ttf",
               "size": 26828,
-              "sizeStr": "26 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -3963,7 +3963,7 @@ export const driveData = {
             {
               "name": "NotoSansChakma-Regular.ttf",
               "size": 41592,
-              "sizeStr": "41 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -3971,7 +3971,7 @@ export const driveData = {
             {
               "name": "NotoSansCham-Regular.ttf",
               "size": 30208,
-              "sizeStr": "30 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -3979,7 +3979,7 @@ export const driveData = {
             {
               "name": "NotoSansCoptic-Regular.ttf",
               "size": 28084,
-              "sizeStr": "27 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -3987,7 +3987,7 @@ export const driveData = {
             {
               "name": "NotoSansCuneiform-Regular.ttf",
               "size": 820316,
-              "sizeStr": "801 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -3995,7 +3995,7 @@ export const driveData = {
             {
               "name": "NotoSansCypriot-Regular.ttf",
               "size": 8332,
-              "sizeStr": "8 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4003,7 +4003,7 @@ export const driveData = {
             {
               "name": "NotoSansDuployan-Regular.ttf",
               "size": 18724,
-              "sizeStr": "18 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4011,7 +4011,7 @@ export const driveData = {
             {
               "name": "NotoSansEgyptianHieroglyphs-Regular.ttf",
               "size": 585444,
-              "sizeStr": "572 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4019,7 +4019,7 @@ export const driveData = {
             {
               "name": "NotoSansElbasan-Regular.ttf",
               "size": 11172,
-              "sizeStr": "11 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4027,7 +4027,7 @@ export const driveData = {
             {
               "name": "NotoSansGlagolitic-Regular.ttf",
               "size": 23264,
-              "sizeStr": "23 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4035,7 +4035,7 @@ export const driveData = {
             {
               "name": "NotoSansGothic-Regular.ttf",
               "size": 6152,
-              "sizeStr": "6 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4043,7 +4043,7 @@ export const driveData = {
             {
               "name": "NotoSansGunjalaGondi-Regular.otf",
               "size": 32372,
-              "sizeStr": "32 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4051,7 +4051,7 @@ export const driveData = {
             {
               "name": "NotoSansHanifiRohingya-Regular.ttf",
               "size": 19400,
-              "sizeStr": "19 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4059,7 +4059,7 @@ export const driveData = {
             {
               "name": "NotoSansHanunoo-Regular.ttf",
               "size": 7896,
-              "sizeStr": "8 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4067,7 +4067,7 @@ export const driveData = {
             {
               "name": "NotoSansHatran-Regular.ttf",
               "size": 5020,
-              "sizeStr": "5 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4075,7 +4075,7 @@ export const driveData = {
             {
               "name": "NotoSansImperialAramaic-Regular.ttf",
               "size": 6500,
-              "sizeStr": "6 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4083,7 +4083,7 @@ export const driveData = {
             {
               "name": "NotoSansInscriptionalPahlavi-Regular.ttf",
               "size": 6032,
-              "sizeStr": "6 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4091,7 +4091,7 @@ export const driveData = {
             {
               "name": "NotoSansInscriptionalParthian-Regular.ttf",
               "size": 7792,
-              "sizeStr": "8 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4099,7 +4099,7 @@ export const driveData = {
             {
               "name": "NotoSansJavanese-Regular.otf",
               "size": 86944,
-              "sizeStr": "85 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4107,7 +4107,7 @@ export const driveData = {
             {
               "name": "NotoSansKaithi-Regular.ttf",
               "size": 62716,
-              "sizeStr": "61 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4115,7 +4115,7 @@ export const driveData = {
             {
               "name": "NotoSansKayahLi-Regular.ttf",
               "size": 9464,
-              "sizeStr": "9 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4123,7 +4123,7 @@ export const driveData = {
             {
               "name": "NotoSansKharoshthi-Regular.ttf",
               "size": 25388,
-              "sizeStr": "25 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4131,7 +4131,7 @@ export const driveData = {
             {
               "name": "NotoSansKhojki-Regular.ttf",
               "size": 42632,
-              "sizeStr": "42 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4139,7 +4139,7 @@ export const driveData = {
             {
               "name": "NotoSansKhudawadi-Regular.ttf",
               "size": 19032,
-              "sizeStr": "19 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4147,7 +4147,7 @@ export const driveData = {
             {
               "name": "NotoSansLepcha-Regular.ttf",
               "size": 24500,
-              "sizeStr": "24 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4155,7 +4155,7 @@ export const driveData = {
             {
               "name": "NotoSansLimbu-Regular.ttf",
               "size": 12912,
-              "sizeStr": "13 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4163,7 +4163,7 @@ export const driveData = {
             {
               "name": "NotoSansLinearA-Regular.ttf",
               "size": 58140,
-              "sizeStr": "57 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4171,7 +4171,7 @@ export const driveData = {
             {
               "name": "NotoSansLinearB-Regular.ttf",
               "size": 64828,
-              "sizeStr": "63 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4179,7 +4179,7 @@ export const driveData = {
             {
               "name": "NotoSansLisu-Regular.ttf",
               "size": 6516,
-              "sizeStr": "6 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4187,7 +4187,7 @@ export const driveData = {
             {
               "name": "NotoSansLycian-Regular.ttf",
               "size": 4556,
-              "sizeStr": "4 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4195,7 +4195,7 @@ export const driveData = {
             {
               "name": "NotoSansLydian-Regular.ttf",
               "size": 4592,
-              "sizeStr": "4 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4203,7 +4203,7 @@ export const driveData = {
             {
               "name": "NotoSansMahajani-Regular.ttf",
               "size": 14144,
-              "sizeStr": "14 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4211,7 +4211,7 @@ export const driveData = {
             {
               "name": "NotoSansMandaic-Regular.ttf",
               "size": 18908,
-              "sizeStr": "18 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4219,7 +4219,7 @@ export const driveData = {
             {
               "name": "NotoSansManichaean-Regular.ttf",
               "size": 31448,
-              "sizeStr": "31 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4227,7 +4227,7 @@ export const driveData = {
             {
               "name": "NotoSansMarchen-Regular.ttf",
               "size": 125956,
-              "sizeStr": "123 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4235,7 +4235,7 @@ export const driveData = {
             {
               "name": "NotoSansMasaramGondi-Regular.otf",
               "size": 23052,
-              "sizeStr": "23 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4243,7 +4243,7 @@ export const driveData = {
             {
               "name": "NotoSansMeeteiMayek-Regular.ttf",
               "size": 16044,
-              "sizeStr": "16 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4251,7 +4251,7 @@ export const driveData = {
             {
               "name": "NotoSansMendeKikakui-Regular.ttf",
               "size": 35360,
-              "sizeStr": "35 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4259,7 +4259,7 @@ export const driveData = {
             {
               "name": "NotoSansMeroitic-Regular.ttf",
               "size": 33644,
-              "sizeStr": "33 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4267,7 +4267,7 @@ export const driveData = {
             {
               "name": "NotoSansMiao-Regular.ttf",
               "size": 36236,
-              "sizeStr": "35 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4275,7 +4275,7 @@ export const driveData = {
             {
               "name": "NotoSansModi-Regular.ttf",
               "size": 42688,
-              "sizeStr": "42 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4283,7 +4283,7 @@ export const driveData = {
             {
               "name": "NotoSansMongolian-Regular.ttf",
               "size": 253932,
-              "sizeStr": "248 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4291,7 +4291,7 @@ export const driveData = {
             {
               "name": "NotoSansMro-Regular.ttf",
               "size": 6904,
-              "sizeStr": "7 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4299,7 +4299,7 @@ export const driveData = {
             {
               "name": "NotoSansMultani-Regular.ttf",
               "size": 9856,
-              "sizeStr": "10 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4307,7 +4307,7 @@ export const driveData = {
             {
               "name": "NotoSansNKo-Regular.ttf",
               "size": 24608,
-              "sizeStr": "24 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4315,7 +4315,7 @@ export const driveData = {
             {
               "name": "NotoSansNabataean-Regular.ttf",
               "size": 8400,
-              "sizeStr": "8 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4323,7 +4323,7 @@ export const driveData = {
             {
               "name": "NotoSansNewTaiLue-Regular.ttf",
               "size": 17000,
-              "sizeStr": "17 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4331,7 +4331,7 @@ export const driveData = {
             {
               "name": "NotoSansNewa-Regular.ttf",
               "size": 149024,
-              "sizeStr": "146 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4339,7 +4339,7 @@ export const driveData = {
             {
               "name": "NotoSansOlChiki-Regular.ttf",
               "size": 8860,
-              "sizeStr": "9 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4347,7 +4347,7 @@ export const driveData = {
             {
               "name": "NotoSansOldHungarian-Regular.ttf",
               "size": 54020,
-              "sizeStr": "53 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4355,7 +4355,7 @@ export const driveData = {
             {
               "name": "NotoSansOldItalic-Regular.ttf",
               "size": 7524,
-              "sizeStr": "7 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4363,7 +4363,7 @@ export const driveData = {
             {
               "name": "NotoSansOldNorthArabian-Regular.ttf",
               "size": 7284,
-              "sizeStr": "7 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4371,7 +4371,7 @@ export const driveData = {
             {
               "name": "NotoSansOldPermic-Regular.ttf",
               "size": 9984,
-              "sizeStr": "10 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4379,7 +4379,7 @@ export const driveData = {
             {
               "name": "NotoSansOldPersian-Regular.ttf",
               "size": 13180,
-              "sizeStr": "13 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4387,7 +4387,7 @@ export const driveData = {
             {
               "name": "NotoSansOldSouthArabian-Regular.ttf",
               "size": 5232,
-              "sizeStr": "5 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4395,7 +4395,7 @@ export const driveData = {
             {
               "name": "NotoSansOldTurkic-Regular.ttf",
               "size": 8372,
-              "sizeStr": "8 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4403,7 +4403,7 @@ export const driveData = {
             {
               "name": "NotoSansOsage-Regular.ttf",
               "size": 12512,
-              "sizeStr": "12 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4411,7 +4411,7 @@ export const driveData = {
             {
               "name": "NotoSansOsmanya-Regular.ttf",
               "size": 8604,
-              "sizeStr": "8 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4419,7 +4419,7 @@ export const driveData = {
             {
               "name": "NotoSansPahawhHmong-Regular.ttf",
               "size": 18272,
-              "sizeStr": "18 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4427,7 +4427,7 @@ export const driveData = {
             {
               "name": "NotoSansPalmyrene-Regular.ttf",
               "size": 15684,
-              "sizeStr": "15 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4435,7 +4435,7 @@ export const driveData = {
             {
               "name": "NotoSansPauCinHau-Regular.ttf",
               "size": 9816,
-              "sizeStr": "10 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4443,7 +4443,7 @@ export const driveData = {
             {
               "name": "NotoSansPhagsPa-Regular.ttf",
               "size": 34176,
-              "sizeStr": "33 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4451,7 +4451,7 @@ export const driveData = {
             {
               "name": "NotoSansPhoenician-Regular.ttf",
               "size": 6252,
-              "sizeStr": "6 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4459,7 +4459,7 @@ export const driveData = {
             {
               "name": "NotoSansPsalterPahlavi-Regular.ttf",
               "size": 21676,
-              "sizeStr": "21 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4467,7 +4467,7 @@ export const driveData = {
             {
               "name": "NotoSansRejang-Regular.ttf",
               "size": 7620,
-              "sizeStr": "7 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4475,7 +4475,7 @@ export const driveData = {
             {
               "name": "NotoSansSamaritan-Regular.ttf",
               "size": 11164,
-              "sizeStr": "11 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4483,7 +4483,7 @@ export const driveData = {
             {
               "name": "NotoSansSaurashtra-Regular.ttf",
               "size": 19792,
-              "sizeStr": "19 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4491,7 +4491,7 @@ export const driveData = {
             {
               "name": "NotoSansSharada-Regular.ttf",
               "size": 44108,
-              "sizeStr": "43 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4499,7 +4499,7 @@ export const driveData = {
             {
               "name": "NotoSansSiddham-Regular.otf",
               "size": 94408,
-              "sizeStr": "92 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4507,7 +4507,7 @@ export const driveData = {
             {
               "name": "NotoSansSoraSompeng-Regular.ttf",
               "size": 8108,
-              "sizeStr": "8 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4515,7 +4515,7 @@ export const driveData = {
             {
               "name": "NotoSansSundanese-Regular.ttf",
               "size": 11512,
-              "sizeStr": "11 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4523,7 +4523,7 @@ export const driveData = {
             {
               "name": "NotoSansSylotiNagri-Regular.ttf",
               "size": 16576,
-              "sizeStr": "16 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4531,7 +4531,7 @@ export const driveData = {
             {
               "name": "NotoSansSyriac-Regular.ttf",
               "size": 115268,
-              "sizeStr": "113 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4539,7 +4539,7 @@ export const driveData = {
             {
               "name": "NotoSansTagalog-Regular.ttf",
               "size": 7012,
-              "sizeStr": "7 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4547,7 +4547,7 @@ export const driveData = {
             {
               "name": "NotoSansTagbanwa-Regular.ttf",
               "size": 6648,
-              "sizeStr": "6 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4555,7 +4555,7 @@ export const driveData = {
             {
               "name": "NotoSansTaiLe-Regular.ttf",
               "size": 12072,
-              "sizeStr": "12 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4563,7 +4563,7 @@ export const driveData = {
             {
               "name": "NotoSansTaiTham-Regular.ttf",
               "size": 51040,
-              "sizeStr": "50 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4571,7 +4571,7 @@ export const driveData = {
             {
               "name": "NotoSansTaiViet-Regular.ttf",
               "size": 18220,
-              "sizeStr": "18 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4579,7 +4579,7 @@ export const driveData = {
             {
               "name": "NotoSansTakri-Regular.ttf",
               "size": 16652,
-              "sizeStr": "16 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4587,7 +4587,7 @@ export const driveData = {
             {
               "name": "NotoSansThaana-Regular.ttf",
               "size": 18792,
-              "sizeStr": "18 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4595,7 +4595,7 @@ export const driveData = {
             {
               "name": "NotoSansTifinagh-Regular.otf",
               "size": 24956,
-              "sizeStr": "24 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4603,7 +4603,7 @@ export const driveData = {
             {
               "name": "NotoSansTirhuta-Regular.ttf",
               "size": 69944,
-              "sizeStr": "68 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4611,7 +4611,7 @@ export const driveData = {
             {
               "name": "NotoSansUgaritic-Regular.ttf",
               "size": 7656,
-              "sizeStr": "7 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4619,7 +4619,7 @@ export const driveData = {
             {
               "name": "NotoSansVai-Regular.ttf",
               "size": 57764,
-              "sizeStr": "56 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4627,7 +4627,7 @@ export const driveData = {
             {
               "name": "NotoSansWancho-Regular.ttf",
               "size": 17992,
-              "sizeStr": "18 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4635,7 +4635,7 @@ export const driveData = {
             {
               "name": "NotoSansWarangCiti-Regular.ttf",
               "size": 25304,
-              "sizeStr": "25 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4643,7 +4643,7 @@ export const driveData = {
             {
               "name": "NotoSansYi-Regular.ttf",
               "size": 134064,
-              "sizeStr": "131 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4651,7 +4651,7 @@ export const driveData = {
             {
               "name": "NotoSerifAhom-Regular.ttf",
               "size": 19512,
-              "sizeStr": "19 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4659,7 +4659,7 @@ export const driveData = {
             {
               "name": "NotoSerifBalinese-Regular.ttf",
               "size": 51264,
-              "sizeStr": "50 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4667,7 +4667,7 @@ export const driveData = {
             {
               "name": "NotoSerifNyiakengPuachueHmong-Regular.ttf",
               "size": 14888,
-              "sizeStr": "15 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4675,7 +4675,7 @@ export const driveData = {
             {
               "name": "NotoSerifYezidi-Regular.otf",
               "size": 8664,
-              "sizeStr": "8 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4683,7 +4683,7 @@ export const driveData = {
             {
               "name": "Nunito-Regular.ttf",
               "size": 152932,
-              "sizeStr": "149 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:37",
               "isDir": false,
               "children": []
@@ -4691,7 +4691,7 @@ export const driveData = {
             {
               "name": "OpenSans-Bold.ttf",
               "size": 104120,
-              "sizeStr": "102 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -4699,7 +4699,7 @@ export const driveData = {
             {
               "name": "OpenSans-BoldItalic.ttf",
               "size": 92628,
-              "sizeStr": "90 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -4707,7 +4707,7 @@ export const driveData = {
             {
               "name": "OpenSans-ExtraBold.ttf",
               "size": 102076,
-              "sizeStr": "100 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -4715,7 +4715,7 @@ export const driveData = {
             {
               "name": "OpenSans-ExtraBoldItalic.ttf",
               "size": 92772,
-              "sizeStr": "91 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -4723,7 +4723,7 @@ export const driveData = {
             {
               "name": "OpenSans-Italic.ttf",
               "size": 92240,
-              "sizeStr": "90 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -4731,7 +4731,7 @@ export const driveData = {
             {
               "name": "OpenSans-Light.ttf",
               "size": 101696,
-              "sizeStr": "99 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -4739,7 +4739,7 @@ export const driveData = {
             {
               "name": "OpenSans-LightItalic.ttf",
               "size": 92488,
-              "sizeStr": "90 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -4747,7 +4747,7 @@ export const driveData = {
             {
               "name": "OpenSans-Regular.ttf",
               "size": 96932,
-              "sizeStr": "95 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -4755,7 +4755,7 @@ export const driveData = {
             {
               "name": "OpenSans-SemiBold.ttf",
               "size": 100820,
-              "sizeStr": "98 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -4763,7 +4763,7 @@ export const driveData = {
             {
               "name": "OpenSans-SemiBoldItalic.ttf",
               "size": 92180,
-              "sizeStr": "90 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -4771,7 +4771,7 @@ export const driveData = {
             {
               "name": "Oriya MN.ttc",
               "size": 214512,
-              "sizeStr": "209 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4779,7 +4779,7 @@ export const driveData = {
             {
               "name": "Oriya Sangam MN.ttc",
               "size": 185976,
-              "sizeStr": "182 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4787,7 +4787,7 @@ export const driveData = {
             {
               "name": "Oswald-Bold.ttf",
               "size": 91676,
-              "sizeStr": "90 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -4795,7 +4795,7 @@ export const driveData = {
             {
               "name": "Oswald-ExtraLight.ttf",
               "size": 91364,
-              "sizeStr": "89 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -4803,7 +4803,7 @@ export const driveData = {
             {
               "name": "Oswald-Light.ttf",
               "size": 91500,
-              "sizeStr": "89 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -4811,7 +4811,7 @@ export const driveData = {
             {
               "name": "Oswald-Medium.ttf",
               "size": 91648,
-              "sizeStr": "90 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -4819,7 +4819,7 @@ export const driveData = {
             {
               "name": "Oswald-Regular.ttf",
               "size": 91400,
-              "sizeStr": "89 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -4827,7 +4827,7 @@ export const driveData = {
             {
               "name": "Oswald-SemiBold.ttf",
               "size": 91700,
-              "sizeStr": "90 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -4835,7 +4835,7 @@ export const driveData = {
             {
               "name": "Oxanium-Bold.ttf",
               "size": 28908,
-              "sizeStr": "28 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -4843,7 +4843,7 @@ export const driveData = {
             {
               "name": "Oxanium-ExtraBold.ttf",
               "size": 28968,
-              "sizeStr": "28 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -4851,7 +4851,7 @@ export const driveData = {
             {
               "name": "Oxanium-ExtraLight.ttf",
               "size": 29088,
-              "sizeStr": "28 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -4859,7 +4859,7 @@ export const driveData = {
             {
               "name": "Oxanium-Light.ttf",
               "size": 29024,
-              "sizeStr": "28 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -4867,7 +4867,7 @@ export const driveData = {
             {
               "name": "Oxanium-Medium.ttf",
               "size": 28992,
-              "sizeStr": "28 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -4875,7 +4875,7 @@ export const driveData = {
             {
               "name": "Oxanium-Regular.ttf",
               "size": 28952,
-              "sizeStr": "28 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -4883,7 +4883,7 @@ export const driveData = {
             {
               "name": "Oxanium-SemiBold.ttf",
               "size": 28988,
-              "sizeStr": "28 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -4891,7 +4891,7 @@ export const driveData = {
             {
               "name": "PTMono.ttc",
               "size": 315876,
-              "sizeStr": "308 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4915,7 +4915,7 @@ export const driveData = {
             {
               "name": "PTSerifCaption.ttc",
               "size": 706700,
-              "sizeStr": "690 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4923,7 +4923,7 @@ export const driveData = {
             {
               "name": "PalatinoLTArabic-Regular_HelpMacNet_.ttf",
               "size": 330232,
-              "sizeStr": "322 KB",
+              "sizeStr": "",
               "date": "2008-05-10 20:53",
               "isDir": false,
               "children": []
@@ -4939,7 +4939,7 @@ export const driveData = {
             {
               "name": "PartyLET-plain.ttf",
               "size": 213112,
-              "sizeStr": "208 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4947,7 +4947,7 @@ export const driveData = {
             {
               "name": "PassionOne-Black.ttf",
               "size": 22432,
-              "sizeStr": "22 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -4955,7 +4955,7 @@ export const driveData = {
             {
               "name": "PassionOne-Bold.ttf",
               "size": 22876,
-              "sizeStr": "22 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -4963,7 +4963,7 @@ export const driveData = {
             {
               "name": "PassionOne-Regular.ttf",
               "size": 23076,
-              "sizeStr": "23 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -4971,7 +4971,7 @@ export const driveData = {
             {
               "name": "Phosphate.ttc",
               "size": 232068,
-              "sizeStr": "227 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4979,7 +4979,7 @@ export const driveData = {
             {
               "name": "PlantagenetCherokee.ttf",
               "size": 75012,
-              "sizeStr": "73 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -4987,7 +4987,7 @@ export const driveData = {
             {
               "name": "PlayfairDisplay-Black.ttf",
               "size": 193084,
-              "sizeStr": "189 KB",
+              "sizeStr": "",
               "date": "2022-01-19 14:52",
               "isDir": false,
               "children": []
@@ -4995,7 +4995,7 @@ export const driveData = {
             {
               "name": "PlayfairDisplay-BlackItalic.ttf",
               "size": 177144,
-              "sizeStr": "173 KB",
+              "sizeStr": "",
               "date": "2022-01-19 14:52",
               "isDir": false,
               "children": []
@@ -5003,7 +5003,7 @@ export const driveData = {
             {
               "name": "PlayfairDisplay-Bold.ttf",
               "size": 193208,
-              "sizeStr": "189 KB",
+              "sizeStr": "",
               "date": "2022-01-19 14:52",
               "isDir": false,
               "children": []
@@ -5011,7 +5011,7 @@ export const driveData = {
             {
               "name": "PlayfairDisplay-BoldItalic.ttf",
               "size": 177660,
-              "sizeStr": "173 KB",
+              "sizeStr": "",
               "date": "2022-01-19 14:52",
               "isDir": false,
               "children": []
@@ -5019,7 +5019,7 @@ export const driveData = {
             {
               "name": "PlayfairDisplay-ExtraBold.ttf",
               "size": 193176,
-              "sizeStr": "189 KB",
+              "sizeStr": "",
               "date": "2022-01-19 14:52",
               "isDir": false,
               "children": []
@@ -5027,7 +5027,7 @@ export const driveData = {
             {
               "name": "PlayfairDisplay-ExtraBoldItalic.ttf",
               "size": 177700,
-              "sizeStr": "174 KB",
+              "sizeStr": "",
               "date": "2022-01-19 14:52",
               "isDir": false,
               "children": []
@@ -5035,7 +5035,7 @@ export const driveData = {
             {
               "name": "PlayfairDisplay-Italic.ttf",
               "size": 177224,
-              "sizeStr": "173 KB",
+              "sizeStr": "",
               "date": "2022-01-19 14:52",
               "isDir": false,
               "children": []
@@ -5043,7 +5043,7 @@ export const driveData = {
             {
               "name": "PlayfairDisplay-Medium.ttf",
               "size": 193696,
-              "sizeStr": "189 KB",
+              "sizeStr": "",
               "date": "2022-01-19 14:52",
               "isDir": false,
               "children": []
@@ -5051,7 +5051,7 @@ export const driveData = {
             {
               "name": "PlayfairDisplay-MediumItalic.ttf",
               "size": 177724,
-              "sizeStr": "174 KB",
+              "sizeStr": "",
               "date": "2022-01-19 14:52",
               "isDir": false,
               "children": []
@@ -5059,7 +5059,7 @@ export const driveData = {
             {
               "name": "PlayfairDisplay-Regular.ttf",
               "size": 192860,
-              "sizeStr": "188 KB",
+              "sizeStr": "",
               "date": "2022-01-19 14:52",
               "isDir": false,
               "children": []
@@ -5067,7 +5067,7 @@ export const driveData = {
             {
               "name": "PlayfairDisplay-SemiBold.ttf",
               "size": 193344,
-              "sizeStr": "189 KB",
+              "sizeStr": "",
               "date": "2022-01-19 14:52",
               "isDir": false,
               "children": []
@@ -5075,7 +5075,7 @@ export const driveData = {
             {
               "name": "PlayfairDisplay-SemiBoldItalic.ttf",
               "size": 177796,
-              "sizeStr": "174 KB",
+              "sizeStr": "",
               "date": "2022-01-19 14:52",
               "isDir": false,
               "children": []
@@ -5083,7 +5083,7 @@ export const driveData = {
             {
               "name": "Poly-Italic.ttf",
               "size": 70052,
-              "sizeStr": "68 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:37",
               "isDir": false,
               "children": []
@@ -5091,7 +5091,7 @@ export const driveData = {
             {
               "name": "Poppins-Black.ttf",
               "size": 151396,
-              "sizeStr": "148 KB",
+              "sizeStr": "",
               "date": "2022-09-22 08:27",
               "isDir": false,
               "children": []
@@ -5099,7 +5099,7 @@ export const driveData = {
             {
               "name": "Poppins-BlackItalic.ttf",
               "size": 171604,
-              "sizeStr": "168 KB",
+              "sizeStr": "",
               "date": "2022-09-22 08:27",
               "isDir": false,
               "children": []
@@ -5107,7 +5107,7 @@ export const driveData = {
             {
               "name": "Poppins-Bold.ttf",
               "size": 153944,
-              "sizeStr": "150 KB",
+              "sizeStr": "",
               "date": "2022-09-22 08:27",
               "isDir": false,
               "children": []
@@ -5115,7 +5115,7 @@ export const driveData = {
             {
               "name": "Poppins-BoldItalic.ttf",
               "size": 176588,
-              "sizeStr": "172 KB",
+              "sizeStr": "",
               "date": "2022-09-22 08:27",
               "isDir": false,
               "children": []
@@ -5123,7 +5123,7 @@ export const driveData = {
             {
               "name": "Poppins-ExtraBold.ttf",
               "size": 152764,
-              "sizeStr": "149 KB",
+              "sizeStr": "",
               "date": "2022-09-22 08:27",
               "isDir": false,
               "children": []
@@ -5131,7 +5131,7 @@ export const driveData = {
             {
               "name": "Poppins-ExtraBoldItalic.ttf",
               "size": 173916,
-              "sizeStr": "170 KB",
+              "sizeStr": "",
               "date": "2022-09-22 08:27",
               "isDir": false,
               "children": []
@@ -5139,7 +5139,7 @@ export const driveData = {
             {
               "name": "Poppins-ExtraLight.ttf",
               "size": 161456,
-              "sizeStr": "158 KB",
+              "sizeStr": "",
               "date": "2022-09-22 08:27",
               "isDir": false,
               "children": []
@@ -5147,7 +5147,7 @@ export const driveData = {
             {
               "name": "Poppins-ExtraLightItalic.ttf",
               "size": 186168,
-              "sizeStr": "182 KB",
+              "sizeStr": "",
               "date": "2022-09-22 08:27",
               "isDir": false,
               "children": []
@@ -5155,7 +5155,7 @@ export const driveData = {
             {
               "name": "Poppins-Italic.ttf",
               "size": 182012,
-              "sizeStr": "178 KB",
+              "sizeStr": "",
               "date": "2022-09-22 08:27",
               "isDir": false,
               "children": []
@@ -5163,7 +5163,7 @@ export const driveData = {
             {
               "name": "Poppins-Light.ttf",
               "size": 159892,
-              "sizeStr": "156 KB",
+              "sizeStr": "",
               "date": "2022-09-22 08:27",
               "isDir": false,
               "children": []
@@ -5171,7 +5171,7 @@ export const driveData = {
             {
               "name": "Poppins-LightItalic.ttf",
               "size": 184460,
-              "sizeStr": "180 KB",
+              "sizeStr": "",
               "date": "2022-09-22 08:27",
               "isDir": false,
               "children": []
@@ -5179,7 +5179,7 @@ export const driveData = {
             {
               "name": "Poppins-Medium.ttf",
               "size": 156520,
-              "sizeStr": "153 KB",
+              "sizeStr": "",
               "date": "2022-09-22 08:27",
               "isDir": false,
               "children": []
@@ -5187,7 +5187,7 @@ export const driveData = {
             {
               "name": "Poppins-MediumItalic.ttf",
               "size": 180444,
-              "sizeStr": "176 KB",
+              "sizeStr": "",
               "date": "2022-09-22 08:27",
               "isDir": false,
               "children": []
@@ -5195,7 +5195,7 @@ export const driveData = {
             {
               "name": "Poppins-Regular.ttf",
               "size": 158240,
-              "sizeStr": "155 KB",
+              "sizeStr": "",
               "date": "2022-09-22 08:27",
               "isDir": false,
               "children": []
@@ -5203,7 +5203,7 @@ export const driveData = {
             {
               "name": "Poppins-SemiBold.ttf",
               "size": 155232,
-              "sizeStr": "152 KB",
+              "sizeStr": "",
               "date": "2022-09-22 08:27",
               "isDir": false,
               "children": []
@@ -5211,7 +5211,7 @@ export const driveData = {
             {
               "name": "Poppins-SemiBoldItalic.ttf",
               "size": 178584,
-              "sizeStr": "174 KB",
+              "sizeStr": "",
               "date": "2022-09-22 08:27",
               "isDir": false,
               "children": []
@@ -5219,7 +5219,7 @@ export const driveData = {
             {
               "name": "Poppins-Thin.ttf",
               "size": 161652,
-              "sizeStr": "158 KB",
+              "sizeStr": "",
               "date": "2022-09-22 08:27",
               "isDir": false,
               "children": []
@@ -5227,7 +5227,7 @@ export const driveData = {
             {
               "name": "Poppins-ThinItalic.ttf",
               "size": 187044,
-              "sizeStr": "183 KB",
+              "sizeStr": "",
               "date": "2022-09-22 08:27",
               "isDir": false,
               "children": []
@@ -5235,7 +5235,7 @@ export const driveData = {
             {
               "name": "Prompt-Thin.ttf",
               "size": 149224,
-              "sizeStr": "146 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:37",
               "isDir": false,
               "children": []
@@ -5243,7 +5243,7 @@ export const driveData = {
             {
               "name": "ProzaLibre-Regular.ttf",
               "size": 97312,
-              "sizeStr": "95 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:37",
               "isDir": false,
               "children": []
@@ -5251,7 +5251,7 @@ export const driveData = {
             {
               "name": "QadiLinotype_HelpMacNet_.ttf",
               "size": 118220,
-              "sizeStr": "115 KB",
+              "sizeStr": "",
               "date": "2007-06-07 17:22",
               "isDir": false,
               "children": []
@@ -5259,7 +5259,7 @@ export const driveData = {
             {
               "name": "Raanana.ttc",
               "size": 43728,
-              "sizeStr": "43 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -5267,7 +5267,7 @@ export const driveData = {
             {
               "name": "Rajdhani-Bold.ttf",
               "size": 373192,
-              "sizeStr": "364 KB",
+              "sizeStr": "",
               "date": "2020-11-19 11:04",
               "isDir": false,
               "children": []
@@ -5275,7 +5275,7 @@ export const driveData = {
             {
               "name": "Rajdhani-Light.ttf",
               "size": 357516,
-              "sizeStr": "349 KB",
+              "sizeStr": "",
               "date": "2020-11-19 11:04",
               "isDir": false,
               "children": []
@@ -5283,7 +5283,7 @@ export const driveData = {
             {
               "name": "Rajdhani-Medium.ttf",
               "size": 357884,
-              "sizeStr": "349 KB",
+              "sizeStr": "",
               "date": "2020-11-19 11:04",
               "isDir": false,
               "children": []
@@ -5291,7 +5291,7 @@ export const driveData = {
             {
               "name": "Rajdhani-Regular.ttf",
               "size": 352088,
-              "sizeStr": "344 KB",
+              "sizeStr": "",
               "date": "2020-11-19 11:04",
               "isDir": false,
               "children": []
@@ -5299,7 +5299,7 @@ export const driveData = {
             {
               "name": "Rajdhani-SemiBold.ttf",
               "size": 363500,
-              "sizeStr": "355 KB",
+              "sizeStr": "",
               "date": "2020-11-19 11:04",
               "isDir": false,
               "children": []
@@ -5307,7 +5307,7 @@ export const driveData = {
             {
               "name": "Raleway-Black.ttf",
               "size": 162888,
-              "sizeStr": "159 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -5315,7 +5315,7 @@ export const driveData = {
             {
               "name": "Raleway-BlackItalic.ttf",
               "size": 160968,
-              "sizeStr": "157 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -5323,7 +5323,7 @@ export const driveData = {
             {
               "name": "Raleway-Bold.ttf",
               "size": 163276,
-              "sizeStr": "159 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -5331,7 +5331,7 @@ export const driveData = {
             {
               "name": "Raleway-BoldItalic.ttf",
               "size": 161484,
-              "sizeStr": "158 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -5339,7 +5339,7 @@ export const driveData = {
             {
               "name": "Raleway-ExtraBold.ttf",
               "size": 163384,
-              "sizeStr": "160 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -5347,7 +5347,7 @@ export const driveData = {
             {
               "name": "Raleway-ExtraBoldItalic.ttf",
               "size": 161576,
-              "sizeStr": "158 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -5355,7 +5355,7 @@ export const driveData = {
             {
               "name": "Raleway-ExtraLight.ttf",
               "size": 163504,
-              "sizeStr": "160 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -5363,7 +5363,7 @@ export const driveData = {
             {
               "name": "Raleway-ExtraLightItalic.ttf",
               "size": 161532,
-              "sizeStr": "158 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -5371,7 +5371,7 @@ export const driveData = {
             {
               "name": "Raleway-Italic.ttf",
               "size": 161320,
-              "sizeStr": "158 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -5379,7 +5379,7 @@ export const driveData = {
             {
               "name": "Raleway-Light.ttf",
               "size": 163404,
-              "sizeStr": "160 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -5387,7 +5387,7 @@ export const driveData = {
             {
               "name": "Raleway-LightItalic.ttf",
               "size": 161564,
-              "sizeStr": "158 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -5395,7 +5395,7 @@ export const driveData = {
             {
               "name": "Raleway-Medium.ttf",
               "size": 163392,
-              "sizeStr": "160 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -5403,7 +5403,7 @@ export const driveData = {
             {
               "name": "Raleway-MediumItalic.ttf",
               "size": 161432,
-              "sizeStr": "158 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -5411,7 +5411,7 @@ export const driveData = {
             {
               "name": "Raleway-Regular.ttf",
               "size": 163388,
-              "sizeStr": "160 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -5419,7 +5419,7 @@ export const driveData = {
             {
               "name": "Raleway-SemiBold.ttf",
               "size": 163388,
-              "sizeStr": "160 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -5427,7 +5427,7 @@ export const driveData = {
             {
               "name": "Raleway-SemiBoldItalic.ttf",
               "size": 161624,
-              "sizeStr": "158 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -5435,7 +5435,7 @@ export const driveData = {
             {
               "name": "Raleway-Thin.ttf",
               "size": 163208,
-              "sizeStr": "159 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -5443,7 +5443,7 @@ export const driveData = {
             {
               "name": "Raleway-ThinItalic.ttf",
               "size": 161196,
-              "sizeStr": "157 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -5451,7 +5451,7 @@ export const driveData = {
             {
               "name": "Rasa-Bold.ttf",
               "size": 269604,
-              "sizeStr": "263 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -5459,7 +5459,7 @@ export const driveData = {
             {
               "name": "Rasa-Light.ttf",
               "size": 250000,
-              "sizeStr": "244 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -5467,7 +5467,7 @@ export const driveData = {
             {
               "name": "Rasa-Medium.ttf",
               "size": 264152,
-              "sizeStr": "258 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -5475,7 +5475,7 @@ export const driveData = {
             {
               "name": "Rasa-Regular.ttf",
               "size": 262244,
-              "sizeStr": "256 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -5483,7 +5483,7 @@ export const driveData = {
             {
               "name": "Rasa-SemiBold.ttf",
               "size": 268252,
-              "sizeStr": "262 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -5491,7 +5491,7 @@ export const driveData = {
             {
               "name": "ReenieBeanie-Regular.ttf",
               "size": 140764,
-              "sizeStr": "137 KB",
+              "sizeStr": "",
               "date": "2023-01-04 14:57",
               "isDir": false,
               "children": []
@@ -5499,7 +5499,7 @@ export const driveData = {
             {
               "name": "Reiju-One.otf",
               "size": 120852,
-              "sizeStr": "118 KB",
+              "sizeStr": "",
               "date": "2020-09-25 05:12",
               "isDir": false,
               "children": []
@@ -5507,7 +5507,7 @@ export const driveData = {
             {
               "name": "Reiju-Two.otf",
               "size": 131380,
-              "sizeStr": "128 KB",
+              "sizeStr": "",
               "date": "2020-09-25 05:13",
               "isDir": false,
               "children": []
@@ -5515,7 +5515,7 @@ export const driveData = {
             {
               "name": "Roboto-Black.ttf",
               "size": 171072,
-              "sizeStr": "167 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -5523,7 +5523,7 @@ export const driveData = {
             {
               "name": "Roboto-BlackItalic.ttf",
               "size": 177120,
-              "sizeStr": "173 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -5531,7 +5531,7 @@ export const driveData = {
             {
               "name": "Roboto-Bold.ttf",
               "size": 170348,
-              "sizeStr": "166 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -5539,7 +5539,7 @@ export const driveData = {
             {
               "name": "Roboto-BoldItalic.ttf",
               "size": 174520,
-              "sizeStr": "170 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -5547,7 +5547,7 @@ export const driveData = {
             {
               "name": "Roboto-Italic.ttf",
               "size": 173516,
-              "sizeStr": "169 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -5555,7 +5555,7 @@ export const driveData = {
             {
               "name": "Roboto-Light.ttf",
               "size": 170012,
-              "sizeStr": "166 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -5563,7 +5563,7 @@ export const driveData = {
             {
               "name": "Roboto-LightItalic.ttf",
               "size": 176184,
-              "sizeStr": "172 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -5571,7 +5571,7 @@ export const driveData = {
             {
               "name": "Roboto-Medium.ttf",
               "size": 171656,
-              "sizeStr": "168 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -5579,7 +5579,7 @@ export const driveData = {
             {
               "name": "Roboto-MediumItalic.ttf",
               "size": 176428,
-              "sizeStr": "172 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -5587,7 +5587,7 @@ export const driveData = {
             {
               "name": "Roboto-Regular.ttf",
               "size": 171272,
-              "sizeStr": "167 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -5595,7 +5595,7 @@ export const driveData = {
             {
               "name": "Roboto-Thin.ttf",
               "size": 171500,
-              "sizeStr": "167 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -5603,7 +5603,7 @@ export const driveData = {
             {
               "name": "Roboto-ThinItalic.ttf",
               "size": 175872,
-              "sizeStr": "172 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -5611,7 +5611,7 @@ export const driveData = {
             {
               "name": "RobotoCondensed-Regular.ttf",
               "size": 169848,
-              "sizeStr": "166 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:37",
               "isDir": false,
               "children": []
@@ -5619,7 +5619,7 @@ export const driveData = {
             {
               "name": "Rockwell.ttc",
               "size": 488992,
-              "sizeStr": "478 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -5627,7 +5627,7 @@ export const driveData = {
             {
               "name": "STIXGeneral.otf",
               "size": 369156,
-              "sizeStr": "361 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -5635,7 +5635,7 @@ export const driveData = {
             {
               "name": "STIXGeneralBol.otf",
               "size": 186612,
-              "sizeStr": "182 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -5643,7 +5643,7 @@ export const driveData = {
             {
               "name": "STIXGeneralBolIta.otf",
               "size": 143764,
-              "sizeStr": "140 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -5651,7 +5651,7 @@ export const driveData = {
             {
               "name": "STIXGeneralItalic.otf",
               "size": 141844,
-              "sizeStr": "139 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -5659,7 +5659,7 @@ export const driveData = {
             {
               "name": "STIXIntDBol.otf",
               "size": 16992,
-              "sizeStr": "17 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -5667,7 +5667,7 @@ export const driveData = {
             {
               "name": "STIXIntDReg.otf",
               "size": 17500,
-              "sizeStr": "17 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -5675,7 +5675,7 @@ export const driveData = {
             {
               "name": "STIXIntSmBol.otf",
               "size": 16608,
-              "sizeStr": "16 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -5683,7 +5683,7 @@ export const driveData = {
             {
               "name": "STIXIntSmReg.otf",
               "size": 17416,
-              "sizeStr": "17 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -5691,7 +5691,7 @@ export const driveData = {
             {
               "name": "STIXIntUpBol.otf",
               "size": 16576,
-              "sizeStr": "16 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -5699,7 +5699,7 @@ export const driveData = {
             {
               "name": "STIXIntUpDBol.otf",
               "size": 16932,
-              "sizeStr": "17 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -5707,7 +5707,7 @@ export const driveData = {
             {
               "name": "STIXIntUpDReg.otf",
               "size": 16964,
-              "sizeStr": "17 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -5715,7 +5715,7 @@ export const driveData = {
             {
               "name": "STIXIntUpReg.otf",
               "size": 16856,
-              "sizeStr": "16 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -5723,7 +5723,7 @@ export const driveData = {
             {
               "name": "STIXIntUpSmBol.otf",
               "size": 16916,
-              "sizeStr": "17 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -5731,7 +5731,7 @@ export const driveData = {
             {
               "name": "STIXIntUpSmReg.otf",
               "size": 17184,
-              "sizeStr": "17 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -5739,7 +5739,7 @@ export const driveData = {
             {
               "name": "STIXNonUni.otf",
               "size": 54556,
-              "sizeStr": "53 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -5747,7 +5747,7 @@ export const driveData = {
             {
               "name": "STIXNonUniBol.otf",
               "size": 25508,
-              "sizeStr": "25 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -5755,7 +5755,7 @@ export const driveData = {
             {
               "name": "STIXNonUniBolIta.otf",
               "size": 41188,
-              "sizeStr": "40 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -5763,7 +5763,7 @@ export const driveData = {
             {
               "name": "STIXNonUniIta.otf",
               "size": 46268,
-              "sizeStr": "45 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -5771,7 +5771,7 @@ export const driveData = {
             {
               "name": "STIXSizFiveSymReg.otf",
               "size": 13464,
-              "sizeStr": "13 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -5779,7 +5779,7 @@ export const driveData = {
             {
               "name": "STIXSizFourSymBol.otf",
               "size": 12628,
-              "sizeStr": "12 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -5787,7 +5787,7 @@ export const driveData = {
             {
               "name": "STIXSizFourSymReg.otf",
               "size": 15656,
-              "sizeStr": "15 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -5795,7 +5795,7 @@ export const driveData = {
             {
               "name": "STIXSizOneSymBol.otf",
               "size": 12924,
-              "sizeStr": "13 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -5803,7 +5803,7 @@ export const driveData = {
             {
               "name": "STIXSizOneSymReg.otf",
               "size": 19004,
-              "sizeStr": "19 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -5811,7 +5811,7 @@ export const driveData = {
             {
               "name": "STIXSizThreeSymBol.otf",
               "size": 12636,
-              "sizeStr": "12 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -5819,7 +5819,7 @@ export const driveData = {
             {
               "name": "STIXSizThreeSymReg.otf",
               "size": 15648,
-              "sizeStr": "15 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -5827,7 +5827,7 @@ export const driveData = {
             {
               "name": "STIXSizTwoSymBol.otf",
               "size": 12576,
-              "sizeStr": "12 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -5835,7 +5835,7 @@ export const driveData = {
             {
               "name": "STIXSizTwoSymReg.otf",
               "size": 15620,
-              "sizeStr": "15 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -5843,7 +5843,7 @@ export const driveData = {
             {
               "name": "STIXTwoMath.otf",
               "size": 838652,
-              "sizeStr": "819 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -5851,7 +5851,7 @@ export const driveData = {
             {
               "name": "STIXTwoText-Italic.ttf",
               "size": 454368,
-              "sizeStr": "444 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -5859,7 +5859,7 @@ export const driveData = {
             {
               "name": "STIXTwoText.ttf",
               "size": 418956,
-              "sizeStr": "409 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -5867,7 +5867,7 @@ export const driveData = {
             {
               "name": "STIXVar.otf",
               "size": 21776,
-              "sizeStr": "21 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -5875,7 +5875,7 @@ export const driveData = {
             {
               "name": "STIXVarBol.otf",
               "size": 14808,
-              "sizeStr": "14 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -5883,7 +5883,7 @@ export const driveData = {
             {
               "name": "Sana.ttc",
               "size": 77604,
-              "sizeStr": "76 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -5891,7 +5891,7 @@ export const driveData = {
             {
               "name": "Sathu.ttf",
               "size": 417676,
-              "sizeStr": "408 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -5899,7 +5899,7 @@ export const driveData = {
             {
               "name": "Savoye LET.ttc",
               "size": 110272,
-              "sizeStr": "108 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -5915,7 +5915,7 @@ export const driveData = {
             {
               "name": "Shree714.ttc",
               "size": 533400,
-              "sizeStr": "521 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -5923,7 +5923,7 @@ export const driveData = {
             {
               "name": "SignPainter.ttc",
               "size": 401228,
-              "sizeStr": "392 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -5931,7 +5931,7 @@ export const driveData = {
             {
               "name": "Silom.ttf",
               "size": 291508,
-              "sizeStr": "285 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -5939,7 +5939,7 @@ export const driveData = {
             {
               "name": "Sinhala MN.ttc",
               "size": 780240,
-              "sizeStr": "762 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -5947,7 +5947,7 @@ export const driveData = {
             {
               "name": "Sinhala Sangam MN.ttc",
               "size": 757768,
-              "sizeStr": "740 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -5955,7 +5955,7 @@ export const driveData = {
             {
               "name": "Skia.ttf",
               "size": 489984,
-              "sizeStr": "478 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -5971,7 +5971,7 @@ export const driveData = {
             {
               "name": "SofiaSansExtraCondensed-Black.ttf",
               "size": 159004,
-              "sizeStr": "155 KB",
+              "sizeStr": "",
               "date": "2023-02-03 01:03",
               "isDir": false,
               "children": []
@@ -5979,7 +5979,7 @@ export const driveData = {
             {
               "name": "SofiaSansExtraCondensed-BlackItalic.ttf",
               "size": 142224,
-              "sizeStr": "139 KB",
+              "sizeStr": "",
               "date": "2023-02-03 01:03",
               "isDir": false,
               "children": []
@@ -5987,7 +5987,7 @@ export const driveData = {
             {
               "name": "SofiaSansExtraCondensed-Bold.ttf",
               "size": 159088,
-              "sizeStr": "155 KB",
+              "sizeStr": "",
               "date": "2023-02-03 01:03",
               "isDir": false,
               "children": []
@@ -5995,7 +5995,7 @@ export const driveData = {
             {
               "name": "SofiaSansExtraCondensed-BoldItalic.ttf",
               "size": 142032,
-              "sizeStr": "139 KB",
+              "sizeStr": "",
               "date": "2023-02-03 01:03",
               "isDir": false,
               "children": []
@@ -6003,7 +6003,7 @@ export const driveData = {
             {
               "name": "SofiaSansExtraCondensed-ExtraBold.ttf",
               "size": 159076,
-              "sizeStr": "155 KB",
+              "sizeStr": "",
               "date": "2023-02-03 01:03",
               "isDir": false,
               "children": []
@@ -6011,7 +6011,7 @@ export const driveData = {
             {
               "name": "SofiaSansExtraCondensed-ExtraBoldItalic.ttf",
               "size": 142268,
-              "sizeStr": "139 KB",
+              "sizeStr": "",
               "date": "2023-02-03 01:03",
               "isDir": false,
               "children": []
@@ -6019,7 +6019,7 @@ export const driveData = {
             {
               "name": "SofiaSansExtraCondensed-ExtraLight.ttf",
               "size": 158860,
-              "sizeStr": "155 KB",
+              "sizeStr": "",
               "date": "2023-02-03 01:03",
               "isDir": false,
               "children": []
@@ -6027,7 +6027,7 @@ export const driveData = {
             {
               "name": "SofiaSansExtraCondensed-ExtraLightItalic.ttf",
               "size": 141928,
-              "sizeStr": "139 KB",
+              "sizeStr": "",
               "date": "2023-02-03 01:03",
               "isDir": false,
               "children": []
@@ -6035,7 +6035,7 @@ export const driveData = {
             {
               "name": "SofiaSansExtraCondensed-Italic.ttf",
               "size": 141732,
-              "sizeStr": "138 KB",
+              "sizeStr": "",
               "date": "2023-02-03 01:03",
               "isDir": false,
               "children": []
@@ -6043,7 +6043,7 @@ export const driveData = {
             {
               "name": "SofiaSansExtraCondensed-Light.ttf",
               "size": 158848,
-              "sizeStr": "155 KB",
+              "sizeStr": "",
               "date": "2023-02-03 01:03",
               "isDir": false,
               "children": []
@@ -6051,7 +6051,7 @@ export const driveData = {
             {
               "name": "SofiaSansExtraCondensed-LightItalic.ttf",
               "size": 141944,
-              "sizeStr": "139 KB",
+              "sizeStr": "",
               "date": "2023-02-03 01:03",
               "isDir": false,
               "children": []
@@ -6059,7 +6059,7 @@ export const driveData = {
             {
               "name": "SofiaSansExtraCondensed-Medium.ttf",
               "size": 158952,
-              "sizeStr": "155 KB",
+              "sizeStr": "",
               "date": "2023-02-03 01:03",
               "isDir": false,
               "children": []
@@ -6067,7 +6067,7 @@ export const driveData = {
             {
               "name": "SofiaSansExtraCondensed-MediumItalic.ttf",
               "size": 142012,
-              "sizeStr": "139 KB",
+              "sizeStr": "",
               "date": "2023-02-03 01:03",
               "isDir": false,
               "children": []
@@ -6075,7 +6075,7 @@ export const driveData = {
             {
               "name": "SofiaSansExtraCondensed-Regular.ttf",
               "size": 158884,
-              "sizeStr": "155 KB",
+              "sizeStr": "",
               "date": "2023-02-03 01:03",
               "isDir": false,
               "children": []
@@ -6083,7 +6083,7 @@ export const driveData = {
             {
               "name": "SofiaSansExtraCondensed-SemiBold.ttf",
               "size": 159092,
-              "sizeStr": "155 KB",
+              "sizeStr": "",
               "date": "2023-02-03 01:03",
               "isDir": false,
               "children": []
@@ -6091,7 +6091,7 @@ export const driveData = {
             {
               "name": "SofiaSansExtraCondensed-SemiBoldItalic.ttf",
               "size": 142144,
-              "sizeStr": "139 KB",
+              "sizeStr": "",
               "date": "2023-02-03 01:03",
               "isDir": false,
               "children": []
@@ -6099,7 +6099,7 @@ export const driveData = {
             {
               "name": "SofiaSansExtraCondensed-Thin.ttf",
               "size": 158680,
-              "sizeStr": "155 KB",
+              "sizeStr": "",
               "date": "2023-02-03 01:03",
               "isDir": false,
               "children": []
@@ -6107,7 +6107,7 @@ export const driveData = {
             {
               "name": "SofiaSansExtraCondensed-ThinItalic.ttf",
               "size": 141884,
-              "sizeStr": "139 KB",
+              "sizeStr": "",
               "date": "2023-02-03 01:03",
               "isDir": false,
               "children": []
@@ -6115,7 +6115,7 @@ export const driveData = {
             {
               "name": "Sonbili (1).ttf",
               "size": 49236,
-              "sizeStr": "48 KB",
+              "sizeStr": "",
               "date": "2020-11-10 14:48",
               "isDir": false,
               "children": []
@@ -6131,7 +6131,7 @@ export const driveData = {
             {
               "name": "SourceSansPro-Black.ttf",
               "size": 247608,
-              "sizeStr": "242 KB",
+              "sizeStr": "",
               "date": "2023-01-04 14:57",
               "isDir": false,
               "children": []
@@ -6139,7 +6139,7 @@ export const driveData = {
             {
               "name": "SourceSansPro-BlackItalic.ttf",
               "size": 108420,
-              "sizeStr": "106 KB",
+              "sizeStr": "",
               "date": "2023-01-04 14:57",
               "isDir": false,
               "children": []
@@ -6147,7 +6147,7 @@ export const driveData = {
             {
               "name": "SourceSansPro-Bold.ttf",
               "size": 247412,
-              "sizeStr": "242 KB",
+              "sizeStr": "",
               "date": "2023-01-04 14:57",
               "isDir": false,
               "children": []
@@ -6155,7 +6155,7 @@ export const driveData = {
             {
               "name": "SourceSansPro-BoldItalic.ttf",
               "size": 109148,
-              "sizeStr": "107 KB",
+              "sizeStr": "",
               "date": "2023-01-04 14:57",
               "isDir": false,
               "children": []
@@ -6163,7 +6163,7 @@ export const driveData = {
             {
               "name": "SourceSansPro-ExtraLight.ttf",
               "size": 247212,
-              "sizeStr": "241 KB",
+              "sizeStr": "",
               "date": "2023-01-04 14:57",
               "isDir": false,
               "children": []
@@ -6171,7 +6171,7 @@ export const driveData = {
             {
               "name": "SourceSansPro-ExtraLightItalic.ttf",
               "size": 109552,
-              "sizeStr": "107 KB",
+              "sizeStr": "",
               "date": "2023-01-04 14:57",
               "isDir": false,
               "children": []
@@ -6179,7 +6179,7 @@ export const driveData = {
             {
               "name": "SourceSansPro-Italic.ttf",
               "size": 109456,
-              "sizeStr": "107 KB",
+              "sizeStr": "",
               "date": "2023-01-04 14:57",
               "isDir": false,
               "children": []
@@ -6187,7 +6187,7 @@ export const driveData = {
             {
               "name": "SourceSansPro-Light.ttf",
               "size": 246624,
-              "sizeStr": "241 KB",
+              "sizeStr": "",
               "date": "2023-01-04 14:57",
               "isDir": false,
               "children": []
@@ -6195,7 +6195,7 @@ export const driveData = {
             {
               "name": "SourceSansPro-LightItalic.ttf",
               "size": 110176,
-              "sizeStr": "108 KB",
+              "sizeStr": "",
               "date": "2023-01-04 14:57",
               "isDir": false,
               "children": []
@@ -6203,7 +6203,7 @@ export const driveData = {
             {
               "name": "SourceSansPro-Regular.ttf",
               "size": 248132,
-              "sizeStr": "242 KB",
+              "sizeStr": "",
               "date": "2023-01-04 14:57",
               "isDir": false,
               "children": []
@@ -6211,7 +6211,7 @@ export const driveData = {
             {
               "name": "SourceSansPro-SemiBold.ttf",
               "size": 247892,
-              "sizeStr": "242 KB",
+              "sizeStr": "",
               "date": "2023-01-04 14:57",
               "isDir": false,
               "children": []
@@ -6219,7 +6219,7 @@ export const driveData = {
             {
               "name": "SourceSansPro-SemiBoldItalic.ttf",
               "size": 109264,
-              "sizeStr": "107 KB",
+              "sizeStr": "",
               "date": "2023-01-04 14:57",
               "isDir": false,
               "children": []
@@ -6227,7 +6227,7 @@ export const driveData = {
             {
               "name": "SourceSerifPro-Black.ttf",
               "size": 228736,
-              "sizeStr": "223 KB",
+              "sizeStr": "",
               "date": "2023-01-04 14:57",
               "isDir": false,
               "children": []
@@ -6235,7 +6235,7 @@ export const driveData = {
             {
               "name": "SourceSerifPro-BlackItalic.ttf",
               "size": 169668,
-              "sizeStr": "166 KB",
+              "sizeStr": "",
               "date": "2023-01-04 14:57",
               "isDir": false,
               "children": []
@@ -6243,7 +6243,7 @@ export const driveData = {
             {
               "name": "SourceSerifPro-Bold.ttf",
               "size": 229816,
-              "sizeStr": "224 KB",
+              "sizeStr": "",
               "date": "2023-01-04 14:57",
               "isDir": false,
               "children": []
@@ -6251,7 +6251,7 @@ export const driveData = {
             {
               "name": "SourceSerifPro-BoldItalic.ttf",
               "size": 172748,
-              "sizeStr": "169 KB",
+              "sizeStr": "",
               "date": "2023-01-04 14:57",
               "isDir": false,
               "children": []
@@ -6259,7 +6259,7 @@ export const driveData = {
             {
               "name": "SourceSerifPro-ExtraLight.ttf",
               "size": 223796,
-              "sizeStr": "219 KB",
+              "sizeStr": "",
               "date": "2023-01-04 14:57",
               "isDir": false,
               "children": []
@@ -6267,7 +6267,7 @@ export const driveData = {
             {
               "name": "SourceSerifPro-ExtraLightItalic.ttf",
               "size": 168132,
-              "sizeStr": "164 KB",
+              "sizeStr": "",
               "date": "2023-01-04 14:57",
               "isDir": false,
               "children": []
@@ -6275,7 +6275,7 @@ export const driveData = {
             {
               "name": "SourceSerifPro-Italic.ttf",
               "size": 169568,
-              "sizeStr": "166 KB",
+              "sizeStr": "",
               "date": "2023-01-04 14:57",
               "isDir": false,
               "children": []
@@ -6283,7 +6283,7 @@ export const driveData = {
             {
               "name": "SourceSerifPro-Light.ttf",
               "size": 227844,
-              "sizeStr": "223 KB",
+              "sizeStr": "",
               "date": "2023-01-04 14:57",
               "isDir": false,
               "children": []
@@ -6291,7 +6291,7 @@ export const driveData = {
             {
               "name": "SourceSerifPro-LightItalic.ttf",
               "size": 171544,
-              "sizeStr": "168 KB",
+              "sizeStr": "",
               "date": "2023-01-04 14:57",
               "isDir": false,
               "children": []
@@ -6299,7 +6299,7 @@ export const driveData = {
             {
               "name": "SourceSerifPro-Regular.ttf",
               "size": 226888,
-              "sizeStr": "222 KB",
+              "sizeStr": "",
               "date": "2023-01-04 14:57",
               "isDir": false,
               "children": []
@@ -6307,7 +6307,7 @@ export const driveData = {
             {
               "name": "SourceSerifPro-SemiBold.ttf",
               "size": 229672,
-              "sizeStr": "224 KB",
+              "sizeStr": "",
               "date": "2023-01-04 14:57",
               "isDir": false,
               "children": []
@@ -6315,7 +6315,7 @@ export const driveData = {
             {
               "name": "SourceSerifPro-SemiBoldItalic.ttf",
               "size": 172816,
-              "sizeStr": "169 KB",
+              "sizeStr": "",
               "date": "2023-01-04 14:57",
               "isDir": false,
               "children": []
@@ -6323,7 +6323,7 @@ export const driveData = {
             {
               "name": "SpecialElite-Regular.ttf",
               "size": 151080,
-              "sizeStr": "148 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -6331,7 +6331,7 @@ export const driveData = {
             {
               "name": "Starjedi.ttf",
               "size": 46512,
-              "sizeStr": "45 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -6339,7 +6339,7 @@ export const driveData = {
             {
               "name": "Starjhol.ttf",
               "size": 69764,
-              "sizeStr": "68 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -6347,7 +6347,7 @@ export const driveData = {
             {
               "name": "SukhumvitSet.ttc",
               "size": 356420,
-              "sizeStr": "348 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -6355,7 +6355,7 @@ export const driveData = {
             {
               "name": "SultanNahia_HelpMacNet_.ttf",
               "size": 195636,
-              "sizeStr": "191 KB",
+              "sizeStr": "",
               "date": "2007-01-30 22:15",
               "isDir": false,
               "children": []
@@ -6371,7 +6371,7 @@ export const driveData = {
             {
               "name": "SweetFinal.ttf",
               "size": 33460,
-              "sizeStr": "33 KB",
+              "sizeStr": "",
               "date": "2021-04-05 15:13",
               "isDir": false,
               "children": []
@@ -6379,7 +6379,7 @@ export const driveData = {
             {
               "name": "Syncopate-Bold.ttf",
               "size": 61364,
-              "sizeStr": "60 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -6387,7 +6387,7 @@ export const driveData = {
             {
               "name": "Syncopate-Regular.ttf",
               "size": 141856,
-              "sizeStr": "139 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -6395,7 +6395,7 @@ export const driveData = {
             {
               "name": "Tahoma Bold.ttf",
               "size": 626928,
-              "sizeStr": "612 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -6403,7 +6403,7 @@ export const driveData = {
             {
               "name": "Tahoma.ttf",
               "size": 681120,
-              "sizeStr": "665 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -6411,7 +6411,7 @@ export const driveData = {
             {
               "name": "Tamil MN.ttc",
               "size": 189232,
-              "sizeStr": "185 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -6419,7 +6419,7 @@ export const driveData = {
             {
               "name": "Tamil Sangam MN.ttc",
               "size": 365320,
-              "sizeStr": "357 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -6427,7 +6427,7 @@ export const driveData = {
             {
               "name": "Teko-Bold.ttf",
               "size": 282904,
-              "sizeStr": "276 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -6435,7 +6435,7 @@ export const driveData = {
             {
               "name": "Teko-Light.ttf",
               "size": 279608,
-              "sizeStr": "273 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -6443,7 +6443,7 @@ export const driveData = {
             {
               "name": "Teko-Medium.ttf",
               "size": 287712,
-              "sizeStr": "281 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -6451,7 +6451,7 @@ export const driveData = {
             {
               "name": "Teko-Regular.ttf",
               "size": 289336,
-              "sizeStr": "283 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -6459,7 +6459,7 @@ export const driveData = {
             {
               "name": "Teko-SemiBold.ttf",
               "size": 294932,
-              "sizeStr": "288 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -6467,7 +6467,7 @@ export const driveData = {
             {
               "name": "Telugu MN.ttc",
               "size": 335380,
-              "sizeStr": "328 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -6475,7 +6475,7 @@ export const driveData = {
             {
               "name": "Telugu Sangam MN.ttc",
               "size": 307932,
-              "sizeStr": "301 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -6483,7 +6483,7 @@ export const driveData = {
             {
               "name": "TheYearofHandicrafts-Bold.otf",
               "size": 260132,
-              "sizeStr": "254 KB",
+              "sizeStr": "",
               "date": "2025-06-17 13:09",
               "isDir": false,
               "children": []
@@ -6491,7 +6491,7 @@ export const driveData = {
             {
               "name": "TheYearofHandicrafts-SemiBold.otf",
               "size": 264020,
-              "sizeStr": "258 KB",
+              "sizeStr": "",
               "date": "2025-06-17 13:09",
               "isDir": false,
               "children": []
@@ -6507,7 +6507,7 @@ export const driveData = {
             {
               "name": "Times New Roman Bold Italic.ttf",
               "size": 620008,
-              "sizeStr": "605 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -6515,7 +6515,7 @@ export const driveData = {
             {
               "name": "Times New Roman Bold.ttf",
               "size": 832472,
-              "sizeStr": "813 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -6523,7 +6523,7 @@ export const driveData = {
             {
               "name": "Times New Roman Italic.ttf",
               "size": 660268,
-              "sizeStr": "645 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -6531,7 +6531,7 @@ export const driveData = {
             {
               "name": "Times New Roman.ttf",
               "size": 824920,
-              "sizeStr": "806 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -6539,7 +6539,7 @@ export const driveData = {
             {
               "name": "Trattatello.ttf",
               "size": 932624,
-              "sizeStr": "911 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -6547,7 +6547,7 @@ export const driveData = {
             {
               "name": "Trebuchet MS Bold Italic.ttf",
               "size": 137008,
-              "sizeStr": "134 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -6555,7 +6555,7 @@ export const driveData = {
             {
               "name": "Trebuchet MS Bold.ttf",
               "size": 129360,
-              "sizeStr": "126 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -6563,7 +6563,7 @@ export const driveData = {
             {
               "name": "Trebuchet MS Italic.ttf",
               "size": 144820,
-              "sizeStr": "141 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -6571,7 +6571,7 @@ export const driveData = {
             {
               "name": "Trebuchet MS.ttf",
               "size": 138848,
-              "sizeStr": "136 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -6579,7 +6579,7 @@ export const driveData = {
             {
               "name": "Tschichold Alt Bold.ttf",
               "size": 30656,
-              "sizeStr": "30 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -6587,7 +6587,7 @@ export const driveData = {
             {
               "name": "Tschichold Alt.ttf",
               "size": 33244,
-              "sizeStr": "32 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -6595,7 +6595,7 @@ export const driveData = {
             {
               "name": "Typographical line.ttf",
               "size": 30168,
-              "sizeStr": "29 KB",
+              "sizeStr": "",
               "date": "2013-10-20 20:23",
               "isDir": false,
               "children": []
@@ -6603,7 +6603,7 @@ export const driveData = {
             {
               "name": "Typographical line_0.ttf",
               "size": 31964,
-              "sizeStr": "31 KB",
+              "sizeStr": "",
               "date": "2013-10-24 17:37",
               "isDir": false,
               "children": []
@@ -6611,7 +6611,7 @@ export const driveData = {
             {
               "name": "Universal Serif.ttf",
               "size": 40000,
-              "sizeStr": "39 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -6619,7 +6619,7 @@ export const driveData = {
             {
               "name": "Verdana Bold Italic.ttf",
               "size": 173132,
-              "sizeStr": "169 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -6627,7 +6627,7 @@ export const driveData = {
             {
               "name": "Verdana Bold.ttf",
               "size": 153260,
-              "sizeStr": "150 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -6635,7 +6635,7 @@ export const driveData = {
             {
               "name": "Verdana Italic.ttf",
               "size": 174612,
-              "sizeStr": "171 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -6643,7 +6643,7 @@ export const driveData = {
             {
               "name": "Verdana.ttf",
               "size": 186188,
-              "sizeStr": "182 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -6651,7 +6651,7 @@ export const driveData = {
             {
               "name": "Volkhov-BoldItalic.ttf",
               "size": 63784,
-              "sizeStr": "62 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:37",
               "isDir": false,
               "children": []
@@ -6659,7 +6659,7 @@ export const driveData = {
             {
               "name": "WATSON.ttf",
               "size": 77916,
-              "sizeStr": "76 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -6667,7 +6667,7 @@ export const driveData = {
             {
               "name": "Waseem.ttc",
               "size": 370732,
-              "sizeStr": "362 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -6675,7 +6675,7 @@ export const driveData = {
             {
               "name": "Webdings.ttf",
               "size": 124308,
-              "sizeStr": "121 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -6683,7 +6683,7 @@ export const driveData = {
             {
               "name": "Wingdings 2.ttf",
               "size": 68768,
-              "sizeStr": "67 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -6691,7 +6691,7 @@ export const driveData = {
             {
               "name": "Wingdings 3.ttf",
               "size": 38308,
-              "sizeStr": "37 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -6699,7 +6699,7 @@ export const driveData = {
             {
               "name": "Wingdings.ttf",
               "size": 86384,
-              "sizeStr": "84 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -6707,7 +6707,7 @@ export const driveData = {
             {
               "name": "WorkSans-ExtraLight.ttf",
               "size": 192140,
-              "sizeStr": "188 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:37",
               "isDir": false,
               "children": []
@@ -6715,7 +6715,7 @@ export const driveData = {
             {
               "name": "WorkSans-Regular.ttf",
               "size": 191916,
-              "sizeStr": "187 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:37",
               "isDir": false,
               "children": []
@@ -6723,7 +6723,7 @@ export const driveData = {
             {
               "name": "WorkSans-Thin.ttf",
               "size": 135044,
-              "sizeStr": "132 KB",
+              "sizeStr": "",
               "date": "2020-11-17 19:50",
               "isDir": false,
               "children": []
@@ -6731,7 +6731,7 @@ export const driveData = {
             {
               "name": "YesevaOne-Regular.ttf",
               "size": 101036,
-              "sizeStr": "99 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:37",
               "isDir": false,
               "children": []
@@ -6739,7 +6739,7 @@ export const driveData = {
             {
               "name": "Zapfino.ttf",
               "size": 403308,
-              "sizeStr": "394 KB",
+              "sizeStr": "",
               "date": "2025-03-06 13:06",
               "isDir": false,
               "children": []
@@ -6747,7 +6747,7 @@ export const driveData = {
             {
               "name": "al-farooq.ttf",
               "size": 64968,
-              "sizeStr": "63 KB",
+              "sizeStr": "",
               "date": "2023-12-30 00:31",
               "isDir": false,
               "children": []
@@ -6755,7 +6755,7 @@ export const driveData = {
             {
               "name": "alfont_com_SFProAR_semibold.ttf",
               "size": 27004,
-              "sizeStr": "26 KB",
+              "sizeStr": "",
               "date": "2021-11-19 12:24",
               "isDir": false,
               "children": []
@@ -6763,7 +6763,7 @@ export const driveData = {
             {
               "name": "alqalam-ishtiaq-regular-1_HelpMacNet_.ttf",
               "size": 74444,
-              "sizeStr": "73 KB",
+              "sizeStr": "",
               "date": "2012-04-30 18:30",
               "isDir": false,
               "children": []
@@ -6771,7 +6771,7 @@ export const driveData = {
             {
               "name": "antar.ttf",
               "size": 81548,
-              "sizeStr": "80 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:41",
               "isDir": false,
               "children": []
@@ -6779,7 +6779,7 @@ export const driveData = {
             {
               "name": "collegec.ttf",
               "size": 11192,
-              "sizeStr": "11 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:37",
               "isDir": false,
               "children": []
@@ -6787,7 +6787,7 @@ export const driveData = {
             {
               "name": "hala-jamil-fonts.otf",
               "size": 126480,
-              "sizeStr": "124 KB",
+              "sizeStr": "",
               "date": "2020-11-10 14:44",
               "isDir": false,
               "children": []
@@ -6795,7 +6795,7 @@ export const driveData = {
             {
               "name": "high_sans_serif_7.ttf",
               "size": 91964,
-              "sizeStr": "90 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:37",
               "isDir": false,
               "children": []
@@ -6811,7 +6811,7 @@ export const driveData = {
             {
               "name": "modern goth.ttf",
               "size": 30932,
-              "sizeStr": "30 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:37",
               "isDir": false,
               "children": []
@@ -6819,7 +6819,7 @@ export const driveData = {
             {
               "name": "riesling.ttf",
               "size": 45744,
-              "sizeStr": "45 KB",
+              "sizeStr": "",
               "date": "2023-03-14 10:37",
               "isDir": false,
               "children": []
@@ -6829,14 +6829,14 @@ export const driveData = {
         {
           "name": "مونتاج",
           "size": 1048576,
-          "sizeStr": "1.0 MB",
+          "sizeStr": "",
           "date": "2024-03-12 21:17",
           "isDir": true,
           "children": [
             {
               "name": "( يس ) زيارة السرداب.prproj",
               "size": 151916,
-              "sizeStr": "148 KB",
+              "sizeStr": "",
               "date": "2024-11-10 16:44",
               "isDir": false,
               "children": []
@@ -6844,7 +6844,7 @@ export const driveData = {
             {
               "name": "( يس ) زيارة السرداب_1.prproj",
               "size": 154674,
-              "sizeStr": "151 KB",
+              "sizeStr": "",
               "date": "2025-01-11 14:46",
               "isDir": false,
               "children": []
@@ -6852,14 +6852,14 @@ export const driveData = {
             {
               "name": "Adobe Premiere Pro Audio Previews",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2024-03-12 22:08",
               "isDir": true,
               "children": [
                 {
                   "name": "( يس ) زيارة السرداب.PRV",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-01-11 14:43",
                   "isDir": false,
                   "children": []
@@ -6867,14 +6867,14 @@ export const driveData = {
                 {
                   "name": "EDITغمغام.PRV",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2024-03-12 22:08",
                   "isDir": true,
                   "children": [
                     {
                       "name": "Peak Files",
                       "size": 1048576,
-                      "sizeStr": "1.0 MB",
+                      "sizeStr": "",
                       "date": "2024-03-12 22:08",
                       "isDir": true,
                       "children": [
@@ -6917,7 +6917,7 @@ export const driveData = {
                 {
                   "name": "اصفر م.PRV",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2024-04-15 15:45",
                   "isDir": true,
                   "children": [
@@ -6932,7 +6932,7 @@ export const driveData = {
                     {
                       "name": "Peak Files",
                       "size": 1048576,
-                      "sizeStr": "1.0 MB",
+                      "sizeStr": "",
                       "date": "2024-04-15 15:45",
                       "isDir": true,
                       "children": [
@@ -6951,14 +6951,14 @@ export const driveData = {
                 {
                   "name": "ريلز شاكر .PRV",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2024-03-14 00:23",
                   "isDir": true,
                   "children": [
                     {
                       "name": "0eb45aa8-efd2-4498-840f-72cebd811d30+856fe5a9-9b98-a9d8-f9d2-99ad00000049 48000.cfa",
                       "size": 524288,
-                      "sizeStr": "512 KB",
+                      "sizeStr": "",
                       "date": "2024-03-14 00:23",
                       "isDir": false,
                       "children": []
@@ -6966,7 +6966,7 @@ export const driveData = {
                     {
                       "name": "116ead89-1605-497d-8e31-f1b1e0e77c18+aba139aa-a58e-e4fd-1a4e-440600000049 48000.cfa",
                       "size": 524288,
-                      "sizeStr": "512 KB",
+                      "sizeStr": "",
                       "date": "2024-03-14 16:59",
                       "isDir": false,
                       "children": []
@@ -6974,7 +6974,7 @@ export const driveData = {
                     {
                       "name": "221d0ca3-cc99-4946-883b-f9efdbf0e833+856fe5a9-9b98-a9d8-f9d2-99ad00000049 48000.cfa",
                       "size": 524288,
-                      "sizeStr": "512 KB",
+                      "sizeStr": "",
                       "date": "2024-03-14 00:23",
                       "isDir": false,
                       "children": []
@@ -6982,7 +6982,7 @@ export const driveData = {
                     {
                       "name": "47e734a0-11cc-409a-93ae-21eb11ee1408+856fe5a9-9b98-a9d8-f9d2-99ad00000049 48000.cfa",
                       "size": 524288,
-                      "sizeStr": "512 KB",
+                      "sizeStr": "",
                       "date": "2024-03-14 16:59",
                       "isDir": false,
                       "children": []
@@ -6990,7 +6990,7 @@ export const driveData = {
                     {
                       "name": "4b3f9a4d-2eec-4946-af6e-3f4e9206a104+aba139aa-a58e-e4fd-1a4e-440600000049 48000.cfa",
                       "size": 524288,
-                      "sizeStr": "512 KB",
+                      "sizeStr": "",
                       "date": "2024-03-14 16:59",
                       "isDir": false,
                       "children": []
@@ -6998,7 +6998,7 @@ export const driveData = {
                     {
                       "name": "545755bb-2f31-4440-a0db-b71870ef73ed+856fe5a9-9b98-a9d8-f9d2-99ad00000049 48000.cfa",
                       "size": 524288,
-                      "sizeStr": "512 KB",
+                      "sizeStr": "",
                       "date": "2024-03-14 16:59",
                       "isDir": false,
                       "children": []
@@ -7006,7 +7006,7 @@ export const driveData = {
                     {
                       "name": "64bb26aa-dc42-4714-ae81-5fd79b943569+aba139aa-a58e-e4fd-1a4e-440600000049 48000.cfa",
                       "size": 524288,
-                      "sizeStr": "512 KB",
+                      "sizeStr": "",
                       "date": "2024-03-14 16:59",
                       "isDir": false,
                       "children": []
@@ -7014,7 +7014,7 @@ export const driveData = {
                     {
                       "name": "7ce29be3-1471-4461-89fa-e1f77e2b59b0+856fe5a9-9b98-a9d8-f9d2-99ad00000049 48000.cfa",
                       "size": 524288,
-                      "sizeStr": "512 KB",
+                      "sizeStr": "",
                       "date": "2024-03-14 16:59",
                       "isDir": false,
                       "children": []
@@ -7022,7 +7022,7 @@ export const driveData = {
                     {
                       "name": "954431eb-bb90-4c9a-838e-59e19e7894a8+aba139aa-a58e-e4fd-1a4e-440600000049 48000.cfa",
                       "size": 524288,
-                      "sizeStr": "512 KB",
+                      "sizeStr": "",
                       "date": "2024-03-14 00:23",
                       "isDir": false,
                       "children": []
@@ -7030,7 +7030,7 @@ export const driveData = {
                     {
                       "name": "9747df4d-97fe-40fa-aef6-43a460b4e233+aba139aa-a58e-e4fd-1a4e-440600000049 48000.cfa",
                       "size": 524288,
-                      "sizeStr": "512 KB",
+                      "sizeStr": "",
                       "date": "2024-03-14 00:23",
                       "isDir": false,
                       "children": []
@@ -7038,14 +7038,14 @@ export const driveData = {
                     {
                       "name": "Peak Files",
                       "size": 1048576,
-                      "sizeStr": "1.0 MB",
+                      "sizeStr": "",
                       "date": "2024-03-14 00:23",
                       "isDir": true,
                       "children": [
                         {
                           "name": "0eb45aa8-efd2-4498-840f-72cebd811d30+856fe5a9-9b98-a9d8-f9d2-99ad00000049 48000.pek",
                           "size": 2116,
-                          "sizeStr": "2 KB",
+                          "sizeStr": "",
                           "date": "2024-03-14 00:23",
                           "isDir": false,
                           "children": []
@@ -7053,7 +7053,7 @@ export const driveData = {
                         {
                           "name": "116ead89-1605-497d-8e31-f1b1e0e77c18+aba139aa-a58e-e4fd-1a4e-440600000049 48000.pek",
                           "size": 2116,
-                          "sizeStr": "2 KB",
+                          "sizeStr": "",
                           "date": "2024-03-14 16:59",
                           "isDir": false,
                           "children": []
@@ -7061,7 +7061,7 @@ export const driveData = {
                         {
                           "name": "221d0ca3-cc99-4946-883b-f9efdbf0e833+856fe5a9-9b98-a9d8-f9d2-99ad00000049 48000.pek",
                           "size": 2116,
-                          "sizeStr": "2 KB",
+                          "sizeStr": "",
                           "date": "2024-03-14 00:23",
                           "isDir": false,
                           "children": []
@@ -7069,7 +7069,7 @@ export const driveData = {
                         {
                           "name": "47e734a0-11cc-409a-93ae-21eb11ee1408+856fe5a9-9b98-a9d8-f9d2-99ad00000049 48000.pek",
                           "size": 2116,
-                          "sizeStr": "2 KB",
+                          "sizeStr": "",
                           "date": "2024-03-14 16:59",
                           "isDir": false,
                           "children": []
@@ -7077,7 +7077,7 @@ export const driveData = {
                         {
                           "name": "4b3f9a4d-2eec-4946-af6e-3f4e9206a104+aba139aa-a58e-e4fd-1a4e-440600000049 48000.pek",
                           "size": 2116,
-                          "sizeStr": "2 KB",
+                          "sizeStr": "",
                           "date": "2024-03-14 16:59",
                           "isDir": false,
                           "children": []
@@ -7085,7 +7085,7 @@ export const driveData = {
                         {
                           "name": "545755bb-2f31-4440-a0db-b71870ef73ed+856fe5a9-9b98-a9d8-f9d2-99ad00000049 48000.pek",
                           "size": 2116,
-                          "sizeStr": "2 KB",
+                          "sizeStr": "",
                           "date": "2024-03-14 16:59",
                           "isDir": false,
                           "children": []
@@ -7093,7 +7093,7 @@ export const driveData = {
                         {
                           "name": "64bb26aa-dc42-4714-ae81-5fd79b943569+aba139aa-a58e-e4fd-1a4e-440600000049 48000.pek",
                           "size": 2116,
-                          "sizeStr": "2 KB",
+                          "sizeStr": "",
                           "date": "2024-03-14 16:59",
                           "isDir": false,
                           "children": []
@@ -7101,7 +7101,7 @@ export const driveData = {
                         {
                           "name": "7ce29be3-1471-4461-89fa-e1f77e2b59b0+856fe5a9-9b98-a9d8-f9d2-99ad00000049 48000.pek",
                           "size": 2116,
-                          "sizeStr": "2 KB",
+                          "sizeStr": "",
                           "date": "2024-03-14 16:59",
                           "isDir": false,
                           "children": []
@@ -7109,7 +7109,7 @@ export const driveData = {
                         {
                           "name": "954431eb-bb90-4c9a-838e-59e19e7894a8+aba139aa-a58e-e4fd-1a4e-440600000049 48000.pek",
                           "size": 2116,
-                          "sizeStr": "2 KB",
+                          "sizeStr": "",
                           "date": "2024-03-14 00:23",
                           "isDir": false,
                           "children": []
@@ -7117,7 +7117,7 @@ export const driveData = {
                         {
                           "name": "9747df4d-97fe-40fa-aef6-43a460b4e233+aba139aa-a58e-e4fd-1a4e-440600000049 48000.pek",
                           "size": 2116,
-                          "sizeStr": "2 KB",
+                          "sizeStr": "",
                           "date": "2024-03-14 00:23",
                           "isDir": false,
                           "children": []
@@ -7125,7 +7125,7 @@ export const driveData = {
                         {
                           "name": "dc3c58b7-31a9-4582-a4af-ded946e1089f+856fe5a9-9b98-a9d8-f9d2-99ad00000049 48000.pek",
                           "size": 2116,
-                          "sizeStr": "2 KB",
+                          "sizeStr": "",
                           "date": "2024-03-14 00:23",
                           "isDir": false,
                           "children": []
@@ -7133,7 +7133,7 @@ export const driveData = {
                         {
                           "name": "e0305e15-bc95-43a1-9fe3-ff2f0b8cf587+856fe5a9-9b98-a9d8-f9d2-99ad00000049 48000.pek",
                           "size": 2116,
-                          "sizeStr": "2 KB",
+                          "sizeStr": "",
                           "date": "2024-03-14 00:23",
                           "isDir": false,
                           "children": []
@@ -7141,7 +7141,7 @@ export const driveData = {
                         {
                           "name": "e45dcdd6-ca41-4b81-81a1-aab3e2a19048+aba139aa-a58e-e4fd-1a4e-440600000049 48000.pek",
                           "size": 2116,
-                          "sizeStr": "2 KB",
+                          "sizeStr": "",
                           "date": "2024-03-14 00:23",
                           "isDir": false,
                           "children": []
@@ -7149,7 +7149,7 @@ export const driveData = {
                         {
                           "name": "e5bfc50b-1a78-4ecf-9fec-9eaaf907c086+856fe5a9-9b98-a9d8-f9d2-99ad00000049 48000.pek",
                           "size": 2116,
-                          "sizeStr": "2 KB",
+                          "sizeStr": "",
                           "date": "2024-03-14 16:59",
                           "isDir": false,
                           "children": []
@@ -7157,7 +7157,7 @@ export const driveData = {
                         {
                           "name": "f967b5f9-9f5b-4cf2-a6b0-491376b53a4d+856fe5a9-9b98-a9d8-f9d2-99ad00000049 48000.pek",
                           "size": 2116,
-                          "sizeStr": "2 KB",
+                          "sizeStr": "",
                           "date": "2024-03-14 00:23",
                           "isDir": false,
                           "children": []
@@ -7167,7 +7167,7 @@ export const driveData = {
                     {
                       "name": "dc3c58b7-31a9-4582-a4af-ded946e1089f+856fe5a9-9b98-a9d8-f9d2-99ad00000049 48000.cfa",
                       "size": 524288,
-                      "sizeStr": "512 KB",
+                      "sizeStr": "",
                       "date": "2024-03-14 00:23",
                       "isDir": false,
                       "children": []
@@ -7175,7 +7175,7 @@ export const driveData = {
                     {
                       "name": "e0305e15-bc95-43a1-9fe3-ff2f0b8cf587+856fe5a9-9b98-a9d8-f9d2-99ad00000049 48000.cfa",
                       "size": 524288,
-                      "sizeStr": "512 KB",
+                      "sizeStr": "",
                       "date": "2024-03-14 00:23",
                       "isDir": false,
                       "children": []
@@ -7183,7 +7183,7 @@ export const driveData = {
                     {
                       "name": "e45dcdd6-ca41-4b81-81a1-aab3e2a19048+aba139aa-a58e-e4fd-1a4e-440600000049 48000.cfa",
                       "size": 524288,
-                      "sizeStr": "512 KB",
+                      "sizeStr": "",
                       "date": "2024-03-14 00:23",
                       "isDir": false,
                       "children": []
@@ -7191,7 +7191,7 @@ export const driveData = {
                     {
                       "name": "e5bfc50b-1a78-4ecf-9fec-9eaaf907c086+856fe5a9-9b98-a9d8-f9d2-99ad00000049 48000.cfa",
                       "size": 524288,
-                      "sizeStr": "512 KB",
+                      "sizeStr": "",
                       "date": "2024-03-14 16:59",
                       "isDir": false,
                       "children": []
@@ -7199,7 +7199,7 @@ export const driveData = {
                     {
                       "name": "f967b5f9-9f5b-4cf2-a6b0-491376b53a4d+856fe5a9-9b98-a9d8-f9d2-99ad00000049 48000.cfa",
                       "size": 524288,
-                      "sizeStr": "512 KB",
+                      "sizeStr": "",
                       "date": "2024-03-14 00:23",
                       "isDir": false,
                       "children": []
@@ -7209,7 +7209,7 @@ export const driveData = {
                 {
                   "name": "زيارة السرداب.PRV",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-01-12 18:09",
                   "isDir": false,
                   "children": []
@@ -7217,7 +7217,7 @@ export const driveData = {
                 {
                   "name": "زيارة السرداب_1.PRV",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-01-12 18:06",
                   "isDir": false,
                   "children": []
@@ -7225,7 +7225,7 @@ export const driveData = {
                 {
                   "name": "علي البحراني مونتاج_1.PRV",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2024-06-10 01:43",
                   "isDir": true,
                   "children": [
@@ -7248,14 +7248,14 @@ export const driveData = {
                     {
                       "name": "Peak Files",
                       "size": 1048576,
-                      "sizeStr": "1.0 MB",
+                      "sizeStr": "",
                       "date": "2024-06-10 01:43",
                       "isDir": true,
                       "children": [
                         {
                           "name": "09fbe5b9-fbaf-4157-8299-b25113bc1503+5dddfb0c-12cd-37cf-9c09-314500000049 48000.pek",
                           "size": 233540,
-                          "sizeStr": "228 KB",
+                          "sizeStr": "",
                           "date": "2024-06-10 01:44",
                           "isDir": false,
                           "children": []
@@ -7263,7 +7263,7 @@ export const driveData = {
                         {
                           "name": "4bf4fa0b-2c7c-4de0-81c7-4e7ed8314ac0+9b823dd3-1618-003b-7a41-7a7600000049 48000.pek",
                           "size": 233540,
-                          "sizeStr": "228 KB",
+                          "sizeStr": "",
                           "date": "2024-06-10 01:53",
                           "isDir": false,
                           "children": []
@@ -7271,7 +7271,7 @@ export const driveData = {
                         {
                           "name": "abab2254-2791-4356-99f7-481ff14a6483+0ff37539-1e2a-80e1-75e8-39c400000049 48000.pek",
                           "size": 233540,
-                          "sizeStr": "228 KB",
+                          "sizeStr": "",
                           "date": "2024-06-10 01:49",
                           "isDir": false,
                           "children": []
@@ -7291,7 +7291,7 @@ export const driveData = {
                 {
                   "name": "قمبر.PRV",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2024-03-17 03:16",
                   "isDir": true,
                   "children": [
@@ -7306,14 +7306,14 @@ export const driveData = {
                     {
                       "name": "Peak Files",
                       "size": 1048576,
-                      "sizeStr": "1.0 MB",
+                      "sizeStr": "",
                       "date": "2024-03-17 03:16",
                       "isDir": true,
                       "children": [
                         {
                           "name": "15e6a306-9269-4197-b7c6-06b41a711b35+a295a1f9-f198-2691-221e-0a4200000049 48000.pek",
                           "size": 71748,
-                          "sizeStr": "70 KB",
+                          "sizeStr": "",
                           "date": "2024-03-17 03:16",
                           "isDir": false,
                           "children": []
@@ -7327,14 +7327,14 @@ export const driveData = {
             {
               "name": "Adobe Premiere Pro Auto-Save",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2024-03-12 21:32",
               "isDir": true,
               "children": [
                 {
                   "name": "( يس ) زيارة السرداب-2024-11-10_16-30-09.prproj",
                   "size": 150286,
-                  "sizeStr": "147 KB",
+                  "sizeStr": "",
                   "date": "2024-11-10 16:30",
                   "isDir": false,
                   "children": []
@@ -7342,7 +7342,7 @@ export const driveData = {
                 {
                   "name": "( يس ) زيارة السرداب-2024-11-10_17-23-55.prproj",
                   "size": 151916,
-                  "sizeStr": "148 KB",
+                  "sizeStr": "",
                   "date": "2024-11-10 16:44",
                   "isDir": false,
                   "children": []
@@ -7350,7 +7350,7 @@ export const driveData = {
                 {
                   "name": "( يس ) زيارة السرداب-2024-11-25_15-11-49.prproj",
                   "size": 151890,
-                  "sizeStr": "148 KB",
+                  "sizeStr": "",
                   "date": "2024-11-25 15:11",
                   "isDir": false,
                   "children": []
@@ -7358,7 +7358,7 @@ export const driveData = {
                 {
                   "name": "( يس ) زيارة السرداب.prproj",
                   "size": 151890,
-                  "sizeStr": "148 KB",
+                  "sizeStr": "",
                   "date": "2024-11-25 15:11",
                   "isDir": false,
                   "children": []
@@ -7366,7 +7366,7 @@ export const driveData = {
                 {
                   "name": "EDITغمغام-2024-03-12_21-32-01.prproj",
                   "size": 102252,
-                  "sizeStr": "100 KB",
+                  "sizeStr": "",
                   "date": "2024-03-12 21:32",
                   "isDir": false,
                   "children": []
@@ -7374,7 +7374,7 @@ export const driveData = {
                 {
                   "name": "EDITغمغام-2024-03-12_21-49-58.prproj",
                   "size": 123235,
-                  "sizeStr": "120 KB",
+                  "sizeStr": "",
                   "date": "2024-03-12 21:50",
                   "isDir": false,
                   "children": []
@@ -7382,7 +7382,7 @@ export const driveData = {
                 {
                   "name": "EDITغمغام-2024-03-12_22-05-39.prproj",
                   "size": 124355,
-                  "sizeStr": "121 KB",
+                  "sizeStr": "",
                   "date": "2024-03-12 22:05",
                   "isDir": false,
                   "children": []
@@ -7390,7 +7390,7 @@ export const driveData = {
                 {
                   "name": "EDITغمغام-2024-03-12_22-19-54.prproj",
                   "size": 130586,
-                  "sizeStr": "128 KB",
+                  "sizeStr": "",
                   "date": "2024-03-12 22:19",
                   "isDir": false,
                   "children": []
@@ -7398,7 +7398,7 @@ export const driveData = {
                 {
                   "name": "EDITغمغام.prproj",
                   "size": 151218,
-                  "sizeStr": "148 KB",
+                  "sizeStr": "",
                   "date": "2024-03-12 23:30",
                   "isDir": false,
                   "children": []
@@ -7406,7 +7406,7 @@ export const driveData = {
                 {
                   "name": "اصفر م.prproj",
                   "size": 113642,
-                  "sizeStr": "111 KB",
+                  "sizeStr": "",
                   "date": "2024-04-15 08:45",
                   "isDir": false,
                   "children": []
@@ -7414,7 +7414,7 @@ export const driveData = {
                 {
                   "name": "تشرظو-2024-04-15_08-40-03.prproj",
                   "size": 109941,
-                  "sizeStr": "107 KB",
+                  "sizeStr": "",
                   "date": "2024-04-15 08:40",
                   "isDir": false,
                   "children": []
@@ -7422,7 +7422,7 @@ export const driveData = {
                 {
                   "name": "تشرظو.prproj",
                   "size": 109941,
-                  "sizeStr": "107 KB",
+                  "sizeStr": "",
                   "date": "2024-04-15 08:40",
                   "isDir": false,
                   "children": []
@@ -7430,7 +7430,7 @@ export const driveData = {
                 {
                   "name": "ريلز شاكر -2024-03-14_16-55-15.prproj",
                   "size": 317682,
-                  "sizeStr": "310 KB",
+                  "sizeStr": "",
                   "date": "2024-03-14 16:55",
                   "isDir": false,
                   "children": []
@@ -7438,7 +7438,7 @@ export const driveData = {
                 {
                   "name": "ريلز شاكر -2024-03-14_17-09-06.prproj",
                   "size": 329649,
-                  "sizeStr": "322 KB",
+                  "sizeStr": "",
                   "date": "2024-03-14 17:09",
                   "isDir": false,
                   "children": []
@@ -7446,7 +7446,7 @@ export const driveData = {
                 {
                   "name": "ريلز شاكر -2024-03-14_18-47-02.prproj",
                   "size": 331464,
-                  "sizeStr": "324 KB",
+                  "sizeStr": "",
                   "date": "2024-03-14 18:47",
                   "isDir": false,
                   "children": []
@@ -7454,7 +7454,7 @@ export const driveData = {
                 {
                   "name": "ريلز شاكر -2024-03-15_20-42-40.prproj",
                   "size": 332508,
-                  "sizeStr": "325 KB",
+                  "sizeStr": "",
                   "date": "2024-03-15 20:42",
                   "isDir": false,
                   "children": []
@@ -7462,7 +7462,7 @@ export const driveData = {
                 {
                   "name": "ريلز شاكر .prproj",
                   "size": 332508,
-                  "sizeStr": "325 KB",
+                  "sizeStr": "",
                   "date": "2024-03-15 20:42",
                   "isDir": false,
                   "children": []
@@ -7470,7 +7470,7 @@ export const driveData = {
                 {
                   "name": "زيارة السرداب-2024-08-26_01-06-49.prproj",
                   "size": 138258,
-                  "sizeStr": "135 KB",
+                  "sizeStr": "",
                   "date": "2024-08-26 01:06",
                   "isDir": false,
                   "children": []
@@ -7478,7 +7478,7 @@ export const driveData = {
                 {
                   "name": "زيارة السرداب-2024-08-26_02-00-19.prproj",
                   "size": 138939,
-                  "sizeStr": "136 KB",
+                  "sizeStr": "",
                   "date": "2024-08-26 01:46",
                   "isDir": false,
                   "children": []
@@ -7486,7 +7486,7 @@ export const driveData = {
                 {
                   "name": "زيارة السرداب-2024-09-10_17-02-59.prproj",
                   "size": 139720,
-                  "sizeStr": "136 KB",
+                  "sizeStr": "",
                   "date": "2024-09-10 16:48",
                   "isDir": false,
                   "children": []
@@ -7494,7 +7494,7 @@ export const driveData = {
                 {
                   "name": "زيارة السرداب-2024-09-10_17-31-55.prproj",
                   "size": 139734,
-                  "sizeStr": "136 KB",
+                  "sizeStr": "",
                   "date": "2024-09-10 17:17",
                   "isDir": false,
                   "children": []
@@ -7502,7 +7502,7 @@ export const driveData = {
                 {
                   "name": "زيارة السرداب.prproj",
                   "size": 139719,
-                  "sizeStr": "136 KB",
+                  "sizeStr": "",
                   "date": "2024-09-10 19:10",
                   "isDir": false,
                   "children": []
@@ -7510,7 +7510,7 @@ export const driveData = {
                 {
                   "name": "عبدو الحي-2025-01-27_16-48-38.prproj",
                   "size": 125615,
-                  "sizeStr": "123 KB",
+                  "sizeStr": "",
                   "date": "2025-01-27 16:48",
                   "isDir": false,
                   "children": []
@@ -7518,7 +7518,7 @@ export const driveData = {
                 {
                   "name": "عبدو الحي-2025-01-27_17-03-00.prproj",
                   "size": 138517,
-                  "sizeStr": "135 KB",
+                  "sizeStr": "",
                   "date": "2025-01-27 17:03",
                   "isDir": false,
                   "children": []
@@ -7526,7 +7526,7 @@ export const driveData = {
                 {
                   "name": "عبدو الحي-2025-01-27_17-25-41.prproj",
                   "size": 150306,
-                  "sizeStr": "147 KB",
+                  "sizeStr": "",
                   "date": "2025-01-27 17:25",
                   "isDir": false,
                   "children": []
@@ -7534,7 +7534,7 @@ export const driveData = {
                 {
                   "name": "عبدو الحي-2025-01-27_18-54-34.prproj",
                   "size": 152557,
-                  "sizeStr": "149 KB",
+                  "sizeStr": "",
                   "date": "2025-01-27 18:54",
                   "isDir": false,
                   "children": []
@@ -7542,7 +7542,7 @@ export const driveData = {
                 {
                   "name": "عبدو الحي-2025-01-27_19-16-16.prproj",
                   "size": 156043,
-                  "sizeStr": "152 KB",
+                  "sizeStr": "",
                   "date": "2025-01-27 19:16",
                   "isDir": false,
                   "children": []
@@ -7550,7 +7550,7 @@ export const driveData = {
                 {
                   "name": "عبدو الحي-2025-01-27_19-40-15.prproj",
                   "size": 159714,
-                  "sizeStr": "156 KB",
+                  "sizeStr": "",
                   "date": "2025-01-27 19:40",
                   "isDir": false,
                   "children": []
@@ -7558,7 +7558,7 @@ export const driveData = {
                 {
                   "name": "عبدو الحي-2025-01-27_19-57-07.prproj",
                   "size": 165176,
-                  "sizeStr": "161 KB",
+                  "sizeStr": "",
                   "date": "2025-01-27 19:57",
                   "isDir": false,
                   "children": []
@@ -7566,7 +7566,7 @@ export const driveData = {
                 {
                   "name": "عبدو الحي-2025-01-27_20-12-26.prproj",
                   "size": 194100,
-                  "sizeStr": "190 KB",
+                  "sizeStr": "",
                   "date": "2025-01-27 20:12",
                   "isDir": false,
                   "children": []
@@ -7574,7 +7574,7 @@ export const driveData = {
                 {
                   "name": "عبدو الحي.prproj",
                   "size": 194100,
-                  "sizeStr": "190 KB",
+                  "sizeStr": "",
                   "date": "2025-01-27 20:12",
                   "isDir": false,
                   "children": []
@@ -7582,7 +7582,7 @@ export const driveData = {
                 {
                   "name": "علي البحراني مونتاج.prproj",
                   "size": 71579,
-                  "sizeStr": "70 KB",
+                  "sizeStr": "",
                   "date": "2024-03-13 00:32",
                   "isDir": false,
                   "children": []
@@ -7590,7 +7590,7 @@ export const driveData = {
                 {
                   "name": "علي البحراني مونتاج_1--cfa24ed2-1765-9ed8-0dc1-43eca077165e-2024-06-10_01-28-04.prproj",
                   "size": 83279,
-                  "sizeStr": "81 KB",
+                  "sizeStr": "",
                   "date": "2024-06-10 01:28",
                   "isDir": false,
                   "children": []
@@ -7598,7 +7598,7 @@ export const driveData = {
                 {
                   "name": "علي البحراني مونتاج_1--cfa24ed2-1765-9ed8-0dc1-43eca077165e-2024-06-10_01-52-15.prproj",
                   "size": 98202,
-                  "sizeStr": "96 KB",
+                  "sizeStr": "",
                   "date": "2024-06-10 01:52",
                   "isDir": false,
                   "children": []
@@ -7606,7 +7606,7 @@ export const driveData = {
                 {
                   "name": "علي البحراني مونتاج_1--cfa24ed2-1765-9ed8-0dc1-43eca077165e-2024-06-10_02-08-26.prproj",
                   "size": 102913,
-                  "sizeStr": "101 KB",
+                  "sizeStr": "",
                   "date": "2024-06-10 02:08",
                   "isDir": false,
                   "children": []
@@ -7614,7 +7614,7 @@ export const driveData = {
                 {
                   "name": "علي البحراني-2024-03-13_00-32-07.prproj",
                   "size": 85019,
-                  "sizeStr": "83 KB",
+                  "sizeStr": "",
                   "date": "2024-03-13 00:32",
                   "isDir": false,
                   "children": []
@@ -7622,7 +7622,7 @@ export const driveData = {
                 {
                   "name": "علي البحراني.prproj",
                   "size": 49792,
-                  "sizeStr": "49 KB",
+                  "sizeStr": "",
                   "date": "2024-03-13 00:32",
                   "isDir": false,
                   "children": []
@@ -7630,7 +7630,7 @@ export const driveData = {
                 {
                   "name": "غريب--9d07d753-24af-e375-4736-9ea3e1f1db93-2024-03-25_01-14-01.prproj",
                   "size": 209910,
-                  "sizeStr": "205 KB",
+                  "sizeStr": "",
                   "date": "2024-03-25 01:14",
                   "isDir": false,
                   "children": []
@@ -7638,7 +7638,7 @@ export const driveData = {
                 {
                   "name": "غريب--9d07d753-24af-e375-4736-9ea3e1f1db93-2024-03-25_03-26-56.prproj",
                   "size": 346303,
-                  "sizeStr": "338 KB",
+                  "sizeStr": "",
                   "date": "2024-03-25 03:26",
                   "isDir": false,
                   "children": []
@@ -7646,7 +7646,7 @@ export const driveData = {
                 {
                   "name": "غريب--9d07d753-24af-e375-4736-9ea3e1f1db93-2024-03-25_03-48-56.prproj",
                   "size": 351129,
-                  "sizeStr": "343 KB",
+                  "sizeStr": "",
                   "date": "2024-03-25 03:48",
                   "isDir": false,
                   "children": []
@@ -7654,7 +7654,7 @@ export const driveData = {
                 {
                   "name": "غريب--9d07d753-24af-e375-4736-9ea3e1f1db93-2024-03-25_04-06-17.prproj",
                   "size": 352303,
-                  "sizeStr": "344 KB",
+                  "sizeStr": "",
                   "date": "2024-03-25 04:06",
                   "isDir": false,
                   "children": []
@@ -7662,7 +7662,7 @@ export const driveData = {
                 {
                   "name": "غريب--9d07d753-24af-e375-4736-9ea3e1f1db93-2024-03-25_04-22-17.prproj",
                   "size": 461061,
-                  "sizeStr": "450 KB",
+                  "sizeStr": "",
                   "date": "2024-03-25 04:22",
                   "isDir": false,
                   "children": []
@@ -7670,7 +7670,7 @@ export const driveData = {
                 {
                   "name": "غريب--9d07d753-24af-e375-4736-9ea3e1f1db93-2024-03-25_04-38-17.prproj",
                   "size": 461215,
-                  "sizeStr": "450 KB",
+                  "sizeStr": "",
                   "date": "2024-03-25 04:38",
                   "isDir": false,
                   "children": []
@@ -7678,7 +7678,7 @@ export const driveData = {
                 {
                   "name": "في وين دارك-2024-09-27_19-41-34.prproj",
                   "size": 148676,
-                  "sizeStr": "145 KB",
+                  "sizeStr": "",
                   "date": "2024-09-27 19:41",
                   "isDir": false,
                   "children": []
@@ -7686,7 +7686,7 @@ export const driveData = {
                 {
                   "name": "في وين دارك-2024-11-10_16-22-29.prproj",
                   "size": 148272,
-                  "sizeStr": "145 KB",
+                  "sizeStr": "",
                   "date": "2024-11-10 16:22",
                   "isDir": false,
                   "children": []
@@ -7694,7 +7694,7 @@ export const driveData = {
                 {
                   "name": "في وين دارك.prproj",
                   "size": 148272,
-                  "sizeStr": "145 KB",
+                  "sizeStr": "",
                   "date": "2024-11-10 16:22",
                   "isDir": false,
                   "children": []
@@ -7702,7 +7702,7 @@ export const driveData = {
                 {
                   "name": "قمبر-2024-03-17_03-11-37.prproj",
                   "size": 99591,
-                  "sizeStr": "97 KB",
+                  "sizeStr": "",
                   "date": "2024-03-17 03:11",
                   "isDir": false,
                   "children": []
@@ -7710,7 +7710,7 @@ export const driveData = {
                 {
                   "name": "قمبر-2024-03-17_03-25-17.prproj",
                   "size": 107513,
-                  "sizeStr": "105 KB",
+                  "sizeStr": "",
                   "date": "2024-03-17 03:25",
                   "isDir": false,
                   "children": []
@@ -7718,7 +7718,7 @@ export const driveData = {
                 {
                   "name": "قمبر.prproj",
                   "size": 107513,
-                  "sizeStr": "105 KB",
+                  "sizeStr": "",
                   "date": "2024-03-17 03:25",
                   "isDir": false,
                   "children": []
@@ -7726,7 +7726,7 @@ export const driveData = {
                 {
                   "name": "مح-2024-03-17_20-18-45.prproj",
                   "size": 104283,
-                  "sizeStr": "102 KB",
+                  "sizeStr": "",
                   "date": "2024-03-17 20:18",
                   "isDir": false,
                   "children": []
@@ -7734,7 +7734,7 @@ export const driveData = {
                 {
                   "name": "مح-2024-03-17_20-32-23.prproj",
                   "size": 112740,
-                  "sizeStr": "110 KB",
+                  "sizeStr": "",
                   "date": "2024-03-17 20:32",
                   "isDir": false,
                   "children": []
@@ -7742,7 +7742,7 @@ export const driveData = {
                 {
                   "name": "مح.prproj",
                   "size": 112740,
-                  "sizeStr": "110 KB",
+                  "sizeStr": "",
                   "date": "2024-03-17 20:32",
                   "isDir": false,
                   "children": []
@@ -7750,7 +7750,7 @@ export const driveData = {
                 {
                   "name": "مرتضى قريش ( ياسين )-2025-01-23_16-33-43.prproj",
                   "size": 317040,
-                  "sizeStr": "310 KB",
+                  "sizeStr": "",
                   "date": "2025-01-23 16:33",
                   "isDir": false,
                   "children": []
@@ -7758,7 +7758,7 @@ export const driveData = {
                 {
                   "name": "مرتضى قريش ( ياسين )-2025-02-10_23-44-56.prproj",
                   "size": 327923,
-                  "sizeStr": "320 KB",
+                  "sizeStr": "",
                   "date": "2025-02-10 23:44",
                   "isDir": false,
                   "children": []
@@ -7766,7 +7766,7 @@ export const driveData = {
                 {
                   "name": "مرتضى قريش ( ياسين )-2025-02-10_23-59-59.prproj",
                   "size": 348716,
-                  "sizeStr": "341 KB",
+                  "sizeStr": "",
                   "date": "2025-02-11 00:00",
                   "isDir": false,
                   "children": []
@@ -7774,7 +7774,7 @@ export const driveData = {
                 {
                   "name": "مرتضى قريش ( ياسين )-2025-02-11_00-14-56.prproj",
                   "size": 351882,
-                  "sizeStr": "344 KB",
+                  "sizeStr": "",
                   "date": "2025-02-11 00:14",
                   "isDir": false,
                   "children": []
@@ -7782,7 +7782,7 @@ export const driveData = {
                 {
                   "name": "مرتضى قريش ( ياسين )-2025-02-11_00-32-16.prproj",
                   "size": 354044,
-                  "sizeStr": "346 KB",
+                  "sizeStr": "",
                   "date": "2025-02-11 00:32",
                   "isDir": false,
                   "children": []
@@ -7790,7 +7790,7 @@ export const driveData = {
                 {
                   "name": "مرتضى قريش ( ياسين )-2025-02-11_15-00-43.prproj",
                   "size": 356872,
-                  "sizeStr": "349 KB",
+                  "sizeStr": "",
                   "date": "2025-02-11 15:00",
                   "isDir": false,
                   "children": []
@@ -7798,7 +7798,7 @@ export const driveData = {
                 {
                   "name": "مرتضى قريش ( ياسين )-2025-02-11_15-15-49.prproj",
                   "size": 357503,
-                  "sizeStr": "349 KB",
+                  "sizeStr": "",
                   "date": "2025-02-11 15:15",
                   "isDir": false,
                   "children": []
@@ -7806,7 +7806,7 @@ export const driveData = {
                 {
                   "name": "مرتضى قريش ( ياسين )-2025-02-11_15-29-21.prproj",
                   "size": 368980,
-                  "sizeStr": "360 KB",
+                  "sizeStr": "",
                   "date": "2025-02-11 15:29",
                   "isDir": false,
                   "children": []
@@ -7814,7 +7814,7 @@ export const driveData = {
                 {
                   "name": "مرتضى قريش ( ياسين )-2025-02-12_14-51-39.prproj",
                   "size": 376648,
-                  "sizeStr": "368 KB",
+                  "sizeStr": "",
                   "date": "2025-02-12 14:51",
                   "isDir": false,
                   "children": []
@@ -7822,7 +7822,7 @@ export const driveData = {
                 {
                   "name": "مرتضى قريش ( ياسين )-2025-02-12_15-07-04.prproj",
                   "size": 395890,
-                  "sizeStr": "387 KB",
+                  "sizeStr": "",
                   "date": "2025-02-12 15:07",
                   "isDir": false,
                   "children": []
@@ -7830,7 +7830,7 @@ export const driveData = {
                 {
                   "name": "مرتضى قريش ( ياسين )-2025-02-12_15-21-26.prproj",
                   "size": 400430,
-                  "sizeStr": "391 KB",
+                  "sizeStr": "",
                   "date": "2025-02-12 15:21",
                   "isDir": false,
                   "children": []
@@ -7838,7 +7838,7 @@ export const driveData = {
                 {
                   "name": "مرتضى قريش ( ياسين )-2025-02-12_15-36-54.prproj",
                   "size": 418031,
-                  "sizeStr": "408 KB",
+                  "sizeStr": "",
                   "date": "2025-02-12 15:36",
                   "isDir": false,
                   "children": []
@@ -7846,7 +7846,7 @@ export const driveData = {
                 {
                   "name": "مرتضى قريش ( ياسين )-2025-02-12_15-57-32.prproj",
                   "size": 420315,
-                  "sizeStr": "410 KB",
+                  "sizeStr": "",
                   "date": "2025-02-12 15:43",
                   "isDir": false,
                   "children": []
@@ -7854,7 +7854,7 @@ export const driveData = {
                 {
                   "name": "مرتضى قريش ( ياسين )-2025-02-12_16-13-08.prproj",
                   "size": 453752,
-                  "sizeStr": "443 KB",
+                  "sizeStr": "",
                   "date": "2025-02-12 16:13",
                   "isDir": false,
                   "children": []
@@ -7862,7 +7862,7 @@ export const driveData = {
                 {
                   "name": "مرتضى قريش ( ياسين )-2025-02-12_16-27-18.prproj",
                   "size": 456348,
-                  "sizeStr": "446 KB",
+                  "sizeStr": "",
                   "date": "2025-02-12 16:27",
                   "isDir": false,
                   "children": []
@@ -7870,7 +7870,7 @@ export const driveData = {
                 {
                   "name": "مرتضى قريش ( ياسين )-2025-02-12_22-59-22.prproj",
                   "size": 470228,
-                  "sizeStr": "459 KB",
+                  "sizeStr": "",
                   "date": "2025-02-12 22:59",
                   "isDir": false,
                   "children": []
@@ -7878,7 +7878,7 @@ export const driveData = {
                 {
                   "name": "مرتضى قريش ( ياسين )-2025-02-12_23-14-36.prproj",
                   "size": 486855,
-                  "sizeStr": "475 KB",
+                  "sizeStr": "",
                   "date": "2025-02-12 23:14",
                   "isDir": false,
                   "children": []
@@ -7886,7 +7886,7 @@ export const driveData = {
                 {
                   "name": "مرتضى قريش ( ياسين )-2025-02-17_16-35-03.prproj",
                   "size": 503349,
-                  "sizeStr": "492 KB",
+                  "sizeStr": "",
                   "date": "2025-02-17 16:35",
                   "isDir": false,
                   "children": []
@@ -7894,7 +7894,7 @@ export const driveData = {
                 {
                   "name": "مرتضى قريش ( ياسين )-2025-02-17_16-50-21.prproj",
                   "size": 527995,
-                  "sizeStr": "516 KB",
+                  "sizeStr": "",
                   "date": "2025-02-17 16:50",
                   "isDir": false,
                   "children": []
@@ -7902,7 +7902,7 @@ export const driveData = {
                 {
                   "name": "مرتضى قريش ( ياسين )-2025-02-17_17-05-34.prproj",
                   "size": 537435,
-                  "sizeStr": "525 KB",
+                  "sizeStr": "",
                   "date": "2025-02-17 17:05",
                   "isDir": false,
                   "children": []
@@ -7910,7 +7910,7 @@ export const driveData = {
                 {
                   "name": "مرتضى قريش ( ياسين ).prproj",
                   "size": 537471,
-                  "sizeStr": "525 KB",
+                  "sizeStr": "",
                   "date": "2025-02-17 17:13",
                   "isDir": false,
                   "children": []
@@ -7918,7 +7918,7 @@ export const driveData = {
                 {
                   "name": "مونتاج غمغام-2024-03-13_02-30-14.prproj",
                   "size": 287790,
-                  "sizeStr": "281 KB",
+                  "sizeStr": "",
                   "date": "2024-03-13 02:30",
                   "isDir": false,
                   "children": []
@@ -7926,7 +7926,7 @@ export const driveData = {
                 {
                   "name": "مونتاج غمغام-2024-03-13_02-46-12.prproj",
                   "size": 366195,
-                  "sizeStr": "358 KB",
+                  "sizeStr": "",
                   "date": "2024-03-13 02:46",
                   "isDir": false,
                   "children": []
@@ -7934,7 +7934,7 @@ export const driveData = {
                 {
                   "name": "مونتاج غمغام-2024-03-13_03-09-38.prproj",
                   "size": 468462,
-                  "sizeStr": "457 KB",
+                  "sizeStr": "",
                   "date": "2024-03-13 03:09",
                   "isDir": false,
                   "children": []
@@ -7942,7 +7942,7 @@ export const driveData = {
                 {
                   "name": "مونتاج غمغام-2024-03-16_03-35-51.prproj",
                   "size": 482861,
-                  "sizeStr": "472 KB",
+                  "sizeStr": "",
                   "date": "2024-03-16 03:35",
                   "isDir": false,
                   "children": []
@@ -7950,7 +7950,7 @@ export const driveData = {
                 {
                   "name": "مونتاج غمغام-2024-03-16_19-51-17.prproj",
                   "size": 477022,
-                  "sizeStr": "466 KB",
+                  "sizeStr": "",
                   "date": "2024-03-16 19:51",
                   "isDir": false,
                   "children": []
@@ -7958,7 +7958,7 @@ export const driveData = {
                 {
                   "name": "مونتاج غمغام-2024-03-16_20-08-38.prproj",
                   "size": 489851,
-                  "sizeStr": "478 KB",
+                  "sizeStr": "",
                   "date": "2024-03-16 20:08",
                   "isDir": false,
                   "children": []
@@ -7966,7 +7966,7 @@ export const driveData = {
                 {
                   "name": "مونتاج غمغام-2024-03-16_21-24-20.prproj",
                   "size": 490970,
-                  "sizeStr": "479 KB",
+                  "sizeStr": "",
                   "date": "2024-03-16 21:10",
                   "isDir": false,
                   "children": []
@@ -7974,7 +7974,7 @@ export const driveData = {
                 {
                   "name": "مونتاج غمغام-2024-03-17_19-49-03.prproj",
                   "size": 495588,
-                  "sizeStr": "484 KB",
+                  "sizeStr": "",
                   "date": "2024-03-17 19:35",
                   "isDir": false,
                   "children": []
@@ -7982,7 +7982,7 @@ export const driveData = {
                 {
                   "name": "مونتاج غمغام-2024-04-14_14-23-32.prproj",
                   "size": 508224,
-                  "sizeStr": "496 KB",
+                  "sizeStr": "",
                   "date": "2024-04-14 14:23",
                   "isDir": false,
                   "children": []
@@ -7990,7 +7990,7 @@ export const driveData = {
                 {
                   "name": "مونتاج غمغام.prproj",
                   "size": 508224,
-                  "sizeStr": "496 KB",
+                  "sizeStr": "",
                   "date": "2024-04-14 14:23",
                   "isDir": false,
                   "children": []
@@ -7998,7 +7998,7 @@ export const driveData = {
                 {
                   "name": "٠٠٠٠عبدو الحي-2025-01-28_15-09-56.prproj",
                   "size": 175909,
-                  "sizeStr": "172 KB",
+                  "sizeStr": "",
                   "date": "2025-01-28 15:09",
                   "isDir": false,
                   "children": []
@@ -8006,7 +8006,7 @@ export const driveData = {
                 {
                   "name": "٠٠٠٠عبدو الحي-2025-01-28_15-23-24.prproj",
                   "size": 201761,
-                  "sizeStr": "197 KB",
+                  "sizeStr": "",
                   "date": "2025-01-28 15:23",
                   "isDir": false,
                   "children": []
@@ -8014,7 +8014,7 @@ export const driveData = {
                 {
                   "name": "٠٠٠٠عبدو الحي-2025-01-28_16-03-20.prproj",
                   "size": 204751,
-                  "sizeStr": "200 KB",
+                  "sizeStr": "",
                   "date": "2025-01-28 16:03",
                   "isDir": false,
                   "children": []
@@ -8022,7 +8022,7 @@ export const driveData = {
                 {
                   "name": "٠٠٠٠عبدو الحي-2025-02-03_16-11-43.prproj",
                   "size": 204747,
-                  "sizeStr": "200 KB",
+                  "sizeStr": "",
                   "date": "2025-02-03 16:11",
                   "isDir": false,
                   "children": []
@@ -8030,7 +8030,7 @@ export const driveData = {
                 {
                   "name": "٠٠٠٠عبدو الحي-2025-02-04_16-47-03.prproj",
                   "size": 208600,
-                  "sizeStr": "204 KB",
+                  "sizeStr": "",
                   "date": "2025-02-04 16:47",
                   "isDir": false,
                   "children": []
@@ -8038,7 +8038,7 @@ export const driveData = {
                 {
                   "name": "٠٠٠٠عبدو الحي-2025-02-04_17-35-56.prproj",
                   "size": 207005,
-                  "sizeStr": "202 KB",
+                  "sizeStr": "",
                   "date": "2025-02-04 17:35",
                   "isDir": false,
                   "children": []
@@ -8046,7 +8046,7 @@ export const driveData = {
                 {
                   "name": "٠٠٠٠عبدو الحي.prproj",
                   "size": 206920,
-                  "sizeStr": "202 KB",
+                  "sizeStr": "",
                   "date": "2025-02-04 18:16",
                   "isDir": false,
                   "children": []
@@ -8056,14 +8056,14 @@ export const driveData = {
             {
               "name": "Adobe Premiere Pro Captured Audio",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2024-06-10 01:43",
               "isDir": true,
               "children": [
                 {
                   "name": "علي البحراني مونتاج_1",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2024-06-10 01:43",
                   "isDir": false,
                   "children": []
@@ -8073,35 +8073,35 @@ export const driveData = {
             {
               "name": "Premiere Composer Files",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2024-03-13 20:21",
               "isDir": true,
               "children": [
                 {
                   "name": "AEGraphics",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2024-03-13 20:25",
                   "isDir": true,
                   "children": [
                     {
                       "name": "Glitch",
                       "size": 1048576,
-                      "sizeStr": "1.0 MB",
+                      "sizeStr": "",
                       "date": "2024-03-13 20:25",
                       "isDir": true,
                       "children": [
                         {
                           "name": "Digital",
                           "size": 1048576,
-                          "sizeStr": "1.0 MB",
+                          "sizeStr": "",
                           "date": "2024-03-13 20:25",
                           "isDir": true,
                           "children": [
                             {
                               "name": "Map - Digital 1.aegraphic",
                               "size": 664618,
-                              "sizeStr": "649 KB",
+                              "sizeStr": "",
                               "date": "2024-03-13 20:25",
                               "isDir": false,
                               "children": []
@@ -8115,7 +8115,7 @@ export const driveData = {
                 {
                   "name": "Audio",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2024-03-13 20:21",
                   "isDir": true,
                   "children": [
@@ -8130,7 +8130,7 @@ export const driveData = {
                     {
                       "name": "Swoosh 04 - 02.wav",
                       "size": 77916,
-                      "sizeStr": "76 KB",
+                      "sizeStr": "",
                       "date": "2024-03-13 20:24",
                       "isDir": false,
                       "children": []
@@ -8138,7 +8138,7 @@ export const driveData = {
                     {
                       "name": "Swoosh Transition 28.wav",
                       "size": 276820,
-                      "sizeStr": "270 KB",
+                      "sizeStr": "",
                       "date": "2024-03-13 20:21",
                       "isDir": false,
                       "children": []
@@ -8146,7 +8146,7 @@ export const driveData = {
                     {
                       "name": "Transition Complex 14.wav",
                       "size": 219778,
-                      "sizeStr": "215 KB",
+                      "sizeStr": "",
                       "date": "2024-03-13 20:21",
                       "isDir": false,
                       "children": []
@@ -8158,7 +8158,7 @@ export const driveData = {
             {
               "name": "Untitled.prproj",
               "size": 5981,
-              "sizeStr": "6 KB",
+              "sizeStr": "",
               "date": "2024-10-26 18:49",
               "isDir": false,
               "children": []
@@ -8166,7 +8166,7 @@ export const driveData = {
             {
               "name": "yaseen",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2025-02-12 23:17",
               "isDir": true,
               "children": [
@@ -8205,7 +8205,7 @@ export const driveData = {
                 {
                   "name": "درزر.jpg",
                   "size": 462343,
-                  "sizeStr": "452 KB",
+                  "sizeStr": "",
                   "date": "2025-02-12 21:43",
                   "isDir": false,
                   "children": []
@@ -8213,7 +8213,7 @@ export const driveData = {
                 {
                   "name": "مرتضى قريش ( ياسين ).prproj",
                   "size": 486849,
-                  "sizeStr": "475 KB",
+                  "sizeStr": "",
                   "date": "2025-02-12 23:17",
                   "isDir": false,
                   "children": []
@@ -8229,7 +8229,7 @@ export const driveData = {
                 {
                   "name": "معدل.png",
                   "size": 19276,
-                  "sizeStr": "19 KB",
+                  "sizeStr": "",
                   "date": "2023-09-22 14:44",
                   "isDir": false,
                   "children": []
@@ -8237,7 +8237,7 @@ export const driveData = {
                 {
                   "name": "مكم.png",
                   "size": 35844,
-                  "sizeStr": "35 KB",
+                  "sizeStr": "",
                   "date": "2025-01-21 16:00",
                   "isDir": false,
                   "children": []
@@ -8255,7 +8255,7 @@ export const driveData = {
             {
               "name": "زيارة السرداب.prproj",
               "size": 139719,
-              "sizeStr": "136 KB",
+              "sizeStr": "",
               "date": "2024-09-10 19:10",
               "isDir": false,
               "children": []
@@ -8263,7 +8263,7 @@ export const driveData = {
             {
               "name": "زيارة السرداب_1.prproj",
               "size": 141624,
-              "sizeStr": "138 KB",
+              "sizeStr": "",
               "date": "2024-10-26 18:09",
               "isDir": false,
               "children": []
@@ -8271,7 +8271,7 @@ export const driveData = {
             {
               "name": "زيارة السرداب_2.prproj",
               "size": 142103,
-              "sizeStr": "139 KB",
+              "sizeStr": "",
               "date": "2025-01-12 18:09",
               "isDir": false,
               "children": []
@@ -8279,7 +8279,7 @@ export const driveData = {
             {
               "name": "عبدو الحي.prproj",
               "size": 114011,
-              "sizeStr": "111 KB",
+              "sizeStr": "",
               "date": "2025-01-27 16:32",
               "isDir": false,
               "children": []
@@ -8287,7 +8287,7 @@ export const driveData = {
             {
               "name": "علي البحراني مونتاج.prproj",
               "size": 71579,
-              "sizeStr": "70 KB",
+              "sizeStr": "",
               "date": "2024-03-13 00:32",
               "isDir": false,
               "children": []
@@ -8295,7 +8295,7 @@ export const driveData = {
             {
               "name": "علي البحراني مونتاج_1.prproj",
               "size": 73693,
-              "sizeStr": "72 KB",
+              "sizeStr": "",
               "date": "2024-06-10 01:06",
               "isDir": false,
               "children": []
@@ -8303,7 +8303,7 @@ export const driveData = {
             {
               "name": "علي البحراني.prproj",
               "size": 49792,
-              "sizeStr": "49 KB",
+              "sizeStr": "",
               "date": "2024-03-13 00:32",
               "isDir": false,
               "children": []
@@ -8311,7 +8311,7 @@ export const driveData = {
             {
               "name": "في وين دارك.prproj",
               "size": 131620,
-              "sizeStr": "129 KB",
+              "sizeStr": "",
               "date": "2024-09-27 19:22",
               "isDir": false,
               "children": []
@@ -8319,7 +8319,7 @@ export const driveData = {
             {
               "name": "في وين دارك_1.prproj",
               "size": 133361,
-              "sizeStr": "130 KB",
+              "sizeStr": "",
               "date": "2024-10-28 20:08",
               "isDir": false,
               "children": []
@@ -8327,7 +8327,7 @@ export const driveData = {
             {
               "name": "مرتضى قريش ( ياسين ).prproj",
               "size": 537471,
-              "sizeStr": "525 KB",
+              "sizeStr": "",
               "date": "2025-02-17 17:13",
               "isDir": false,
               "children": []
@@ -8343,7 +8343,7 @@ export const driveData = {
             {
               "name": "٠٠٠٠عبدو الحي.prproj",
               "size": 206920,
-              "sizeStr": "202 KB",
+              "sizeStr": "",
               "date": "2025-02-04 18:16",
               "isDir": false,
               "children": []
@@ -8355,21 +8355,21 @@ export const driveData = {
     {
       "name": "١٤٤٥ هـ",
       "size": 1048576,
-      "sizeStr": "1.0 MB",
+      "sizeStr": "",
       "date": "2026-04-29 12:00",
       "isDir": true,
       "children": [
         {
           "name": "غير محدد الشهر",
           "size": 1048576,
-          "sizeStr": "1.0 MB",
+          "sizeStr": "",
           "date": "2026-04-29 12:10",
           "isDir": true,
           "children": [
             {
               "name": "عبد الحي دعاء الندبة ١٤٤٥",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2023-11-13 19:09",
               "isDir": true,
               "children": [
@@ -8444,14 +8444,14 @@ export const driveData = {
         {
           "name": "٠٧ - رجب",
           "size": 1048576,
-          "sizeStr": "1.0 MB",
+          "sizeStr": "",
           "date": "2026-04-29 12:00",
           "isDir": true,
           "children": [
             {
               "name": "رحلة البر ٤٥",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2024-02-05 22:57",
               "isDir": true,
               "children": [
@@ -9460,7 +9460,7 @@ export const driveData = {
             {
               "name": "شيخ بيابي",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2024-02-05 22:49",
               "isDir": true,
               "children": [
@@ -9525,7 +9525,7 @@ export const driveData = {
             {
               "name": "صور امسية رجب ٤٥",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2024-02-05 22:56",
               "isDir": true,
               "children": [
@@ -9846,7 +9846,7 @@ export const driveData = {
             {
               "name": "صور امسية رجب ٤٥ (D)",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2024-02-05 22:56",
               "isDir": true,
               "children": [
@@ -10169,14 +10169,14 @@ export const driveData = {
         {
           "name": "٠٨ - شعبان",
           "size": 1048576,
-          "sizeStr": "1.0 MB",
+          "sizeStr": "",
           "date": "2026-04-29 12:10",
           "isDir": true,
           "children": [
             {
               "name": "مجتبى مسجد المصطفى",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2024-03-06 17:16",
               "isDir": true,
               "children": [
@@ -10223,7 +10223,7 @@ export const driveData = {
                 {
                   "name": "ZOOM0067.WAV",
                   "size": 39496,
-                  "sizeStr": "39 KB",
+                  "sizeStr": "",
                   "date": "2024-11-15 20:58",
                   "isDir": false,
                   "children": []
@@ -10247,7 +10247,7 @@ export const driveData = {
                 {
                   "name": "العهد٢ Audio Extracted.pkf",
                   "size": 76132,
-                  "sizeStr": "74 KB",
+                  "sizeStr": "",
                   "date": "2025-03-11 16:34",
                   "isDir": false,
                   "children": []
@@ -10281,7 +10281,7 @@ export const driveData = {
             {
               "name": "ندبة غمغام - بحراني",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2024-03-08 19:31",
               "isDir": true,
               "children": [
@@ -10348,14 +10348,14 @@ export const driveData = {
         {
           "name": "١٠ - شوال",
           "size": 1048576,
-          "sizeStr": "1.0 MB",
+          "sizeStr": "",
           "date": "2026-04-29 12:10",
           "isDir": true,
           "children": [
             {
               "name": "مقاطع زيارة",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2024-04-22 17:21",
               "isDir": true,
               "children": [
@@ -10370,14 +10370,14 @@ export const driveData = {
                 {
                   "name": "Adobe Premiere Pro Audio Previews",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-01-12 17:58",
                   "isDir": true,
                   "children": [
                     {
                       "name": "القديحي ٢٢.PRV",
                       "size": 1048576,
-                      "sizeStr": "1.0 MB",
+                      "sizeStr": "",
                       "date": "2025-01-12 17:58",
                       "isDir": false,
                       "children": []
@@ -10385,7 +10385,7 @@ export const driveData = {
                     {
                       "name": "القديحي ٢٢_4.PRV",
                       "size": 1048576,
-                      "sizeStr": "1.0 MB",
+                      "sizeStr": "",
                       "date": "2025-01-12 17:59",
                       "isDir": false,
                       "children": []
@@ -10395,14 +10395,14 @@ export const driveData = {
                 {
                   "name": "Adobe Premiere Pro Auto-Save",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2024-05-13 17:30",
                   "isDir": true,
                   "children": [
                     {
                       "name": "القديحي ٢٢-2024-05-13_17-30-47.prproj",
                       "size": 105619,
-                      "sizeStr": "103 KB",
+                      "sizeStr": "",
                       "date": "2024-05-13 17:30",
                       "isDir": false,
                       "children": []
@@ -10410,7 +10410,7 @@ export const driveData = {
                     {
                       "name": "القديحي ٢٢-2024-05-13_17-45-14.prproj",
                       "size": 109093,
-                      "sizeStr": "107 KB",
+                      "sizeStr": "",
                       "date": "2024-05-13 17:45",
                       "isDir": false,
                       "children": []
@@ -10418,7 +10418,7 @@ export const driveData = {
                     {
                       "name": "القديحي ٢٢-2024-05-13_18-03-44.prproj",
                       "size": 113661,
-                      "sizeStr": "111 KB",
+                      "sizeStr": "",
                       "date": "2024-05-13 18:03",
                       "isDir": false,
                       "children": []
@@ -10426,7 +10426,7 @@ export const driveData = {
                     {
                       "name": "القديحي ٢٢.prproj",
                       "size": 118475,
-                      "sizeStr": "116 KB",
+                      "sizeStr": "",
                       "date": "2024-05-13 20:45",
                       "isDir": false,
                       "children": []
@@ -10492,7 +10492,7 @@ export const driveData = {
                 {
                   "name": "القديحي ٢٢.prproj",
                   "size": 118475,
-                  "sizeStr": "116 KB",
+                  "sizeStr": "",
                   "date": "2024-05-13 20:45",
                   "isDir": false,
                   "children": []
@@ -10500,7 +10500,7 @@ export const driveData = {
                 {
                   "name": "القديحي ٢٢_1.prproj",
                   "size": 120305,
-                  "sizeStr": "117 KB",
+                  "sizeStr": "",
                   "date": "2024-06-10 02:42",
                   "isDir": false,
                   "children": []
@@ -10508,7 +10508,7 @@ export const driveData = {
                 {
                   "name": "القديحي ٢٢_2.prproj",
                   "size": 120454,
-                  "sizeStr": "118 KB",
+                  "sizeStr": "",
                   "date": "2024-06-12 01:44",
                   "isDir": false,
                   "children": []
@@ -10516,7 +10516,7 @@ export const driveData = {
                 {
                   "name": "القديحي ٢٢_3.prproj",
                   "size": 120308,
-                  "sizeStr": "117 KB",
+                  "sizeStr": "",
                   "date": "2024-06-13 16:04",
                   "isDir": false,
                   "children": []
@@ -10524,7 +10524,7 @@ export const driveData = {
                 {
                   "name": "القديحي ٢٢_4.prproj",
                   "size": 120352,
-                  "sizeStr": "118 KB",
+                  "sizeStr": "",
                   "date": "2024-06-13 16:05",
                   "isDir": false,
                   "children": []
@@ -10532,7 +10532,7 @@ export const driveData = {
                 {
                   "name": "القديحي ٢٢_5.prproj",
                   "size": 122944,
-                  "sizeStr": "120 KB",
+                  "sizeStr": "",
                   "date": "2025-01-12 17:58",
                   "isDir": false,
                   "children": []
@@ -10556,7 +10556,7 @@ export const driveData = {
                 {
                   "name": "تتبع الدعاء .png",
                   "size": 58106,
-                  "sizeStr": "57 KB",
+                  "sizeStr": "",
                   "date": "2024-05-02 14:20",
                   "isDir": false,
                   "children": []
@@ -10564,7 +10564,7 @@ export const driveData = {
                 {
                   "name": "تتبع ٢.png",
                   "size": 53847,
-                  "sizeStr": "53 KB",
+                  "sizeStr": "",
                   "date": "2024-05-07 14:40",
                   "isDir": false,
                   "children": []
@@ -10596,7 +10596,7 @@ export const driveData = {
                 {
                   "name": "ص قدي.jpg",
                   "size": 402179,
-                  "sizeStr": "393 KB",
+                  "sizeStr": "",
                   "date": "2024-05-01 17:24",
                   "isDir": false,
                   "children": []
@@ -10634,28 +10634,28 @@ export const driveData = {
     {
       "name": "١٤٤٦ هـ",
       "size": 1048576,
-      "sizeStr": "1.0 MB",
+      "sizeStr": "",
       "date": "2026-04-29 12:00",
       "isDir": true,
       "children": [
         {
           "name": "٠٨ - شعبان",
           "size": 1048576,
-          "sizeStr": "1.0 MB",
+          "sizeStr": "",
           "date": "2026-04-29 14:35",
           "isDir": true,
           "children": [
             {
               "name": "دعاء العهد- مجتبى خضر",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2025-02-24 01:13",
               "isDir": true,
               "children": [
                 {
                   "name": "111111122.pdf",
                   "size": 87499,
-                  "sizeStr": "85 KB",
+                  "sizeStr": "",
                   "date": "2025-02-14 20:08",
                   "isDir": false,
                   "children": []
@@ -10747,28 +10747,28 @@ export const driveData = {
         {
           "name": "٠٩ - رمضان",
           "size": 1048576,
-          "sizeStr": "1.0 MB",
+          "sizeStr": "",
           "date": "2026-04-29 14:35",
           "isDir": true,
           "children": [
             {
               "name": "ندبة الغمغمام",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2025-03-14 18:06",
               "isDir": true,
               "children": [
                 {
                   "name": "Adobe Premiere Pro Auto-Save",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-04-30 15:04",
                   "isDir": true,
                   "children": [
                     {
                       "name": "Untitled--abae8344-e833-387b-14a6-68941bd49b57-2025-07-23_07-21-31.prproj",
                       "size": 6475,
-                      "sizeStr": "6 KB",
+                      "sizeStr": "",
                       "date": "2025-07-23 07:21",
                       "isDir": false,
                       "children": []
@@ -10776,7 +10776,7 @@ export const driveData = {
                     {
                       "name": "Untitled--abae8344-e833-387b-14a6-68941bd49b57-2025-07-24_17-56-03.prproj",
                       "size": 8678,
-                      "sizeStr": "8 KB",
+                      "sizeStr": "",
                       "date": "2025-07-24 17:56",
                       "isDir": false,
                       "children": []
@@ -10784,7 +10784,7 @@ export const driveData = {
                     {
                       "name": "Untitled--abae8344-e833-387b-14a6-68941bd49b57-2025-07-24_18-35-18.prproj",
                       "size": 6507,
-                      "sizeStr": "6 KB",
+                      "sizeStr": "",
                       "date": "2025-07-24 18:35",
                       "isDir": false,
                       "children": []
@@ -10792,7 +10792,7 @@ export const driveData = {
                     {
                       "name": "Untitled--abae8344-e833-387b-14a6-68941bd49b57-2025-07-24_18-47-22.prproj",
                       "size": 8679,
-                      "sizeStr": "8 KB",
+                      "sizeStr": "",
                       "date": "2025-07-24 18:47",
                       "isDir": false,
                       "children": []
@@ -10800,7 +10800,7 @@ export const driveData = {
                     {
                       "name": "اااااااااا-2025-04-30_15-39-04.prproj",
                       "size": 156915,
-                      "sizeStr": "153 KB",
+                      "sizeStr": "",
                       "date": "2025-04-30 15:39",
                       "isDir": false,
                       "children": []
@@ -10808,7 +10808,7 @@ export const driveData = {
                     {
                       "name": "اااااااااا-2025-04-30_17-32-02.prproj",
                       "size": 156915,
-                      "sizeStr": "153 KB",
+                      "sizeStr": "",
                       "date": "2025-04-30 17:32",
                       "isDir": false,
                       "children": []
@@ -10816,7 +10816,7 @@ export const driveData = {
                     {
                       "name": "اااااااااا.prproj",
                       "size": 156915,
-                      "sizeStr": "153 KB",
+                      "sizeStr": "",
                       "date": "2025-04-30 17:32",
                       "isDir": false,
                       "children": []
@@ -10912,7 +10912,7 @@ export const driveData = {
                     {
                       "name": "الغمغام--6fb45db8-d7b4-2e28-3728-d676a630df22-2025-07-10_03-02-58.prproj",
                       "size": 22604,
-                      "sizeStr": "22 KB",
+                      "sizeStr": "",
                       "date": "2025-07-10 03:03",
                       "isDir": false,
                       "children": []
@@ -10920,7 +10920,7 @@ export const driveData = {
                     {
                       "name": "الغمغام--6fb45db8-d7b4-2e28-3728-d676a630df22-2025-07-10_03-08-58.prproj",
                       "size": 23123,
-                      "sizeStr": "23 KB",
+                      "sizeStr": "",
                       "date": "2025-07-10 03:09",
                       "isDir": false,
                       "children": []
@@ -10928,7 +10928,7 @@ export const driveData = {
                     {
                       "name": "الغمغام--6fb45db8-d7b4-2e28-3728-d676a630df22-2025-07-10_03-21-58.prproj",
                       "size": 23361,
-                      "sizeStr": "23 KB",
+                      "sizeStr": "",
                       "date": "2025-07-10 03:22",
                       "isDir": false,
                       "children": []
@@ -10936,7 +10936,7 @@ export const driveData = {
                     {
                       "name": "الغمغام--6fb45db8-d7b4-2e28-3728-d676a630df22-2025-07-10_03-40-15.prproj",
                       "size": 23697,
-                      "sizeStr": "23 KB",
+                      "sizeStr": "",
                       "date": "2025-07-10 03:40",
                       "isDir": false,
                       "children": []
@@ -10944,7 +10944,7 @@ export const driveData = {
                     {
                       "name": "غمغام شهر رمضان-2025-04-30_15-04-57.prproj",
                       "size": 139950,
-                      "sizeStr": "137 KB",
+                      "sizeStr": "",
                       "date": "2025-04-30 15:04",
                       "isDir": false,
                       "children": []
@@ -10952,7 +10952,7 @@ export const driveData = {
                     {
                       "name": "غمغام شهر رمضان.prproj",
                       "size": 146256,
-                      "sizeStr": "143 KB",
+                      "sizeStr": "",
                       "date": "2025-04-30 15:22",
                       "isDir": false,
                       "children": []
@@ -11122,14 +11122,14 @@ export const driveData = {
                 {
                   "name": "Adobe Premiere Pro Captured and Generated",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-07-16 22:47",
                   "isDir": true,
                   "children": [
                     {
                       "name": "غمغام شهر رمضان_2",
                       "size": 1048576,
-                      "sizeStr": "1.0 MB",
+                      "sizeStr": "",
                       "date": "2025-07-16 22:47",
                       "isDir": false,
                       "children": []
@@ -11275,7 +11275,7 @@ export const driveData = {
                 {
                   "name": "Untitled.prproj",
                   "size": 6344,
-                  "sizeStr": "6 KB",
+                  "sizeStr": "",
                   "date": "2025-07-24 17:51",
                   "isDir": false,
                   "children": []
@@ -11283,7 +11283,7 @@ export const driveData = {
                 {
                   "name": "اااااااااا.prproj",
                   "size": 140303,
-                  "sizeStr": "137 KB",
+                  "sizeStr": "",
                   "date": "2025-04-30 15:25",
                   "isDir": false,
                   "children": []
@@ -11291,7 +11291,7 @@ export const driveData = {
                 {
                   "name": "اااااااااا_1.prin",
                   "size": 56916,
-                  "sizeStr": "56 KB",
+                  "sizeStr": "",
                   "date": "2025-07-23 12:09",
                   "isDir": false,
                   "children": []
@@ -11307,7 +11307,7 @@ export const driveData = {
                 {
                   "name": "الغمغام.prin",
                   "size": 499391,
-                  "sizeStr": "488 KB",
+                  "sizeStr": "",
                   "date": "2025-07-10 03:47",
                   "isDir": false,
                   "children": []
@@ -11315,7 +11315,7 @@ export const driveData = {
                 {
                   "name": "الغمغام.prproj",
                   "size": 24417,
-                  "sizeStr": "24 KB",
+                  "sizeStr": "",
                   "date": "2025-07-10 03:47",
                   "isDir": false,
                   "children": []
@@ -11323,7 +11323,7 @@ export const driveData = {
                 {
                   "name": "غمغام شهر رمضان.prproj",
                   "size": 146256,
-                  "sizeStr": "143 KB",
+                  "sizeStr": "",
                   "date": "2025-04-30 15:22",
                   "isDir": false,
                   "children": []
@@ -11331,7 +11331,7 @@ export const driveData = {
                 {
                   "name": "غمغام شهر رمضان_1.prproj",
                   "size": 148378,
-                  "sizeStr": "145 KB",
+                  "sizeStr": "",
                   "date": "2025-07-10 02:55",
                   "isDir": false,
                   "children": []
@@ -11339,7 +11339,7 @@ export const driveData = {
                 {
                   "name": "غمغام شهر رمضان_2.prin",
                   "size": 351128,
-                  "sizeStr": "343 KB",
+                  "sizeStr": "",
                   "date": "2025-07-18 04:20",
                   "isDir": false,
                   "children": []
@@ -11359,14 +11359,14 @@ export const driveData = {
         {
           "name": "١١ - ذو القعدة",
           "size": 1048576,
-          "sizeStr": "1.0 MB",
+          "sizeStr": "",
           "date": "2026-04-29 14:35",
           "isDir": true,
           "children": [
             {
               "name": "رحلة البر 46",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2025-05-02 20:16",
               "isDir": true,
               "children": [
@@ -11469,7 +11469,7 @@ export const driveData = {
                 {
                   "name": "20250131_074234071_iOS.heic",
                   "size": 994850,
-                  "sizeStr": "972 KB",
+                  "sizeStr": "",
                   "date": "2025-05-02 20:16",
                   "isDir": false,
                   "children": []
@@ -11477,7 +11477,7 @@ export const driveData = {
                 {
                   "name": "20250131_074241793_iOS.heic",
                   "size": 870338,
-                  "sizeStr": "850 KB",
+                  "sizeStr": "",
                   "date": "2025-05-02 20:16",
                   "isDir": false,
                   "children": []
@@ -11485,7 +11485,7 @@ export const driveData = {
                 {
                   "name": "20250131_074413316_iOS.heic",
                   "size": 1033200,
-                  "sizeStr": "1009 KB",
+                  "sizeStr": "",
                   "date": "2025-05-02 20:16",
                   "isDir": false,
                   "children": []
@@ -11501,7 +11501,7 @@ export const driveData = {
                 {
                   "name": "20250131_074415880_iOS.heic",
                   "size": 1021359,
-                  "sizeStr": "997 KB",
+                  "sizeStr": "",
                   "date": "2025-05-02 20:16",
                   "isDir": false,
                   "children": []
@@ -11637,7 +11637,7 @@ export const driveData = {
                 {
                   "name": "20250131_082652824_iOS.heic",
                   "size": 986739,
-                  "sizeStr": "964 KB",
+                  "sizeStr": "",
                   "date": "2025-05-02 20:16",
                   "isDir": false,
                   "children": []
@@ -11645,7 +11645,7 @@ export const driveData = {
                 {
                   "name": "20250131_083010257_iOS.heic",
                   "size": 970692,
-                  "sizeStr": "948 KB",
+                  "sizeStr": "",
                   "date": "2025-05-02 20:16",
                   "isDir": false,
                   "children": []
@@ -11661,7 +11661,7 @@ export const driveData = {
                 {
                   "name": "20250131_083158922_iOS.heic",
                   "size": 967480,
-                  "sizeStr": "945 KB",
+                  "sizeStr": "",
                   "date": "2025-05-02 20:16",
                   "isDir": false,
                   "children": []
@@ -11669,7 +11669,7 @@ export const driveData = {
                 {
                   "name": "20250131_083200099_iOS.heic",
                   "size": 955188,
-                  "sizeStr": "933 KB",
+                  "sizeStr": "",
                   "date": "2025-05-02 20:16",
                   "isDir": false,
                   "children": []
@@ -11709,7 +11709,7 @@ export const driveData = {
                 {
                   "name": "20250131_094113676_iOS.heic",
                   "size": 822609,
-                  "sizeStr": "803 KB",
+                  "sizeStr": "",
                   "date": "2025-05-02 20:16",
                   "isDir": false,
                   "children": []
@@ -11717,7 +11717,7 @@ export const driveData = {
                 {
                   "name": "20250131_094116805_iOS.heic",
                   "size": 1006899,
-                  "sizeStr": "983 KB",
+                  "sizeStr": "",
                   "date": "2025-05-02 20:16",
                   "isDir": false,
                   "children": []
@@ -11733,7 +11733,7 @@ export const driveData = {
                 {
                   "name": "20250131_094210128_iOS.heic",
                   "size": 987421,
-                  "sizeStr": "964 KB",
+                  "sizeStr": "",
                   "date": "2025-05-02 20:16",
                   "isDir": false,
                   "children": []
@@ -11789,7 +11789,7 @@ export const driveData = {
                 {
                   "name": "20250131_094234651_iOS.heic",
                   "size": 964863,
-                  "sizeStr": "942 KB",
+                  "sizeStr": "",
                   "date": "2025-05-02 20:16",
                   "isDir": false,
                   "children": []
@@ -11797,7 +11797,7 @@ export const driveData = {
                 {
                   "name": "20250131_095113724_iOS.heic",
                   "size": 899106,
-                  "sizeStr": "878 KB",
+                  "sizeStr": "",
                   "date": "2025-05-02 20:16",
                   "isDir": false,
                   "children": []
@@ -11805,7 +11805,7 @@ export const driveData = {
                 {
                   "name": "20250131_095115793_iOS.heic",
                   "size": 1012983,
-                  "sizeStr": "989 KB",
+                  "sizeStr": "",
                   "date": "2025-05-02 20:16",
                   "isDir": false,
                   "children": []
@@ -11941,7 +11941,7 @@ export const driveData = {
                 {
                   "name": "20250131_110909569_iOS.heic",
                   "size": 1043763,
-                  "sizeStr": "1019 KB",
+                  "sizeStr": "",
                   "date": "2025-05-02 20:16",
                   "isDir": false,
                   "children": []
@@ -12055,21 +12055,21 @@ export const driveData = {
             {
               "name": "عبد الحي دعاء الندبة ذي القعدة1446",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2025-05-17 22:15",
               "isDir": true,
               "children": [
                 {
                   "name": "Adobe Premiere Pro Auto-Save",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-08-31 16:55",
                   "isDir": true,
                   "children": [
                     {
                       "name": "الشرفا--1e671fa2-f0f4-fdc4-dddd-0bf6e01524a6-2025-12-25_19-22-15.prproj",
                       "size": 18408,
-                      "sizeStr": "18 KB",
+                      "sizeStr": "",
                       "date": "2025-12-25 19:22",
                       "isDir": false,
                       "children": []
@@ -12077,7 +12077,7 @@ export const driveData = {
                     {
                       "name": "الشرفا--1e671fa2-f0f4-fdc4-dddd-0bf6e01524a6-2025-12-25_19-28-44.prproj",
                       "size": 18447,
-                      "sizeStr": "18 KB",
+                      "sizeStr": "",
                       "date": "2025-12-25 19:28",
                       "isDir": false,
                       "children": []
@@ -12085,7 +12085,7 @@ export const driveData = {
                     {
                       "name": "الشرفا--1e671fa2-f0f4-fdc4-dddd-0bf6e01524a6-2025-12-25_19-34-53.prproj",
                       "size": 18911,
-                      "sizeStr": "18 KB",
+                      "sizeStr": "",
                       "date": "2025-12-25 19:34",
                       "isDir": false,
                       "children": []
@@ -12093,7 +12093,7 @@ export const driveData = {
                     {
                       "name": "الشرفا--1e671fa2-f0f4-fdc4-dddd-0bf6e01524a6-2025-12-26_19-59-30.prproj",
                       "size": 19017,
-                      "sizeStr": "19 KB",
+                      "sizeStr": "",
                       "date": "2025-12-26 19:59",
                       "isDir": false,
                       "children": []
@@ -12101,7 +12101,7 @@ export const driveData = {
                     {
                       "name": "الشرفا--1e671fa2-f0f4-fdc4-dddd-0bf6e01524a6-2025-12-29_15-23-57.prproj",
                       "size": 19087,
-                      "sizeStr": "19 KB",
+                      "sizeStr": "",
                       "date": "2025-12-29 15:23",
                       "isDir": false,
                       "children": []
@@ -12109,7 +12109,7 @@ export const driveData = {
                     {
                       "name": "الشرفا--1e671fa2-f0f4-fdc4-dddd-0bf6e01524a6-2025-12-29_15-29-58.prproj",
                       "size": 21065,
-                      "sizeStr": "21 KB",
+                      "sizeStr": "",
                       "date": "2025-12-29 15:29",
                       "isDir": false,
                       "children": []
@@ -12117,7 +12117,7 @@ export const driveData = {
                     {
                       "name": "الشرفا--1e671fa2-f0f4-fdc4-dddd-0bf6e01524a6-2025-12-29_15-35-58.prproj",
                       "size": 23424,
-                      "sizeStr": "23 KB",
+                      "sizeStr": "",
                       "date": "2025-12-29 15:35",
                       "isDir": false,
                       "children": []
@@ -12125,7 +12125,7 @@ export const driveData = {
                     {
                       "name": "الشرفا--1e671fa2-f0f4-fdc4-dddd-0bf6e01524a6-2026-01-07_17-11-02.prproj",
                       "size": 26067,
-                      "sizeStr": "25 KB",
+                      "sizeStr": "",
                       "date": "2026-01-07 17:11",
                       "isDir": false,
                       "children": []
@@ -12133,7 +12133,7 @@ export const driveData = {
                     {
                       "name": "الشرفا--1e671fa2-f0f4-fdc4-dddd-0bf6e01524a6-2026-01-07_17-17-03.prproj",
                       "size": 27972,
-                      "sizeStr": "27 KB",
+                      "sizeStr": "",
                       "date": "2026-01-07 17:17",
                       "isDir": false,
                       "children": []
@@ -12141,7 +12141,7 @@ export const driveData = {
                     {
                       "name": "الشرفا--1e671fa2-f0f4-fdc4-dddd-0bf6e01524a6-2026-01-07_17-24-31.prproj",
                       "size": 33142,
-                      "sizeStr": "32 KB",
+                      "sizeStr": "",
                       "date": "2026-01-07 17:24",
                       "isDir": false,
                       "children": []
@@ -12149,7 +12149,7 @@ export const driveData = {
                     {
                       "name": "الشرفا--1e671fa2-f0f4-fdc4-dddd-0bf6e01524a6-2026-01-07_17-40-49.prproj",
                       "size": 33139,
-                      "sizeStr": "32 KB",
+                      "sizeStr": "",
                       "date": "2026-01-07 17:40",
                       "isDir": false,
                       "children": []
@@ -12157,7 +12157,7 @@ export const driveData = {
                     {
                       "name": "الشرفا--1e671fa2-f0f4-fdc4-dddd-0bf6e01524a6-2026-01-07_17-52-34.prproj",
                       "size": 32894,
-                      "sizeStr": "32 KB",
+                      "sizeStr": "",
                       "date": "2026-01-07 17:52",
                       "isDir": false,
                       "children": []
@@ -12165,7 +12165,7 @@ export const driveData = {
                     {
                       "name": "الشرفا--1e671fa2-f0f4-fdc4-dddd-0bf6e01524a6-2026-01-07_17-58-34.prproj",
                       "size": 34858,
-                      "sizeStr": "34 KB",
+                      "sizeStr": "",
                       "date": "2026-01-07 17:58",
                       "isDir": false,
                       "children": []
@@ -12173,7 +12173,7 @@ export const driveData = {
                     {
                       "name": "مونتاج الحي قعدة-2025-08-31_17-08-36.prproj",
                       "size": 153365,
-                      "sizeStr": "150 KB",
+                      "sizeStr": "",
                       "date": "2025-08-31 17:08",
                       "isDir": false,
                       "children": []
@@ -12181,7 +12181,7 @@ export const driveData = {
                     {
                       "name": "مونتاج الحي قعدة-2025-08-31_17-23-10.prproj",
                       "size": 185184,
-                      "sizeStr": "181 KB",
+                      "sizeStr": "",
                       "date": "2025-08-31 17:23",
                       "isDir": false,
                       "children": []
@@ -12189,7 +12189,7 @@ export const driveData = {
                     {
                       "name": "مونتاج الحي قعدة-2025-08-31_17-37-54.prproj",
                       "size": 196648,
-                      "sizeStr": "192 KB",
+                      "sizeStr": "",
                       "date": "2025-08-31 17:37",
                       "isDir": false,
                       "children": []
@@ -12197,7 +12197,7 @@ export const driveData = {
                     {
                       "name": "مونتاج الحي قعدة-2025-09-09_03-50-08.prproj",
                       "size": 249540,
-                      "sizeStr": "244 KB",
+                      "sizeStr": "",
                       "date": "2025-09-09 03:50",
                       "isDir": false,
                       "children": []
@@ -12205,7 +12205,7 @@ export const driveData = {
                     {
                       "name": "مونتاج الحي قعدة-2025-09-09_04-05-41.prproj",
                       "size": 264875,
-                      "sizeStr": "259 KB",
+                      "sizeStr": "",
                       "date": "2025-09-09 04:05",
                       "isDir": false,
                       "children": []
@@ -12213,7 +12213,7 @@ export const driveData = {
                     {
                       "name": "مونتاج الحي قعدة-2025-09-19_10-54-37.prproj",
                       "size": 282712,
-                      "sizeStr": "276 KB",
+                      "sizeStr": "",
                       "date": "2025-09-19 10:54",
                       "isDir": false,
                       "children": []
@@ -12221,7 +12221,7 @@ export const driveData = {
                     {
                       "name": "مونتاج الحي قعدة-2025-10-02_08-57-56.prproj",
                       "size": 289380,
-                      "sizeStr": "283 KB",
+                      "sizeStr": "",
                       "date": "2025-10-02 08:57",
                       "isDir": false,
                       "children": []
@@ -12229,7 +12229,7 @@ export const driveData = {
                     {
                       "name": "مونتاج الحي قعدة-2025-10-02_09-14-01.prproj",
                       "size": 303928,
-                      "sizeStr": "297 KB",
+                      "sizeStr": "",
                       "date": "2025-10-02 09:14",
                       "isDir": false,
                       "children": []
@@ -12237,7 +12237,7 @@ export const driveData = {
                     {
                       "name": "مونتاج الحي قعدة-2025-10-02_09-31-06.prproj",
                       "size": 304792,
-                      "sizeStr": "298 KB",
+                      "sizeStr": "",
                       "date": "2025-10-02 09:17",
                       "isDir": false,
                       "children": []
@@ -12245,7 +12245,7 @@ export const driveData = {
                     {
                       "name": "مونتاج الحي قعدة-2025-10-07_18-02-07.prproj",
                       "size": 313618,
-                      "sizeStr": "306 KB",
+                      "sizeStr": "",
                       "date": "2025-10-07 18:02",
                       "isDir": false,
                       "children": []
@@ -12253,7 +12253,7 @@ export const driveData = {
                     {
                       "name": "مونتاج الحي قعدة-2025-11-06_22-10-07.prproj",
                       "size": 321442,
-                      "sizeStr": "314 KB",
+                      "sizeStr": "",
                       "date": "2025-11-06 22:10",
                       "isDir": false,
                       "children": []
@@ -12261,7 +12261,7 @@ export const driveData = {
                     {
                       "name": "مونتاج الحي قعدة-2025-11-06_22-37-42.prproj",
                       "size": 330680,
-                      "sizeStr": "323 KB",
+                      "sizeStr": "",
                       "date": "2025-11-06 22:36",
                       "isDir": false,
                       "children": []
@@ -12269,7 +12269,7 @@ export const driveData = {
                     {
                       "name": "مونتاج الحي قعدة.prproj",
                       "size": 337225,
-                      "sizeStr": "329 KB",
+                      "sizeStr": "",
                       "date": "2025-11-06 22:38",
                       "isDir": false,
                       "children": []
@@ -12277,7 +12277,7 @@ export const driveData = {
                     {
                       "name": "مونتاج الحي قعدة_1--c8d8fa3f-e019-653e-4225-5d9fe289b1ca-2025-10-28_12-17-12.prproj",
                       "size": 331510,
-                      "sizeStr": "324 KB",
+                      "sizeStr": "",
                       "date": "2025-10-28 12:17",
                       "isDir": false,
                       "children": []
@@ -12285,7 +12285,7 @@ export const driveData = {
                     {
                       "name": "مونتاج الحي قعدة_1--c8d8fa3f-e019-653e-4225-5d9fe289b1ca-2025-10-28_12-23-13.prproj",
                       "size": 332330,
-                      "sizeStr": "325 KB",
+                      "sizeStr": "",
                       "date": "2025-10-28 12:23",
                       "isDir": false,
                       "children": []
@@ -12293,7 +12293,7 @@ export const driveData = {
                     {
                       "name": "مونتاج الحي قعدة_1--c8d8fa3f-e019-653e-4225-5d9fe289b1ca-2025-10-28_12-29-13.prproj",
                       "size": 339977,
-                      "sizeStr": "332 KB",
+                      "sizeStr": "",
                       "date": "2025-10-28 12:29",
                       "isDir": false,
                       "children": []
@@ -12301,7 +12301,7 @@ export const driveData = {
                     {
                       "name": "مونتاج الحي قعدة_1--c8d8fa3f-e019-653e-4225-5d9fe289b1ca-2025-10-28_12-35-13.prproj",
                       "size": 336471,
-                      "sizeStr": "329 KB",
+                      "sizeStr": "",
                       "date": "2025-10-28 12:35",
                       "isDir": false,
                       "children": []
@@ -12309,7 +12309,7 @@ export const driveData = {
                     {
                       "name": "مونتاج الحي قعدة_1--c8d8fa3f-e019-653e-4225-5d9fe289b1ca-2025-12-25_18-33-35.prproj",
                       "size": 201125,
-                      "sizeStr": "196 KB",
+                      "sizeStr": "",
                       "date": "2025-12-25 18:33",
                       "isDir": false,
                       "children": []
@@ -12317,7 +12317,7 @@ export const driveData = {
                     {
                       "name": "مونتاج الحي قعدة_1--c8d8fa3f-e019-653e-4225-5d9fe289b1ca-2025-12-25_18-39-35.prproj",
                       "size": 202540,
-                      "sizeStr": "198 KB",
+                      "sizeStr": "",
                       "date": "2025-12-25 18:39",
                       "isDir": false,
                       "children": []
@@ -12325,7 +12325,7 @@ export const driveData = {
                     {
                       "name": "مونتاج الحي قعدة_1--c8d8fa3f-e019-653e-4225-5d9fe289b1ca-2025-12-25_18-47-35.prproj",
                       "size": 206225,
-                      "sizeStr": "201 KB",
+                      "sizeStr": "",
                       "date": "2025-12-25 18:47",
                       "isDir": false,
                       "children": []
@@ -12333,7 +12333,7 @@ export const driveData = {
                     {
                       "name": "مونتاج الحي قعدة_1--c8d8fa3f-e019-653e-4225-5d9fe289b1ca-2025-12-25_18-53-35.prproj",
                       "size": 210769,
-                      "sizeStr": "206 KB",
+                      "sizeStr": "",
                       "date": "2025-12-25 18:53",
                       "isDir": false,
                       "children": []
@@ -12341,7 +12341,7 @@ export const driveData = {
                     {
                       "name": "مونتاج الحي قعدة_1--c8d8fa3f-e019-653e-4225-5d9fe289b1ca-2025-12-25_18-59-36.prproj",
                       "size": 212558,
-                      "sizeStr": "208 KB",
+                      "sizeStr": "",
                       "date": "2025-12-25 18:59",
                       "isDir": false,
                       "children": []
@@ -12349,7 +12349,7 @@ export const driveData = {
                     {
                       "name": "مونتاج الحي قعدة_1--c8d8fa3f-e019-653e-4225-5d9fe289b1ca-2025-12-25_19-05-36.prproj",
                       "size": 212755,
-                      "sizeStr": "208 KB",
+                      "sizeStr": "",
                       "date": "2025-12-25 19:05",
                       "isDir": false,
                       "children": []
@@ -12357,7 +12357,7 @@ export const driveData = {
                     {
                       "name": "مونتاج الحي قعدة_1--c8d8fa3f-e019-653e-4225-5d9fe289b1ca-2025-12-25_19-12-36.prproj",
                       "size": 191221,
-                      "sizeStr": "187 KB",
+                      "sizeStr": "",
                       "date": "2025-12-25 19:12",
                       "isDir": false,
                       "children": []
@@ -12365,7 +12365,7 @@ export const driveData = {
                     {
                       "name": "مونتاج الحي قعدة_2--20f4f886-529f-dcac-e193-6b4dca9b0707-2025-10-28_12-43-19.prproj",
                       "size": 330271,
-                      "sizeStr": "323 KB",
+                      "sizeStr": "",
                       "date": "2025-10-28 12:43",
                       "isDir": false,
                       "children": []
@@ -12373,7 +12373,7 @@ export const driveData = {
                     {
                       "name": "مونتاج الحي قعدة_2--20f4f886-529f-dcac-e193-6b4dca9b0707-2025-10-31_10-07-53.prproj",
                       "size": 198647,
-                      "sizeStr": "194 KB",
+                      "sizeStr": "",
                       "date": "2025-10-31 10:07",
                       "isDir": false,
                       "children": []
@@ -12381,7 +12381,7 @@ export const driveData = {
                     {
                       "name": "مونتاج الحي قعدة_2--20f4f886-529f-dcac-e193-6b4dca9b0707-2025-10-31_10-13-53.prproj",
                       "size": 199066,
-                      "sizeStr": "194 KB",
+                      "sizeStr": "",
                       "date": "2025-10-31 10:13",
                       "isDir": false,
                       "children": []
@@ -12389,7 +12389,7 @@ export const driveData = {
                     {
                       "name": "مونتاج الحي قعدة_2--20f4f886-529f-dcac-e193-6b4dca9b0707-2025-10-31_10-19-53.prproj",
                       "size": 198915,
-                      "sizeStr": "194 KB",
+                      "sizeStr": "",
                       "date": "2025-10-31 10:19",
                       "isDir": false,
                       "children": []
@@ -12397,7 +12397,7 @@ export const driveData = {
                     {
                       "name": "مونتاج الحي قعدة_2--20f4f886-529f-dcac-e193-6b4dca9b0707-2025-10-31_10-25-54.prproj",
                       "size": 199421,
-                      "sizeStr": "195 KB",
+                      "sizeStr": "",
                       "date": "2025-10-31 10:24",
                       "isDir": false,
                       "children": []
@@ -12405,7 +12405,7 @@ export const driveData = {
                     {
                       "name": "مونتاج الحي قعدة_2--20f4f886-529f-dcac-e193-6b4dca9b0707-2025-10-31_10-35-51.prproj",
                       "size": 203453,
-                      "sizeStr": "199 KB",
+                      "sizeStr": "",
                       "date": "2025-10-31 10:35",
                       "isDir": false,
                       "children": []
@@ -12439,7 +12439,7 @@ export const driveData = {
                 {
                   "name": "الشرفا.prin",
                   "size": 1048527,
-                  "sizeStr": "1024 KB",
+                  "sizeStr": "",
                   "date": "2025-12-29 15:36",
                   "isDir": false,
                   "children": []
@@ -12447,7 +12447,7 @@ export const driveData = {
                 {
                   "name": "الشرفا.prproj",
                   "size": 33649,
-                  "sizeStr": "33 KB",
+                  "sizeStr": "",
                   "date": "2026-01-07 18:02",
                   "isDir": false,
                   "children": []
@@ -12471,7 +12471,7 @@ export const driveData = {
                 {
                   "name": "معدل.png",
                   "size": 19276,
-                  "sizeStr": "19 KB",
+                  "sizeStr": "",
                   "date": "2023-09-22 14:44",
                   "isDir": false,
                   "children": []
@@ -12479,7 +12479,7 @@ export const driveData = {
                 {
                   "name": "مونتاج الحي قعدة.prproj",
                   "size": 337225,
-                  "sizeStr": "329 KB",
+                  "sizeStr": "",
                   "date": "2025-11-06 22:38",
                   "isDir": false,
                   "children": []
@@ -12495,7 +12495,7 @@ export const driveData = {
                 {
                   "name": "مونتاج الحي قعدة_1.prproj",
                   "size": 192389,
-                  "sizeStr": "188 KB",
+                  "sizeStr": "",
                   "date": "2025-12-25 19:15",
                   "isDir": false,
                   "children": []
@@ -12503,7 +12503,7 @@ export const driveData = {
                 {
                   "name": "مونتاج الحي قعدة_2.prin",
                   "size": 11455,
-                  "sizeStr": "11 KB",
+                  "sizeStr": "",
                   "date": "2025-10-31 10:24",
                   "isDir": false,
                   "children": []
@@ -12511,7 +12511,7 @@ export const driveData = {
                 {
                   "name": "مونتاج الحي قعدة_2.prproj",
                   "size": 199421,
-                  "sizeStr": "195 KB",
+                  "sizeStr": "",
                   "date": "2025-10-31 10:24",
                   "isDir": false,
                   "children": []
@@ -12523,14 +12523,14 @@ export const driveData = {
         {
           "name": "١٢ - ذو الحجة",
           "size": 1048576,
-          "sizeStr": "1.0 MB",
+          "sizeStr": "",
           "date": "2026-04-29 14:35",
           "isDir": true,
           "children": [
             {
               "name": "الملا حسن القديحي ١٤٤٦",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2025-06-13 16:29",
               "isDir": true,
               "children": [
@@ -12713,35 +12713,35 @@ export const driveData = {
     {
       "name": "١٤٤٧ هـ",
       "size": 1048576,
-      "sizeStr": "1.0 MB",
+      "sizeStr": "",
       "date": "2026-04-30 00:49",
       "isDir": true,
       "children": [
         {
           "name": "٠١ - محرم",
           "size": 1048576,
-          "sizeStr": "1.0 MB",
+          "sizeStr": "",
           "date": "2026-04-29 09:40",
           "isDir": true,
           "children": [
             {
               "name": "مجتبى تراب دعاء الندبة",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2025-07-26 00:25",
               "isDir": true,
               "children": [
                 {
                   "name": "Adobe Premiere Pro Audio Previews",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-08-07 16:10",
                   "isDir": true,
                   "children": [
                     {
                       "name": "مج زيارة.PRV",
                       "size": 1048576,
-                      "sizeStr": "1.0 MB",
+                      "sizeStr": "",
                       "date": "2025-08-07 16:10",
                       "isDir": true,
                       "children": [
@@ -12772,14 +12772,14 @@ export const driveData = {
                         {
                           "name": "Peak Files",
                           "size": 1048576,
-                          "sizeStr": "1.0 MB",
+                          "sizeStr": "",
                           "date": "2025-08-07 16:10",
                           "isDir": true,
                           "children": [
                             {
                               "name": "8798aa97-282e-436f-9611-d1954535f7c5+aac419cb-6176-9bc7-5230-dd9000000059 48000.pek",
                               "size": 151620,
-                              "sizeStr": "148 KB",
+                              "sizeStr": "",
                               "date": "2025-08-07 16:18",
                               "isDir": false,
                               "children": []
@@ -12787,7 +12787,7 @@ export const driveData = {
                             {
                               "name": "94be1bcb-4bbf-4e4d-8a0d-5a1922f93a67+07e3bf4f-bf83-759e-f688-a0b500000069 48000.pek",
                               "size": 38980,
-                              "sizeStr": "38 KB",
+                              "sizeStr": "",
                               "date": "2025-08-07 16:18",
                               "isDir": false,
                               "children": []
@@ -12795,7 +12795,7 @@ export const driveData = {
                             {
                               "name": "9c2c64fe-498e-4a55-afa3-69d9011ffbc1+5c027f42-eb17-6705-44ca-e7f100000069 48000.pek",
                               "size": 151620,
-                              "sizeStr": "148 KB",
+                              "sizeStr": "",
                               "date": "2025-08-07 16:10",
                               "isDir": false,
                               "children": []
@@ -12803,7 +12803,7 @@ export const driveData = {
                             {
                               "name": "ac4cf9a9-f5f0-4637-aeda-9e4dbaee46f3+edf08116-c1d5-67c3-d8d5-fbc500000069 48000.pek",
                               "size": 186436,
-                              "sizeStr": "182 KB",
+                              "sizeStr": "",
                               "date": "2025-08-07 16:18",
                               "isDir": false,
                               "children": []
@@ -12811,7 +12811,7 @@ export const driveData = {
                             {
                               "name": "c08b0fde-dd90-43fd-88cf-70b1f441b8e3+f6e47df3-0d6f-51bc-5f12-ea8700000059 48000.pek",
                               "size": 157764,
-                              "sizeStr": "154 KB",
+                              "sizeStr": "",
                               "date": "2025-08-07 16:18",
                               "isDir": false,
                               "children": []
@@ -12841,14 +12841,14 @@ export const driveData = {
                 {
                   "name": "Adobe Premiere Pro Auto-Save",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-08-07 15:36",
                   "isDir": true,
                   "children": [
                     {
                       "name": "مج زيارة--38d54cd8-bab5-1207-87a4-16512f666865-2025-08-07_15-36-57.prproj",
                       "size": 122573,
-                      "sizeStr": "120 KB",
+                      "sizeStr": "",
                       "date": "2025-08-07 15:36",
                       "isDir": false,
                       "children": []
@@ -12856,7 +12856,7 @@ export const driveData = {
                     {
                       "name": "مج زيارة--38d54cd8-bab5-1207-87a4-16512f666865-2025-08-07_15-42-57.prproj",
                       "size": 164009,
-                      "sizeStr": "160 KB",
+                      "sizeStr": "",
                       "date": "2025-08-07 15:42",
                       "isDir": false,
                       "children": []
@@ -12864,7 +12864,7 @@ export const driveData = {
                     {
                       "name": "مج زيارة--38d54cd8-bab5-1207-87a4-16512f666865-2025-08-07_15-49-24.prproj",
                       "size": 164155,
-                      "sizeStr": "160 KB",
+                      "sizeStr": "",
                       "date": "2025-08-07 15:49",
                       "isDir": false,
                       "children": []
@@ -12872,7 +12872,7 @@ export const driveData = {
                     {
                       "name": "مج زيارة--38d54cd8-bab5-1207-87a4-16512f666865-2025-08-07_15-56-26.prproj",
                       "size": 164388,
-                      "sizeStr": "161 KB",
+                      "sizeStr": "",
                       "date": "2025-08-07 15:56",
                       "isDir": false,
                       "children": []
@@ -12880,7 +12880,7 @@ export const driveData = {
                     {
                       "name": "مج زيارة--38d54cd8-bab5-1207-87a4-16512f666865-2025-08-07_16-03-27.prproj",
                       "size": 165239,
-                      "sizeStr": "161 KB",
+                      "sizeStr": "",
                       "date": "2025-08-07 16:03",
                       "isDir": false,
                       "children": []
@@ -12888,7 +12888,7 @@ export const driveData = {
                     {
                       "name": "مج زيارة--38d54cd8-bab5-1207-87a4-16512f666865-2025-08-07_16-09-27.prproj",
                       "size": 166271,
-                      "sizeStr": "162 KB",
+                      "sizeStr": "",
                       "date": "2025-08-07 16:09",
                       "isDir": false,
                       "children": []
@@ -12896,7 +12896,7 @@ export const driveData = {
                     {
                       "name": "مج زيارة--38d54cd8-bab5-1207-87a4-16512f666865-2025-08-07_16-15-27.prproj",
                       "size": 170584,
-                      "sizeStr": "167 KB",
+                      "sizeStr": "",
                       "date": "2025-08-07 16:15",
                       "isDir": false,
                       "children": []
@@ -12906,7 +12906,7 @@ export const driveData = {
                 {
                   "name": "c1",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-02-03 13:07",
                   "isDir": true,
                   "children": [
@@ -12931,7 +12931,7 @@ export const driveData = {
                 {
                   "name": "c2",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-02-03 13:07",
                   "isDir": true,
                   "children": [
@@ -12948,7 +12948,7 @@ export const driveData = {
                 {
                   "name": "c3",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-02-03 13:07",
                   "isDir": true,
                   "children": [
@@ -12973,7 +12973,7 @@ export const driveData = {
                 {
                   "name": "مج زيارة.prin",
                   "size": 11111,
-                  "sizeStr": "11 KB",
+                  "sizeStr": "",
                   "date": "2025-08-08 18:16",
                   "isDir": false,
                   "children": []
@@ -12981,7 +12981,7 @@ export const driveData = {
                 {
                   "name": "مج زيارة.prproj",
                   "size": 170978,
-                  "sizeStr": "167 KB",
+                  "sizeStr": "",
                   "date": "2025-08-08 18:16",
                   "isDir": false,
                   "children": []
@@ -12989,7 +12989,7 @@ export const driveData = {
                 {
                   "name": "مجتبى",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-07-25 21:30",
                   "isDir": true,
                   "children": [
@@ -13042,21 +13042,21 @@ export const driveData = {
         {
           "name": "٠٢ - صفر",
           "size": 1048576,
-          "sizeStr": "1.0 MB",
+          "sizeStr": "",
           "date": "2026-04-30 00:49",
           "isDir": true,
           "children": [
             {
               "name": "صوتيات",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2025-08-13 02:55",
               "isDir": true,
               "children": [
                 {
                   "name": "ZOOM0001.hprj",
                   "size": 10582,
-                  "sizeStr": "10 KB",
+                  "sizeStr": "",
                   "date": "2025-05-23 10:10",
                   "isDir": false,
                   "children": []
@@ -13148,14 +13148,14 @@ export const driveData = {
         {
           "name": "٠٣ - ربيع الأول",
           "size": 1048576,
-          "sizeStr": "1.0 MB",
+          "sizeStr": "",
           "date": "2026-04-29 09:40",
           "isDir": true,
           "children": [
             {
               "name": "سيد هادي دعاء الندبة",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2025-09-25 22:40",
               "isDir": true,
               "children": [
@@ -13196,21 +13196,21 @@ export const driveData = {
             {
               "name": "صور قراء ندبة",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2025-09-14 14:14",
               "isDir": true,
               "children": [
                 {
                   "name": "New folder",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2026-02-09 15:54",
                   "isDir": true,
                   "children": [
                     {
                       "name": "WhatsApp Image 2026-02-08 at 10.12.47 PM.jpeg",
                       "size": 198922,
-                      "sizeStr": "194 KB",
+                      "sizeStr": "",
                       "date": "2026-02-09 15:54",
                       "isDir": false,
                       "children": []
@@ -13218,7 +13218,7 @@ export const driveData = {
                     {
                       "name": "WhatsApp Image 2026-02-08 at 10.12.48 PM (1).jpeg",
                       "size": 122070,
-                      "sizeStr": "119 KB",
+                      "sizeStr": "",
                       "date": "2026-02-09 15:54",
                       "isDir": false,
                       "children": []
@@ -13226,7 +13226,7 @@ export const driveData = {
                     {
                       "name": "WhatsApp Image 2026-02-08 at 10.12.48 PM (2).jpeg",
                       "size": 123166,
-                      "sizeStr": "120 KB",
+                      "sizeStr": "",
                       "date": "2026-02-09 15:54",
                       "isDir": false,
                       "children": []
@@ -13234,7 +13234,7 @@ export const driveData = {
                     {
                       "name": "WhatsApp Image 2026-02-08 at 10.12.48 PM (3).jpeg",
                       "size": 109751,
-                      "sizeStr": "107 KB",
+                      "sizeStr": "",
                       "date": "2026-02-09 15:54",
                       "isDir": false,
                       "children": []
@@ -13242,7 +13242,7 @@ export const driveData = {
                     {
                       "name": "WhatsApp Image 2026-02-08 at 10.12.48 PM.jpeg",
                       "size": 837507,
-                      "sizeStr": "818 KB",
+                      "sizeStr": "",
                       "date": "2026-02-09 15:54",
                       "isDir": false,
                       "children": []
@@ -13250,7 +13250,7 @@ export const driveData = {
                     {
                       "name": "WhatsApp Image 2026-02-08 at 10.12.49 PM (1).jpeg",
                       "size": 113964,
-                      "sizeStr": "111 KB",
+                      "sizeStr": "",
                       "date": "2026-02-09 15:54",
                       "isDir": false,
                       "children": []
@@ -13258,7 +13258,7 @@ export const driveData = {
                     {
                       "name": "WhatsApp Image 2026-02-08 at 10.12.49 PM.jpeg",
                       "size": 102231,
-                      "sizeStr": "100 KB",
+                      "sizeStr": "",
                       "date": "2026-02-09 15:54",
                       "isDir": false,
                       "children": []
@@ -13268,7 +13268,7 @@ export const driveData = {
                 {
                   "name": "الرادود حسين الأبيض",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-09-14 14:17",
                   "isDir": true,
                   "children": [
@@ -13397,7 +13397,7 @@ export const driveData = {
                 {
                   "name": "الرادود علي ال تراب",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-09-14 14:16",
                   "isDir": true,
                   "children": [
@@ -13582,14 +13582,14 @@ export const driveData = {
                 {
                   "name": "الرادود مجتبى ال تراب",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-09-14 14:16",
                   "isDir": true,
                   "children": [
                     {
                       "name": "20250725_081030500_iOS.jpg",
                       "size": 600486,
-                      "sizeStr": "586 KB",
+                      "sizeStr": "",
                       "date": "2025-09-14 11:15",
                       "isDir": false,
                       "children": []
@@ -13597,7 +13597,7 @@ export const driveData = {
                     {
                       "name": "20250725_081049250_iOS.jpg",
                       "size": 537731,
-                      "sizeStr": "525 KB",
+                      "sizeStr": "",
                       "date": "2025-09-14 11:15",
                       "isDir": false,
                       "children": []
@@ -13605,7 +13605,7 @@ export const driveData = {
                     {
                       "name": "20250725_081104190_iOS.jpg",
                       "size": 732137,
-                      "sizeStr": "715 KB",
+                      "sizeStr": "",
                       "date": "2025-09-14 11:15",
                       "isDir": false,
                       "children": []
@@ -13725,7 +13725,7 @@ export const driveData = {
                     {
                       "name": "WhatsApp Image 2025-08-29 at 17.26.22_ae65dc1b.jpg",
                       "size": 816353,
-                      "sizeStr": "797 KB",
+                      "sizeStr": "",
                       "date": "2025-08-29 20:08",
                       "isDir": false,
                       "children": []
@@ -13775,14 +13775,14 @@ export const driveData = {
                 {
                   "name": "السيد علي الهاشم",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-10-20 15:35",
                   "isDir": true,
                   "children": [
                     {
                       "name": "PHOTO-2025-09-26-17-06-37.jpg",
                       "size": 856381,
-                      "sizeStr": "836 KB",
+                      "sizeStr": "",
                       "date": "2025-09-26 18:20",
                       "isDir": false,
                       "children": []
@@ -13790,7 +13790,7 @@ export const driveData = {
                     {
                       "name": "PHOTO-2025-09-26-17-06-38.jpg",
                       "size": 670641,
-                      "sizeStr": "655 KB",
+                      "sizeStr": "",
                       "date": "2025-09-26 18:20",
                       "isDir": false,
                       "children": []
@@ -13798,7 +13798,7 @@ export const driveData = {
                     {
                       "name": "PHOTO-2025-09-26-17-06-39 2.jpg",
                       "size": 609782,
-                      "sizeStr": "595 KB",
+                      "sizeStr": "",
                       "date": "2025-09-26 18:20",
                       "isDir": false,
                       "children": []
@@ -13806,7 +13806,7 @@ export const driveData = {
                     {
                       "name": "PHOTO-2025-09-26-17-06-39.jpg",
                       "size": 663464,
-                      "sizeStr": "648 KB",
+                      "sizeStr": "",
                       "date": "2025-09-26 18:20",
                       "isDir": false,
                       "children": []
@@ -13814,7 +13814,7 @@ export const driveData = {
                     {
                       "name": "PHOTO-2025-09-26-17-06-40 2.jpg",
                       "size": 807294,
-                      "sizeStr": "788 KB",
+                      "sizeStr": "",
                       "date": "2025-09-26 18:20",
                       "isDir": false,
                       "children": []
@@ -13822,7 +13822,7 @@ export const driveData = {
                     {
                       "name": "PHOTO-2025-09-26-17-06-40.jpg",
                       "size": 918981,
-                      "sizeStr": "897 KB",
+                      "sizeStr": "",
                       "date": "2025-09-26 18:20",
                       "isDir": false,
                       "children": []
@@ -13830,7 +13830,7 @@ export const driveData = {
                     {
                       "name": "PHOTO-2025-09-26-17-06-41.jpg",
                       "size": 810505,
-                      "sizeStr": "792 KB",
+                      "sizeStr": "",
                       "date": "2025-09-26 18:20",
                       "isDir": false,
                       "children": []
@@ -13840,14 +13840,14 @@ export const driveData = {
                 {
                   "name": "السيد محمد الشرفا",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-09-14 14:27",
                   "isDir": true,
                   "children": [
                     {
                       "name": "IMG-20250907-WA0008.jpg",
                       "size": 88559,
-                      "sizeStr": "86 KB",
+                      "sizeStr": "",
                       "date": "2025-09-07 12:51",
                       "isDir": false,
                       "children": []
@@ -13855,7 +13855,7 @@ export const driveData = {
                     {
                       "name": "IMG-20250907-WA0009.jpg",
                       "size": 90301,
-                      "sizeStr": "88 KB",
+                      "sizeStr": "",
                       "date": "2025-09-07 12:51",
                       "isDir": false,
                       "children": []
@@ -13863,7 +13863,7 @@ export const driveData = {
                     {
                       "name": "IMG-20250907-WA0010.jpg",
                       "size": 92878,
-                      "sizeStr": "91 KB",
+                      "sizeStr": "",
                       "date": "2025-09-07 12:51",
                       "isDir": false,
                       "children": []
@@ -13871,7 +13871,7 @@ export const driveData = {
                     {
                       "name": "IMG-20250907-WA0011.jpg",
                       "size": 68739,
-                      "sizeStr": "67 KB",
+                      "sizeStr": "",
                       "date": "2025-09-07 12:51",
                       "isDir": false,
                       "children": []
@@ -13879,7 +13879,7 @@ export const driveData = {
                     {
                       "name": "IMG-20250907-WA0012.jpg",
                       "size": 68038,
-                      "sizeStr": "66 KB",
+                      "sizeStr": "",
                       "date": "2025-09-07 12:51",
                       "isDir": false,
                       "children": []
@@ -13887,7 +13887,7 @@ export const driveData = {
                     {
                       "name": "WhatsApp Image 2026-02-08 at 10.11.42 PM (1).jpeg",
                       "size": 74198,
-                      "sizeStr": "72 KB",
+                      "sizeStr": "",
                       "date": "2026-02-09 15:53",
                       "isDir": false,
                       "children": []
@@ -13895,7 +13895,7 @@ export const driveData = {
                     {
                       "name": "WhatsApp Image 2026-02-08 at 10.11.42 PM (2).jpeg",
                       "size": 81792,
-                      "sizeStr": "80 KB",
+                      "sizeStr": "",
                       "date": "2026-02-09 15:53",
                       "isDir": false,
                       "children": []
@@ -13903,7 +13903,7 @@ export const driveData = {
                     {
                       "name": "WhatsApp Image 2026-02-08 at 10.11.42 PM (3).jpeg",
                       "size": 78942,
-                      "sizeStr": "77 KB",
+                      "sizeStr": "",
                       "date": "2026-02-09 15:53",
                       "isDir": false,
                       "children": []
@@ -13911,7 +13911,7 @@ export const driveData = {
                     {
                       "name": "WhatsApp Image 2026-02-08 at 10.11.42 PM.jpeg",
                       "size": 74860,
-                      "sizeStr": "73 KB",
+                      "sizeStr": "",
                       "date": "2026-02-09 15:53",
                       "isDir": false,
                       "children": []
@@ -13919,7 +13919,7 @@ export const driveData = {
                     {
                       "name": "WhatsApp Image 2026-02-08 at 10.11.43 PM.jpeg",
                       "size": 67805,
-                      "sizeStr": "66 KB",
+                      "sizeStr": "",
                       "date": "2026-02-09 15:53",
                       "isDir": false,
                       "children": []
@@ -13927,7 +13927,7 @@ export const driveData = {
                     {
                       "name": "WhatsApp Image 2026-02-08 at 10.11.44 PM (1).jpeg",
                       "size": 72160,
-                      "sizeStr": "70 KB",
+                      "sizeStr": "",
                       "date": "2026-02-09 15:53",
                       "isDir": false,
                       "children": []
@@ -13935,7 +13935,7 @@ export const driveData = {
                     {
                       "name": "WhatsApp Image 2026-02-08 at 10.11.44 PM.jpeg",
                       "size": 64268,
-                      "sizeStr": "63 KB",
+                      "sizeStr": "",
                       "date": "2026-02-09 15:53",
                       "isDir": false,
                       "children": []
@@ -13943,7 +13943,7 @@ export const driveData = {
                     {
                       "name": "WhatsApp Image 2026-02-08 at 10.11.45 PM (1).jpeg",
                       "size": 67379,
-                      "sizeStr": "66 KB",
+                      "sizeStr": "",
                       "date": "2026-02-09 15:53",
                       "isDir": false,
                       "children": []
@@ -13951,7 +13951,7 @@ export const driveData = {
                     {
                       "name": "WhatsApp Image 2026-02-08 at 10.11.45 PM.jpeg",
                       "size": 71281,
-                      "sizeStr": "70 KB",
+                      "sizeStr": "",
                       "date": "2026-02-09 15:53",
                       "isDir": false,
                       "children": []
@@ -13959,7 +13959,7 @@ export const driveData = {
                     {
                       "name": "WhatsApp Image 2026-02-08 at 10.11.46 PM (1).jpeg",
                       "size": 65600,
-                      "sizeStr": "64 KB",
+                      "sizeStr": "",
                       "date": "2026-02-09 15:53",
                       "isDir": false,
                       "children": []
@@ -13967,7 +13967,7 @@ export const driveData = {
                     {
                       "name": "WhatsApp Image 2026-02-08 at 10.11.46 PM.jpeg",
                       "size": 67958,
-                      "sizeStr": "66 KB",
+                      "sizeStr": "",
                       "date": "2026-02-09 15:53",
                       "isDir": false,
                       "children": []
@@ -13977,7 +13977,7 @@ export const driveData = {
                 {
                   "name": "السيد هادي ال درويش",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-09-14 14:16",
                   "isDir": true,
                   "children": [
@@ -14194,14 +14194,14 @@ export const driveData = {
                 {
                   "name": "الشيخ عبد الحميد الغمغام",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-11-10 23:01",
                   "isDir": true,
                   "children": [
                     {
                       "name": "085beff8-20e3-4779-887f-825578ff89cc.JPG",
                       "size": 587153,
-                      "sizeStr": "573 KB",
+                      "sizeStr": "",
                       "date": "2025-10-24 17:34",
                       "isDir": false,
                       "children": []
@@ -14259,7 +14259,7 @@ export const driveData = {
                 {
                   "name": "الشيخ لؤي البيات",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-11-17 18:12",
                   "isDir": true,
                   "children": [
@@ -14316,14 +14316,14 @@ export const driveData = {
                 {
                   "name": "الشيخ محمد السمين",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-10-20 15:33",
                   "isDir": true,
                   "children": [
                     {
                       "name": "PHOTO-2025-10-11-18-53-33 2.jpg",
                       "size": 95895,
-                      "sizeStr": "94 KB",
+                      "sizeStr": "",
                       "date": "2025-10-11 18:54",
                       "isDir": false,
                       "children": []
@@ -14331,7 +14331,7 @@ export const driveData = {
                     {
                       "name": "PHOTO-2025-10-11-18-53-33.jpg",
                       "size": 82228,
-                      "sizeStr": "80 KB",
+                      "sizeStr": "",
                       "date": "2025-10-11 18:54",
                       "isDir": false,
                       "children": []
@@ -14339,7 +14339,7 @@ export const driveData = {
                     {
                       "name": "PHOTO-2025-10-11-18-53-34.jpg",
                       "size": 90119,
-                      "sizeStr": "88 KB",
+                      "sizeStr": "",
                       "date": "2025-10-11 18:54",
                       "isDir": false,
                       "children": []
@@ -14347,7 +14347,7 @@ export const driveData = {
                     {
                       "name": "PHOTO-2025-10-11-18-53-35.jpg",
                       "size": 84349,
-                      "sizeStr": "82 KB",
+                      "sizeStr": "",
                       "date": "2025-10-11 18:54",
                       "isDir": false,
                       "children": []
@@ -14355,7 +14355,7 @@ export const driveData = {
                     {
                       "name": "PHOTO-2025-10-11-18-53-36.jpg",
                       "size": 81475,
-                      "sizeStr": "80 KB",
+                      "sizeStr": "",
                       "date": "2025-10-11 18:54",
                       "isDir": false,
                       "children": []
@@ -14365,14 +14365,14 @@ export const driveData = {
                 {
                   "name": "القارئ حسين ال سالم",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-09-14 14:29",
                   "isDir": true,
                   "children": [
                     {
                       "name": "IMG-20250914-WA0005.jpg",
                       "size": 451469,
-                      "sizeStr": "441 KB",
+                      "sizeStr": "",
                       "date": "2025-09-14 11:57",
                       "isDir": false,
                       "children": []
@@ -14380,7 +14380,7 @@ export const driveData = {
                     {
                       "name": "IMG-20250914-WA0006.jpg",
                       "size": 488691,
-                      "sizeStr": "477 KB",
+                      "sizeStr": "",
                       "date": "2025-09-14 11:57",
                       "isDir": false,
                       "children": []
@@ -14388,7 +14388,7 @@ export const driveData = {
                     {
                       "name": "IMG-20250914-WA0007.jpg",
                       "size": 672052,
-                      "sizeStr": "656 KB",
+                      "sizeStr": "",
                       "date": "2025-09-14 11:57",
                       "isDir": false,
                       "children": []
@@ -14396,7 +14396,7 @@ export const driveData = {
                     {
                       "name": "IMG-20250914-WA0008.jpg",
                       "size": 496072,
-                      "sizeStr": "484 KB",
+                      "sizeStr": "",
                       "date": "2025-09-14 11:57",
                       "isDir": false,
                       "children": []
@@ -14404,7 +14404,7 @@ export const driveData = {
                     {
                       "name": "IMG-20250914-WA0009.jpg",
                       "size": 595281,
-                      "sizeStr": "581 KB",
+                      "sizeStr": "",
                       "date": "2025-09-14 11:57",
                       "isDir": false,
                       "children": []
@@ -14414,14 +14414,14 @@ export const driveData = {
                 {
                   "name": "القارئ علي الطويل",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-09-14 14:21",
                   "isDir": true,
                   "children": [
                     {
                       "name": "WhatsApp Image 2025-08-29 at 17.23.10_2a77052a.jpg",
                       "size": 779475,
-                      "sizeStr": "761 KB",
+                      "sizeStr": "",
                       "date": "2025-08-29 20:07",
                       "isDir": false,
                       "children": []
@@ -14429,7 +14429,7 @@ export const driveData = {
                     {
                       "name": "WhatsApp Image 2025-08-29 at 17.23.10_4e69195c.jpg",
                       "size": 593704,
-                      "sizeStr": "580 KB",
+                      "sizeStr": "",
                       "date": "2025-08-29 20:07",
                       "isDir": false,
                       "children": []
@@ -14437,7 +14437,7 @@ export const driveData = {
                     {
                       "name": "WhatsApp Image 2025-08-29 at 17.23.11_ddb5e169.jpg",
                       "size": 831342,
-                      "sizeStr": "812 KB",
+                      "sizeStr": "",
                       "date": "2025-08-29 20:07",
                       "isDir": false,
                       "children": []
@@ -14445,7 +14445,7 @@ export const driveData = {
                     {
                       "name": "WhatsApp Image 2025-08-29 at 17.23.11_e43fe50c.jpg",
                       "size": 794286,
-                      "sizeStr": "776 KB",
+                      "sizeStr": "",
                       "date": "2025-08-29 20:07",
                       "isDir": false,
                       "children": []
@@ -14455,14 +14455,14 @@ export const driveData = {
                 {
                   "name": "القارئ علي كرانات",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-11-10 23:01",
                   "isDir": true,
                   "children": [
                     {
                       "name": "334a0fa4-3b14-41c2-a68a-fe5932b1ceec.JPG",
                       "size": 982810,
-                      "sizeStr": "960 KB",
+                      "sizeStr": "",
                       "date": "2025-11-07 21:12",
                       "isDir": false,
                       "children": []
@@ -14470,7 +14470,7 @@ export const driveData = {
                     {
                       "name": "55058851-bc83-40aa-83d2-f59f9e75fe4f.JPG",
                       "size": 884688,
-                      "sizeStr": "864 KB",
+                      "sizeStr": "",
                       "date": "2025-11-07 21:12",
                       "isDir": false,
                       "children": []
@@ -14478,7 +14478,7 @@ export const driveData = {
                     {
                       "name": "aaa4d2af-2367-4704-aec2-a0e0e9b03216.JPG",
                       "size": 1039507,
-                      "sizeStr": "1015 KB",
+                      "sizeStr": "",
                       "date": "2025-11-07 21:12",
                       "isDir": false,
                       "children": []
@@ -14488,14 +14488,14 @@ export const driveData = {
                 {
                   "name": "القارئ فاضل الصادق",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-09-14 14:17",
                   "isDir": true,
                   "children": [
                     {
                       "name": "20250815_081458800_iOS.jpg",
                       "size": 876072,
-                      "sizeStr": "856 KB",
+                      "sizeStr": "",
                       "date": "2025-09-14 11:16",
                       "isDir": false,
                       "children": []
@@ -14503,7 +14503,7 @@ export const driveData = {
                     {
                       "name": "20250815_081504500_iOS.jpg",
                       "size": 926225,
-                      "sizeStr": "905 KB",
+                      "sizeStr": "",
                       "date": "2025-09-14 11:16",
                       "isDir": false,
                       "children": []
@@ -14511,7 +14511,7 @@ export const driveData = {
                     {
                       "name": "20250815_081507130_iOS.jpg",
                       "size": 971201,
-                      "sizeStr": "948 KB",
+                      "sizeStr": "",
                       "date": "2025-09-14 11:16",
                       "isDir": false,
                       "children": []
@@ -14519,7 +14519,7 @@ export const driveData = {
                     {
                       "name": "20250815_081514460_iOS.jpg",
                       "size": 1004406,
-                      "sizeStr": "981 KB",
+                      "sizeStr": "",
                       "date": "2025-09-14 11:16",
                       "isDir": false,
                       "children": []
@@ -14527,7 +14527,7 @@ export const driveData = {
                     {
                       "name": "20250815_081516270_iOS.jpg",
                       "size": 1048115,
-                      "sizeStr": "1024 KB",
+                      "sizeStr": "",
                       "date": "2025-09-14 11:16",
                       "isDir": false,
                       "children": []
@@ -14535,7 +14535,7 @@ export const driveData = {
                     {
                       "name": "20250815_081517890_iOS.jpg",
                       "size": 1037638,
-                      "sizeStr": "1013 KB",
+                      "sizeStr": "",
                       "date": "2025-09-14 11:16",
                       "isDir": false,
                       "children": []
@@ -14543,7 +14543,7 @@ export const driveData = {
                     {
                       "name": "20250815_081527110_iOS.jpg",
                       "size": 862525,
-                      "sizeStr": "842 KB",
+                      "sizeStr": "",
                       "date": "2025-09-14 11:16",
                       "isDir": false,
                       "children": []
@@ -14553,14 +14553,14 @@ export const driveData = {
                 {
                   "name": "القارئ محمود الفردان",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-09-14 14:17",
                   "isDir": true,
                   "children": [
                     {
                       "name": "20250801_081047570_iOS.jpg",
                       "size": 998895,
-                      "sizeStr": "975 KB",
+                      "sizeStr": "",
                       "date": "2025-09-14 11:16",
                       "isDir": false,
                       "children": []
@@ -14618,14 +14618,14 @@ export const driveData = {
                 {
                   "name": "القارئ مرتضى قريش",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-09-14 14:22",
                   "isDir": true,
                   "children": [
                     {
                       "name": "WhatsApp Image 2025-08-29 at 17.24.56_a6d15e1f.jpg",
                       "size": 587612,
-                      "sizeStr": "574 KB",
+                      "sizeStr": "",
                       "date": "2025-08-29 20:07",
                       "isDir": false,
                       "children": []
@@ -14633,7 +14633,7 @@ export const driveData = {
                     {
                       "name": "WhatsApp Image 2025-08-29 at 17.25.05_fa81e67c.jpg",
                       "size": 557432,
-                      "sizeStr": "544 KB",
+                      "sizeStr": "",
                       "date": "2025-08-29 20:08",
                       "isDir": false,
                       "children": []
@@ -14641,7 +14641,7 @@ export const driveData = {
                     {
                       "name": "WhatsApp Image 2025-08-29 at 17.25.06_083b8c22.jpg",
                       "size": 404171,
-                      "sizeStr": "395 KB",
+                      "sizeStr": "",
                       "date": "2025-08-29 20:08",
                       "isDir": false,
                       "children": []
@@ -14649,7 +14649,7 @@ export const driveData = {
                     {
                       "name": "WhatsApp Image 2025-08-29 at 17.25.07_702b9fa0.jpg",
                       "size": 539763,
-                      "sizeStr": "527 KB",
+                      "sizeStr": "",
                       "date": "2025-08-29 20:08",
                       "isDir": false,
                       "children": []
@@ -14657,7 +14657,7 @@ export const driveData = {
                     {
                       "name": "WhatsApp Image 2025-08-29 at 17.25.07_81941583.jpg",
                       "size": 679742,
-                      "sizeStr": "664 KB",
+                      "sizeStr": "",
                       "date": "2025-08-29 20:08",
                       "isDir": false,
                       "children": []
@@ -14665,7 +14665,7 @@ export const driveData = {
                     {
                       "name": "WhatsApp Image 2025-08-29 at 17.25.07_fbda50fc.jpg",
                       "size": 370817,
-                      "sizeStr": "362 KB",
+                      "sizeStr": "",
                       "date": "2025-08-29 20:08",
                       "isDir": false,
                       "children": []
@@ -14675,14 +14675,14 @@ export const driveData = {
                 {
                   "name": "القارئ مهند الجنبي",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-10-20 15:32",
                   "isDir": true,
                   "children": [
                     {
                       "name": "PHOTO-2025-10-17-16-25-47 2.jpg",
                       "size": 71375,
-                      "sizeStr": "70 KB",
+                      "sizeStr": "",
                       "date": "2025-10-17 16:28",
                       "isDir": false,
                       "children": []
@@ -14690,7 +14690,7 @@ export const driveData = {
                     {
                       "name": "PHOTO-2025-10-17-16-25-47.jpg",
                       "size": 58029,
-                      "sizeStr": "57 KB",
+                      "sizeStr": "",
                       "date": "2025-10-17 16:28",
                       "isDir": false,
                       "children": []
@@ -14698,7 +14698,7 @@ export const driveData = {
                     {
                       "name": "PHOTO-2025-10-17-16-25-48.jpg",
                       "size": 82533,
-                      "sizeStr": "81 KB",
+                      "sizeStr": "",
                       "date": "2025-10-17 16:28",
                       "isDir": false,
                       "children": []
@@ -14706,7 +14706,7 @@ export const driveData = {
                     {
                       "name": "PHOTO-2025-10-17-16-25-49.jpg",
                       "size": 87099,
-                      "sizeStr": "85 KB",
+                      "sizeStr": "",
                       "date": "2025-10-17 16:28",
                       "isDir": false,
                       "children": []
@@ -14714,7 +14714,7 @@ export const driveData = {
                     {
                       "name": "PHOTO-2025-10-17-16-25-53.jpg",
                       "size": 82347,
-                      "sizeStr": "80 KB",
+                      "sizeStr": "",
                       "date": "2025-10-17 16:28",
                       "isDir": false,
                       "children": []
@@ -14722,7 +14722,7 @@ export const driveData = {
                     {
                       "name": "PHOTO-2025-10-17-16-25-58.jpg",
                       "size": 841801,
-                      "sizeStr": "822 KB",
+                      "sizeStr": "",
                       "date": "2025-10-17 16:28",
                       "isDir": false,
                       "children": []
@@ -14732,7 +14732,7 @@ export const driveData = {
                 {
                   "name": "الملا احمد الهاني",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-11-10 23:01",
                   "isDir": true,
                   "children": [
@@ -14779,7 +14779,7 @@ export const driveData = {
                     {
                       "name": "ec7b642e-dd58-4755-86e3-62675fcc86eb.JPG",
                       "size": 110588,
-                      "sizeStr": "108 KB",
+                      "sizeStr": "",
                       "date": "2025-10-31 13:59",
                       "isDir": false,
                       "children": []
@@ -14789,14 +14789,14 @@ export const driveData = {
                 {
                   "name": "جاسم فردان",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-10-20 15:33",
                   "isDir": true,
                   "children": [
                     {
                       "name": "PHOTO-2025-10-11-18-53-03.jpg",
                       "size": 66450,
-                      "sizeStr": "65 KB",
+                      "sizeStr": "",
                       "date": "2025-10-11 18:55",
                       "isDir": false,
                       "children": []
@@ -14804,7 +14804,7 @@ export const driveData = {
                     {
                       "name": "PHOTO-2025-10-11-18-53-05.jpg",
                       "size": 63554,
-                      "sizeStr": "62 KB",
+                      "sizeStr": "",
                       "date": "2025-10-11 18:55",
                       "isDir": false,
                       "children": []
@@ -14812,7 +14812,7 @@ export const driveData = {
                     {
                       "name": "PHOTO-2025-10-11-18-53-06 2.jpg",
                       "size": 77047,
-                      "sizeStr": "75 KB",
+                      "sizeStr": "",
                       "date": "2025-10-11 18:54",
                       "isDir": false,
                       "children": []
@@ -14820,7 +14820,7 @@ export const driveData = {
                     {
                       "name": "PHOTO-2025-10-11-18-53-06.jpg",
                       "size": 66727,
-                      "sizeStr": "65 KB",
+                      "sizeStr": "",
                       "date": "2025-10-11 18:55",
                       "isDir": false,
                       "children": []
@@ -14828,7 +14828,7 @@ export const driveData = {
                     {
                       "name": "PHOTO-2025-10-11-18-53-08.jpg",
                       "size": 72757,
-                      "sizeStr": "71 KB",
+                      "sizeStr": "",
                       "date": "2025-10-11 18:54",
                       "isDir": false,
                       "children": []
@@ -14838,14 +14838,14 @@ export const driveData = {
                 {
                   "name": "شاكر جنبي",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-10-20 15:34",
                   "isDir": true,
                   "children": [
                     {
                       "name": "PHOTO-2025-09-26-17-07-51.jpg",
                       "size": 992060,
-                      "sizeStr": "969 KB",
+                      "sizeStr": "",
                       "date": "2025-09-26 18:20",
                       "isDir": false,
                       "children": []
@@ -14853,7 +14853,7 @@ export const driveData = {
                     {
                       "name": "PHOTO-2025-09-26-17-07-52 2.jpg",
                       "size": 1001462,
-                      "sizeStr": "978 KB",
+                      "sizeStr": "",
                       "date": "2025-09-26 18:20",
                       "isDir": false,
                       "children": []
@@ -14881,14 +14881,14 @@ export const driveData = {
             {
               "name": "مجتبى + مرتضى دعاء الندبة والموشح",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2025-08-29 15:16",
               "isDir": true,
               "children": [
                 {
                   "name": "c1",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-08-29 15:16",
                   "isDir": true,
                   "children": [
@@ -14953,7 +14953,7 @@ export const driveData = {
                 {
                   "name": "c1+c2 بعد التلوين",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-09-05 13:37",
                   "isDir": true,
                   "children": [
@@ -14994,7 +14994,7 @@ export const driveData = {
                 {
                   "name": "c2",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-08-29 15:16",
                   "isDir": true,
                   "children": [
@@ -15019,21 +15019,21 @@ export const driveData = {
                 {
                   "name": "صوت",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-08-29 15:16",
                   "isDir": true,
                   "children": [
                     {
                       "name": "250829_105250",
                       "size": 1048576,
-                      "sizeStr": "1.0 MB",
+                      "sizeStr": "",
                       "date": "2025-08-29 10:52",
                       "isDir": true,
                       "children": [
                         {
                           "name": "L20PRJDATA.ZDT",
                           "size": 6192,
-                          "sizeStr": "6 KB",
+                          "sizeStr": "",
                           "date": "2025-08-29 10:52",
                           "isDir": false,
                           "children": []
@@ -15127,7 +15127,7 @@ export const driveData = {
             {
               "name": "مرتضى الصحيفة",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2025-09-20 20:45",
               "isDir": true,
               "children": [
@@ -15190,7 +15190,7 @@ export const driveData = {
                 {
                   "name": "cam 2",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-09-20 22:36",
                   "isDir": true,
                   "children": [
@@ -15255,7 +15255,7 @@ export const driveData = {
                 {
                   "name": "cam1",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-09-20 22:06",
                   "isDir": true,
                   "children": [
@@ -15286,7 +15286,7 @@ export const driveData = {
                     {
                       "name": "NC_FLLST.DAT",
                       "size": 81920,
-                      "sizeStr": "80 KB",
+                      "sizeStr": "",
                       "date": "2025-09-20 19:40",
                       "isDir": false,
                       "children": []
@@ -15352,7 +15352,7 @@ export const driveData = {
                 {
                   "name": "cam3",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-09-20 23:50",
                   "isDir": true,
                   "children": [
@@ -15409,7 +15409,7 @@ export const driveData = {
                 {
                   "name": "صوت",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-09-20 23:45",
                   "isDir": false,
                   "children": []
@@ -15424,14 +15424,14 @@ export const driveData = {
                     {
                       "name": "ZOOM0006",
                       "size": 1048576,
-                      "sizeStr": "1.0 MB",
+                      "sizeStr": "",
                       "date": "2024-09-20 19:59",
                       "isDir": true,
                       "children": [
                         {
                           "name": "ZOOM0006.hprj",
                           "size": 10582,
-                          "sizeStr": "10 KB",
+                          "sizeStr": "",
                           "date": "2024-09-20 20:10",
                           "isDir": false,
                           "children": []
@@ -15449,14 +15449,14 @@ export const driveData = {
                     {
                       "name": "ZOOM0007",
                       "size": 1048576,
-                      "sizeStr": "1.0 MB",
+                      "sizeStr": "",
                       "date": "2024-09-20 20:10",
                       "isDir": true,
                       "children": [
                         {
                           "name": "ZOOM0007.hprj",
                           "size": 10582,
-                          "sizeStr": "10 KB",
+                          "sizeStr": "",
                           "date": "2024-09-20 20:24",
                           "isDir": false,
                           "children": []
@@ -15482,14 +15482,14 @@ export const driveData = {
                     {
                       "name": "ZOOM0008",
                       "size": 1048576,
-                      "sizeStr": "1.0 MB",
+                      "sizeStr": "",
                       "date": "2024-09-20 20:24",
                       "isDir": true,
                       "children": [
                         {
                           "name": "ZOOM0008.hprj",
                           "size": 10582,
-                          "sizeStr": "10 KB",
+                          "sizeStr": "",
                           "date": "2024-09-20 20:38",
                           "isDir": false,
                           "children": []
@@ -15507,14 +15507,14 @@ export const driveData = {
                     {
                       "name": "ZOOM0009",
                       "size": 1048576,
-                      "sizeStr": "1.0 MB",
+                      "sizeStr": "",
                       "date": "2024-09-20 20:38",
                       "isDir": true,
                       "children": [
                         {
                           "name": "ZOOM0009.hprj",
                           "size": 10582,
-                          "sizeStr": "10 KB",
+                          "sizeStr": "",
                           "date": "2024-09-20 20:49",
                           "isDir": false,
                           "children": []
@@ -15532,14 +15532,14 @@ export const driveData = {
                     {
                       "name": "ZOOM0010",
                       "size": 1048576,
-                      "sizeStr": "1.0 MB",
+                      "sizeStr": "",
                       "date": "2024-09-20 20:49",
                       "isDir": true,
                       "children": [
                         {
                           "name": "ZOOM0010.hprj",
                           "size": 10582,
-                          "sizeStr": "10 KB",
+                          "sizeStr": "",
                           "date": "2024-09-20 20:57",
                           "isDir": false,
                           "children": []
@@ -15559,7 +15559,7 @@ export const driveData = {
                 {
                   "name": "صوت مهندس",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-09-24 20:05",
                   "isDir": true,
                   "children": [
@@ -15604,14 +15604,14 @@ export const driveData = {
         {
           "name": "٠٤ - ربيع الثاني",
           "size": 1048576,
-          "sizeStr": "1.0 MB",
+          "sizeStr": "",
           "date": "2026-04-30 15:47",
           "isDir": true,
           "children": [
             {
               "name": "الشيخ الغمغام ١٤٤٤٧",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2025-10-26 22:20",
               "isDir": true,
               "children": [
@@ -15700,14 +15700,14 @@ export const driveData = {
             {
               "name": "جاسم فردان",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2025-10-04 16:36",
               "isDir": true,
               "children": [
                 {
                   "name": "c1",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-10-04 16:37",
                   "isDir": true,
                   "children": [
@@ -15740,7 +15740,7 @@ export const driveData = {
                 {
                   "name": "c2",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2026-04-30 15:36",
                   "isDir": true,
                   "children": [
@@ -15759,14 +15759,14 @@ export const driveData = {
             {
               "name": "شاكر الجنبي",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2025-09-26 11:15",
               "isDir": true,
               "children": [
                 {
                   "name": "c1",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-09-26 11:15",
                   "isDir": true,
                   "children": [
@@ -15791,7 +15791,7 @@ export const driveData = {
                 {
                   "name": "c2",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-09-26 11:15",
                   "isDir": true,
                   "children": [
@@ -15812,28 +15812,28 @@ export const driveData = {
         {
           "name": "٠٥ - جمادى الأولى",
           "size": 1048576,
-          "sizeStr": "1.0 MB",
+          "sizeStr": "",
           "date": "2026-04-30 01:03",
           "isDir": true,
           "children": [
             {
               "name": "الاستغاثة بالحجة",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2025-11-08 16:19",
               "isDir": true,
               "children": [
                 {
                   "name": "Adobe Premiere Pro Auto-Save",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-11-11 15:48",
                   "isDir": true,
                   "children": [
                     {
                       "name": "EDIT Q-2025-11-11_16-03-24.prproj",
                       "size": 165092,
-                      "sizeStr": "161 KB",
+                      "sizeStr": "",
                       "date": "2025-11-11 16:03",
                       "isDir": false,
                       "children": []
@@ -15841,7 +15841,7 @@ export const driveData = {
                     {
                       "name": "EDIT Q-2025-11-11_16-17-05.prproj",
                       "size": 166364,
-                      "sizeStr": "162 KB",
+                      "sizeStr": "",
                       "date": "2025-11-11 16:17",
                       "isDir": false,
                       "children": []
@@ -15849,7 +15849,7 @@ export const driveData = {
                     {
                       "name": "EDIT Q-2025-11-11_16-34-05.prproj",
                       "size": 180714,
-                      "sizeStr": "176 KB",
+                      "sizeStr": "",
                       "date": "2025-11-11 16:34",
                       "isDir": false,
                       "children": []
@@ -15857,7 +15857,7 @@ export const driveData = {
                     {
                       "name": "EDIT Q-2025-11-19_18-46-20.prproj",
                       "size": 180087,
-                      "sizeStr": "176 KB",
+                      "sizeStr": "",
                       "date": "2025-11-19 18:46",
                       "isDir": false,
                       "children": []
@@ -15865,7 +15865,7 @@ export const driveData = {
                     {
                       "name": "EDIT Q.prproj",
                       "size": 197158,
-                      "sizeStr": "193 KB",
+                      "sizeStr": "",
                       "date": "2025-11-21 11:22",
                       "isDir": false,
                       "children": []
@@ -15873,7 +15873,7 @@ export const driveData = {
                     {
                       "name": "EDIT Q_1--cda02234-97e5-0fc1-d68a-8b4c5efbedcd-2026-01-19_06-44-23.prproj",
                       "size": 204647,
-                      "sizeStr": "200 KB",
+                      "sizeStr": "",
                       "date": "2026-01-19 06:44",
                       "isDir": false,
                       "children": []
@@ -15881,7 +15881,7 @@ export const driveData = {
                     {
                       "name": "EDIT Q_1--cda02234-97e5-0fc1-d68a-8b4c5efbedcd-2026-01-19_06-55-17.prproj",
                       "size": 206926,
-                      "sizeStr": "202 KB",
+                      "sizeStr": "",
                       "date": "2026-01-19 06:55",
                       "isDir": false,
                       "children": []
@@ -15889,7 +15889,7 @@ export const driveData = {
                     {
                       "name": "EDIT Q_1_2--584eec92-7105-25ff-6bff-568724bfa8da-2026-02-02_13-21-50.prproj",
                       "size": 204901,
-                      "sizeStr": "200 KB",
+                      "sizeStr": "",
                       "date": "2026-02-02 13:21",
                       "isDir": false,
                       "children": []
@@ -15897,7 +15897,7 @@ export const driveData = {
                     {
                       "name": "EDIT Q_1_2--584eec92-7105-25ff-6bff-568724bfa8da-2026-02-02_13-27-50.prproj",
                       "size": 220373,
-                      "sizeStr": "215 KB",
+                      "sizeStr": "",
                       "date": "2026-02-02 13:27",
                       "isDir": false,
                       "children": []
@@ -15905,7 +15905,7 @@ export const driveData = {
                     {
                       "name": "EDIT Q_1_2--584eec92-7105-25ff-6bff-568724bfa8da-2026-02-02_13-33-51.prproj",
                       "size": 169414,
-                      "sizeStr": "165 KB",
+                      "sizeStr": "",
                       "date": "2026-02-02 13:33",
                       "isDir": false,
                       "children": []
@@ -15915,7 +15915,7 @@ export const driveData = {
                 {
                   "name": "EDIT Q.prproj",
                   "size": 197158,
-                  "sizeStr": "193 KB",
+                  "sizeStr": "",
                   "date": "2025-11-21 11:22",
                   "isDir": false,
                   "children": []
@@ -15923,7 +15923,7 @@ export const driveData = {
                 {
                   "name": "EDIT Q_1.prproj",
                   "size": 197187,
-                  "sizeStr": "193 KB",
+                  "sizeStr": "",
                   "date": "2026-01-19 06:38",
                   "isDir": false,
                   "children": []
@@ -15931,7 +15931,7 @@ export const driveData = {
                 {
                   "name": "EDIT Q_1_1.prproj",
                   "size": 195069,
-                  "sizeStr": "190 KB",
+                  "sizeStr": "",
                   "date": "2026-02-02 12:47",
                   "isDir": false,
                   "children": []
@@ -15939,7 +15939,7 @@ export const driveData = {
                 {
                   "name": "EDIT Q_1_2.prin",
                   "size": 527783,
-                  "sizeStr": "515 KB",
+                  "sizeStr": "",
                   "date": "2026-02-02 13:35",
                   "isDir": false,
                   "children": []
@@ -15947,7 +15947,7 @@ export const driveData = {
                 {
                   "name": "EDIT Q_1_2.prproj",
                   "size": 171556,
-                  "sizeStr": "168 KB",
+                  "sizeStr": "",
                   "date": "2026-02-02 13:35",
                   "isDir": false,
                   "children": []
@@ -15955,7 +15955,7 @@ export const driveData = {
                 {
                   "name": "EDIT Q_2.prproj",
                   "size": 195028,
-                  "sizeStr": "190 KB",
+                  "sizeStr": "",
                   "date": "2026-02-02 12:55",
                   "isDir": false,
                   "children": []
@@ -15963,7 +15963,7 @@ export const driveData = {
                 {
                   "name": "EDIT Q_3.prproj",
                   "size": 195046,
-                  "sizeStr": "190 KB",
+                  "sizeStr": "",
                   "date": "2026-02-02 12:56",
                   "isDir": false,
                   "children": []
@@ -16005,7 +16005,7 @@ export const driveData = {
             {
               "name": "السيد علي الهاشم",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2025-11-18 13:12",
               "isDir": true,
               "children": [
@@ -16022,7 +16022,7 @@ export const driveData = {
             {
               "name": "الملا احمد الهاني",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2025-11-08 14:07",
               "isDir": true,
               "children": [
@@ -16087,7 +16087,7 @@ export const driveData = {
             {
               "name": "علي تراب لطمية",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2025-11-08 14:17",
               "isDir": true,
               "children": [
@@ -16208,7 +16208,7 @@ export const driveData = {
             {
               "name": "علي كرانات",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2025-11-08 15:23",
               "isDir": true,
               "children": [
@@ -16259,21 +16259,21 @@ export const driveData = {
         {
           "name": "٠٦ - جمادى الآخرة",
           "size": 1048576,
-          "sizeStr": "1.0 MB",
+          "sizeStr": "",
           "date": "2026-04-30 15:47",
           "isDir": true,
           "children": [
             {
               "name": "عبد الله فاران",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2025-12-15 20:23",
               "isDir": true,
               "children": [
                 {
                   "name": "C1",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-12-15 20:24",
                   "isDir": true,
                   "children": [
@@ -16306,7 +16306,7 @@ export const driveData = {
                 {
                   "name": "C2",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-12-15 20:24",
                   "isDir": true,
                   "children": [
@@ -16333,14 +16333,14 @@ export const driveData = {
             {
               "name": "مفيد شويكي",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2025-12-05 11:08",
               "isDir": true,
               "children": [
                 {
                   "name": "c1",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-12-05 11:08",
                   "isDir": true,
                   "children": [
@@ -16373,7 +16373,7 @@ export const driveData = {
                 {
                   "name": "c2",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2026-04-30 15:38",
                   "isDir": true,
                   "children": [
@@ -16390,7 +16390,7 @@ export const driveData = {
                 {
                   "name": "الصوت",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-12-05 11:08",
                   "isDir": false,
                   "children": []
@@ -16402,14 +16402,14 @@ export const driveData = {
         {
           "name": "٠٧ - رجب",
           "size": 1048576,
-          "sizeStr": "1.0 MB",
+          "sizeStr": "",
           "date": "2026-04-30 15:47",
           "isDir": true,
           "children": [
             {
               "name": "حسن عسيري",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2026-01-13 14:39",
               "isDir": true,
               "children": [
@@ -16426,7 +16426,7 @@ export const driveData = {
             {
               "name": "عبدالله الطلالوة",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2026-01-13 14:41",
               "isDir": true,
               "children": [
@@ -16451,7 +16451,7 @@ export const driveData = {
             {
               "name": "عسيري",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2026-01-02 13:45",
               "isDir": true,
               "children": [
@@ -16492,14 +16492,14 @@ export const driveData = {
             {
               "name": "عسيري - حمزة",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2026-01-02 13:44",
               "isDir": true,
               "children": [
                 {
                   "name": "عسيري",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2026-01-02 13:45",
                   "isDir": false,
                   "children": []
@@ -16550,7 +16550,7 @@ export const driveData = {
             {
               "name": "محمد حبيل + المولد",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2026-01-26 20:14",
               "isDir": true,
               "children": [
@@ -16617,14 +16617,14 @@ export const driveData = {
         {
           "name": "٠٨ - شعبان",
           "size": 1048576,
-          "sizeStr": "1.0 MB",
+          "sizeStr": "",
           "date": "2026-04-30 15:47",
           "isDir": true,
           "children": [
             {
               "name": "الحوارية ملونة",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2026-02-27 00:12",
               "isDir": true,
               "children": [
@@ -16657,14 +16657,14 @@ export const driveData = {
             {
               "name": "السيد محمد الشرفا دعاء الندبة شعبان",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2026-02-06 13:05",
               "isDir": true,
               "children": [
                 {
                   "name": "CLIP",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2026-02-05 21:59",
                   "isDir": true,
                   "children": [
@@ -16679,7 +16679,7 @@ export const driveData = {
                     {
                       "name": "C0001M01.XML",
                       "size": 1435,
-                      "sizeStr": "1 KB",
+                      "sizeStr": "",
                       "date": "2026-02-05 22:27",
                       "isDir": false,
                       "children": []
@@ -16695,7 +16695,7 @@ export const driveData = {
                     {
                       "name": "C0002M01.XML",
                       "size": 1435,
-                      "sizeStr": "1 KB",
+                      "sizeStr": "",
                       "date": "2026-02-05 22:44",
                       "isDir": false,
                       "children": []
@@ -16711,7 +16711,7 @@ export const driveData = {
                     {
                       "name": "C0003M01.XML",
                       "size": 1435,
-                      "sizeStr": "1 KB",
+                      "sizeStr": "",
                       "date": "2026-02-05 22:52",
                       "isDir": false,
                       "children": []
@@ -16747,7 +16747,7 @@ export const driveData = {
             {
               "name": "الملا عبد الله الطلالوة",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2026-01-28 22:46",
               "isDir": true,
               "children": [
@@ -16764,7 +16764,7 @@ export const driveData = {
             {
               "name": "حسين الابيض دعاء الندبة شعبان",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2026-02-26 04:43",
               "isDir": true,
               "children": [
@@ -16805,21 +16805,21 @@ export const driveData = {
             {
               "name": "حوارية سيد حسن",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2026-02-06 01:23",
               "isDir": true,
               "children": [
                 {
                   "name": "CLIP",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2026-02-06 19:27",
                   "isDir": true,
                   "children": [
                     {
                       "name": "C0001M01.XML",
                       "size": 1441,
-                      "sizeStr": "1 KB",
+                      "sizeStr": "",
                       "date": "2026-02-04 20:23",
                       "isDir": false,
                       "children": []
@@ -16835,7 +16835,7 @@ export const driveData = {
                     {
                       "name": "C0002M01.XML",
                       "size": 1443,
-                      "sizeStr": "1 KB",
+                      "sizeStr": "",
                       "date": "2026-02-04 21:46",
                       "isDir": false,
                       "children": []
@@ -16851,7 +16851,7 @@ export const driveData = {
                     {
                       "name": "C0004M01.XML",
                       "size": 1435,
-                      "sizeStr": "1 KB",
+                      "sizeStr": "",
                       "date": "2026-02-05 09:22",
                       "isDir": false,
                       "children": []
@@ -16867,7 +16867,7 @@ export const driveData = {
                     {
                       "name": "C0005M01.XML",
                       "size": 1435,
-                      "sizeStr": "1 KB",
+                      "sizeStr": "",
                       "date": "2026-02-05 09:53",
                       "isDir": false,
                       "children": []
@@ -16893,14 +16893,14 @@ export const driveData = {
                 {
                   "name": "الصوت",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2020-05-25 23:05",
                   "isDir": true,
                   "children": [
                     {
                       "name": "F200525_003.h8prj",
                       "size": 10312,
-                      "sizeStr": "10 KB",
+                      "sizeStr": "",
                       "date": "2020-05-26 01:38",
                       "isDir": false,
                       "children": []
@@ -16990,7 +16990,7 @@ export const driveData = {
                 {
                   "name": "زيارة ال ياسين",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2026-02-06 01:59",
                   "isDir": true,
                   "children": [
@@ -17025,14 +17025,14 @@ export const driveData = {
             {
               "name": "رحلة البر ١٤٤٧",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2026-02-02 12:56",
               "isDir": true,
               "children": [
                 {
                   "name": "بر",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2026-02-14 01:41",
                   "isDir": true,
                   "children": [
@@ -17303,7 +17303,7 @@ export const driveData = {
                     {
                       "name": "IMG_9244.MOV",
                       "size": 534900,
-                      "sizeStr": "522 KB",
+                      "sizeStr": "",
                       "date": "2026-02-09 02:03",
                       "isDir": false,
                       "children": []
@@ -17675,7 +17675,7 @@ export const driveData = {
             {
               "name": "علي الطويل",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2026-02-05 16:33",
               "isDir": true,
               "children": [
@@ -17716,7 +17716,7 @@ export const driveData = {
             {
               "name": "مجلد بلا عنوان",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2026-02-05 16:56",
               "isDir": true,
               "children": [
@@ -17733,7 +17733,7 @@ export const driveData = {
             {
               "name": "محمد حبيل",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2026-02-08 00:15",
               "isDir": false,
               "children": []
@@ -17741,28 +17741,28 @@ export const driveData = {
             {
               "name": "ملفات صوتية شعبان وقبله",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2026-02-10 04:14",
               "isDir": true,
               "children": [
                 {
                   "name": "untitled folder 2",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2026-02-10 04:13",
                   "isDir": true,
                   "children": [
                     {
                       "name": "F200526_001.zprj",
                       "size": 1048576,
-                      "sizeStr": "1.0 MB",
+                      "sizeStr": "",
                       "date": "2020-05-26 12:24",
                       "isDir": true,
                       "children": [
                         {
                           "name": "F200526_001.h8prj",
                           "size": 10312,
-                          "sizeStr": "10 KB",
+                          "sizeStr": "",
                           "date": "2020-05-26 13:14",
                           "isDir": false,
                           "children": []
@@ -17804,7 +17804,7 @@ export const driveData = {
                     {
                       "name": "ZOOM0002.WAV",
                       "size": 98304,
-                      "sizeStr": "96 KB",
+                      "sizeStr": "",
                       "date": "2014-01-01 01:31",
                       "isDir": false,
                       "children": []
@@ -17876,7 +17876,7 @@ export const driveData = {
                     {
                       "name": "ZOOM0010.WAV",
                       "size": 242048,
-                      "sizeStr": "236 KB",
+                      "sizeStr": "",
                       "date": "2014-02-02 11:17",
                       "isDir": false,
                       "children": []
@@ -17884,7 +17884,7 @@ export const driveData = {
                     {
                       "name": "ZOOM0011.WAV",
                       "size": 343808,
-                      "sizeStr": "336 KB",
+                      "sizeStr": "",
                       "date": "2014-02-02 11:17",
                       "isDir": false,
                       "children": []
@@ -18010,28 +18010,28 @@ export const driveData = {
         {
           "name": "٠٩ - رمضان",
           "size": 1048576,
-          "sizeStr": "1.0 MB",
+          "sizeStr": "",
           "date": "2026-04-30 00:49",
           "isDir": true,
           "children": [
             {
               "name": "المجلس الرمضاني - ١٤٤٧",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2026-02-25 23:50",
               "isDir": true,
               "children": [
                 {
                   "name": "المجلس الأول",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2026-02-22 01:27",
                   "isDir": true,
                   "children": [
                     {
                       "name": "First M",
                       "size": 1048576,
-                      "sizeStr": "1.0 MB",
+                      "sizeStr": "",
                       "date": "2026-02-22 01:11",
                       "isDir": true,
                       "children": [
@@ -18064,7 +18064,7 @@ export const driveData = {
                     {
                       "name": "Second M",
                       "size": 1048576,
-                      "sizeStr": "1.0 MB",
+                      "sizeStr": "",
                       "date": "2026-02-22 01:22",
                       "isDir": true,
                       "children": [
@@ -18089,7 +18089,7 @@ export const driveData = {
                     {
                       "name": "Third M",
                       "size": 1048576,
-                      "sizeStr": "1.0 MB",
+                      "sizeStr": "",
                       "date": "2026-02-22 01:27",
                       "isDir": false,
                       "children": []
@@ -18097,7 +18097,7 @@ export const driveData = {
                     {
                       "name": "الصوتيات",
                       "size": 1048576,
-                      "sizeStr": "1.0 MB",
+                      "sizeStr": "",
                       "date": "2026-02-22 00:24",
                       "isDir": true,
                       "children": [
@@ -18140,7 +18140,7 @@ export const driveData = {
                 {
                   "name": "المجلس الثالث",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2026-02-24 01:30",
                   "isDir": true,
                   "children": [
@@ -18163,7 +18163,7 @@ export const driveData = {
                     {
                       "name": "الصوتيات",
                       "size": 1048576,
-                      "sizeStr": "1.0 MB",
+                      "sizeStr": "",
                       "date": "2026-02-24 01:33",
                       "isDir": true,
                       "children": [
@@ -18190,14 +18190,14 @@ export const driveData = {
                 {
                   "name": "المجلس الثاني",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2026-02-23 00:45",
                   "isDir": true,
                   "children": [
                     {
                       "name": "First M",
                       "size": 1048576,
-                      "sizeStr": "1.0 MB",
+                      "sizeStr": "",
                       "date": "2026-02-23 00:43",
                       "isDir": true,
                       "children": [
@@ -18222,7 +18222,7 @@ export const driveData = {
                     {
                       "name": "Second M",
                       "size": 1048576,
-                      "sizeStr": "1.0 MB",
+                      "sizeStr": "",
                       "date": "2026-02-23 00:58",
                       "isDir": true,
                       "children": [
@@ -18247,7 +18247,7 @@ export const driveData = {
                     {
                       "name": "الصوتيات",
                       "size": 1048576,
-                      "sizeStr": "1.0 MB",
+                      "sizeStr": "",
                       "date": "2026-02-23 00:28",
                       "isDir": true,
                       "children": [
@@ -18290,7 +18290,7 @@ export const driveData = {
                 {
                   "name": "المجلس الخامس",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2026-02-26 00:08",
                   "isDir": true,
                   "children": [
@@ -18329,7 +18329,7 @@ export const driveData = {
                     {
                       "name": "الصوتيات",
                       "size": 1048576,
-                      "sizeStr": "1.0 MB",
+                      "sizeStr": "",
                       "date": "2026-02-26 00:18",
                       "isDir": true,
                       "children": [
@@ -18372,7 +18372,7 @@ export const driveData = {
                 {
                   "name": "المجلس الرابع",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2026-02-25 00:38",
                   "isDir": true,
                   "children": [
@@ -18395,7 +18395,7 @@ export const driveData = {
                     {
                       "name": "الصوتيات",
                       "size": 1048576,
-                      "sizeStr": "1.0 MB",
+                      "sizeStr": "",
                       "date": "2026-02-25 00:51",
                       "isDir": true,
                       "children": [
@@ -18456,21 +18456,21 @@ export const driveData = {
             {
               "name": "الملفات اللي في الذواكر",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2026-02-19 20:04",
               "isDir": true,
               "children": [
                 {
                   "name": "260206_095340",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2026-02-06 09:53",
                   "isDir": true,
                   "children": [
                     {
                       "name": "L20PRJDATA.ZDT",
                       "size": 6192,
-                      "sizeStr": "6 KB",
+                      "sizeStr": "",
                       "date": "2026-02-06 09:53",
                       "isDir": false,
                       "children": []
@@ -18560,7 +18560,7 @@ export const driveData = {
                 {
                   "name": "C0001M01.XML",
                   "size": 1435,
-                  "sizeStr": "1 KB",
+                  "sizeStr": "",
                   "date": "2026-02-13 05:17",
                   "isDir": false,
                   "children": []
@@ -18568,7 +18568,7 @@ export const driveData = {
                 {
                   "name": "C0002M01.XML",
                   "size": 1435,
-                  "sizeStr": "1 KB",
+                  "sizeStr": "",
                   "date": "2026-02-13 05:37",
                   "isDir": false,
                   "children": []
@@ -18576,7 +18576,7 @@ export const driveData = {
                 {
                   "name": "C0003M01.XML",
                   "size": 1441,
-                  "sizeStr": "1 KB",
+                  "sizeStr": "",
                   "date": "2026-02-12 17:08",
                   "isDir": false,
                   "children": []
@@ -18584,7 +18584,7 @@ export const driveData = {
                 {
                   "name": "F200526_001.h8prj",
                   "size": 10312,
-                  "sizeStr": "10 KB",
+                  "sizeStr": "",
                   "date": "2020-05-26 16:59",
                   "isDir": false,
                   "children": []
@@ -18600,14 +18600,14 @@ export const driveData = {
                 {
                   "name": "ZOOM0001",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-09-05 09:54",
                   "isDir": true,
                   "children": [
                     {
                       "name": "ZOOM0001.hprj",
                       "size": 10582,
-                      "sizeStr": "10 KB",
+                      "sizeStr": "",
                       "date": "2026-02-06 09:48",
                       "isDir": false,
                       "children": []
@@ -18615,7 +18615,7 @@ export const driveData = {
                     {
                       "name": "ZOOM0001_LR.WAV",
                       "size": 402688,
-                      "sizeStr": "393 KB",
+                      "sizeStr": "",
                       "date": "2025-09-05 09:54",
                       "isDir": false,
                       "children": []
@@ -18625,14 +18625,14 @@ export const driveData = {
                 {
                   "name": "ZOOM0002",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-09-05 10:04",
                   "isDir": true,
                   "children": [
                     {
                       "name": "ZOOM0002.hprj",
                       "size": 10582,
-                      "sizeStr": "10 KB",
+                      "sizeStr": "",
                       "date": "2025-09-05 10:47",
                       "isDir": false,
                       "children": []
@@ -18658,14 +18658,14 @@ export const driveData = {
                 {
                   "name": "ZOOM0003",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-09-05 10:47",
                   "isDir": true,
                   "children": [
                     {
                       "name": "ZOOM0003.hprj",
                       "size": 10582,
-                      "sizeStr": "10 KB",
+                      "sizeStr": "",
                       "date": "2025-09-05 10:48",
                       "isDir": false,
                       "children": []
@@ -18673,7 +18673,7 @@ export const driveData = {
                     {
                       "name": "ZOOM0003_Tr3.WAV",
                       "size": 571392,
-                      "sizeStr": "558 KB",
+                      "sizeStr": "",
                       "date": "2025-09-05 10:47",
                       "isDir": false,
                       "children": []
@@ -18683,14 +18683,14 @@ export const driveData = {
                 {
                   "name": "ZOOM0004",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-09-12 10:08",
                   "isDir": true,
                   "children": [
                     {
                       "name": "ZOOM0004.hprj",
                       "size": 10582,
-                      "sizeStr": "10 KB",
+                      "sizeStr": "",
                       "date": "2025-09-12 10:08",
                       "isDir": false,
                       "children": []
@@ -18698,7 +18698,7 @@ export const driveData = {
                     {
                       "name": "ZOOM0004_Tr2.WAV",
                       "size": 221696,
-                      "sizeStr": "216 KB",
+                      "sizeStr": "",
                       "date": "2025-09-12 10:08",
                       "isDir": false,
                       "children": []
@@ -18706,7 +18706,7 @@ export const driveData = {
                     {
                       "name": "ZOOM0004_Tr3.WAV",
                       "size": 221696,
-                      "sizeStr": "216 KB",
+                      "sizeStr": "",
                       "date": "2025-09-12 10:08",
                       "isDir": false,
                       "children": []
@@ -18716,14 +18716,14 @@ export const driveData = {
                 {
                   "name": "ZOOM0005",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-09-12 10:09",
                   "isDir": true,
                   "children": [
                     {
                       "name": "ZOOM0005.hprj",
                       "size": 10582,
-                      "sizeStr": "10 KB",
+                      "sizeStr": "",
                       "date": "2025-09-12 10:49",
                       "isDir": false,
                       "children": []
@@ -18757,14 +18757,14 @@ export const driveData = {
                 {
                   "name": "ZOOM0006",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2024-09-20 19:59",
                   "isDir": true,
                   "children": [
                     {
                       "name": "ZOOM0006.hprj",
                       "size": 10582,
-                      "sizeStr": "10 KB",
+                      "sizeStr": "",
                       "date": "2024-09-20 20:10",
                       "isDir": false,
                       "children": []
@@ -18782,14 +18782,14 @@ export const driveData = {
                 {
                   "name": "ZOOM0007",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2024-09-20 20:10",
                   "isDir": true,
                   "children": [
                     {
                       "name": "ZOOM0007.hprj",
                       "size": 10582,
-                      "sizeStr": "10 KB",
+                      "sizeStr": "",
                       "date": "2024-09-20 20:24",
                       "isDir": false,
                       "children": []
@@ -18807,14 +18807,14 @@ export const driveData = {
                 {
                   "name": "ZOOM0008",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2024-09-20 20:24",
                   "isDir": true,
                   "children": [
                     {
                       "name": "ZOOM0008.hprj",
                       "size": 10582,
-                      "sizeStr": "10 KB",
+                      "sizeStr": "",
                       "date": "2024-09-20 20:38",
                       "isDir": false,
                       "children": []
@@ -18832,14 +18832,14 @@ export const driveData = {
                 {
                   "name": "ZOOM0009",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2024-09-20 20:38",
                   "isDir": true,
                   "children": [
                     {
                       "name": "ZOOM0009.hprj",
                       "size": 10582,
-                      "sizeStr": "10 KB",
+                      "sizeStr": "",
                       "date": "2024-09-20 20:49",
                       "isDir": false,
                       "children": []
@@ -18857,14 +18857,14 @@ export const driveData = {
                 {
                   "name": "ZOOM0010",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2024-09-20 20:49",
                   "isDir": true,
                   "children": [
                     {
                       "name": "ZOOM0010.hprj",
                       "size": 10582,
-                      "sizeStr": "10 KB",
+                      "sizeStr": "",
                       "date": "2024-09-20 20:57",
                       "isDir": false,
                       "children": []
@@ -18882,14 +18882,14 @@ export const driveData = {
                 {
                   "name": "ZOOM0011",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-09-26 09:56",
                   "isDir": true,
                   "children": [
                     {
                       "name": "ZOOM0011.hprj",
                       "size": 10582,
-                      "sizeStr": "10 KB",
+                      "sizeStr": "",
                       "date": "2025-09-26 09:56",
                       "isDir": false,
                       "children": []
@@ -18897,7 +18897,7 @@ export const driveData = {
                     {
                       "name": "ZOOM0011_Tr2.WAV",
                       "size": 270848,
-                      "sizeStr": "264 KB",
+                      "sizeStr": "",
                       "date": "2025-09-26 09:56",
                       "isDir": false,
                       "children": []
@@ -18905,7 +18905,7 @@ export const driveData = {
                     {
                       "name": "ZOOM0011_Tr3.WAV",
                       "size": 270848,
-                      "sizeStr": "264 KB",
+                      "sizeStr": "",
                       "date": "2025-09-26 09:56",
                       "isDir": false,
                       "children": []
@@ -18915,14 +18915,14 @@ export const driveData = {
                 {
                   "name": "ZOOM0012",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-09-26 10:13",
                   "isDir": true,
                   "children": [
                     {
                       "name": "ZOOM0012.hprj",
                       "size": 10582,
-                      "sizeStr": "10 KB",
+                      "sizeStr": "",
                       "date": "2025-09-26 11:25",
                       "isDir": false,
                       "children": []
@@ -18956,14 +18956,14 @@ export const driveData = {
                 {
                   "name": "ZOOM0013",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-10-10 09:53",
                   "isDir": true,
                   "children": [
                     {
                       "name": "ZOOM0013.hprj",
                       "size": 10582,
-                      "sizeStr": "10 KB",
+                      "sizeStr": "",
                       "date": "2025-10-10 10:56",
                       "isDir": false,
                       "children": []
@@ -18989,14 +18989,14 @@ export const driveData = {
                 {
                   "name": "ZOOM0014",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-10-24 09:55",
                   "isDir": true,
                   "children": [
                     {
                       "name": "ZOOM0014.hprj",
                       "size": 10582,
-                      "sizeStr": "10 KB",
+                      "sizeStr": "",
                       "date": "2025-10-24 10:51",
                       "isDir": false,
                       "children": []
@@ -19038,14 +19038,14 @@ export const driveData = {
                 {
                   "name": "ZOOM0015",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2025-10-31 10:01",
                   "isDir": true,
                   "children": [
                     {
                       "name": "ZOOM0015.hprj",
                       "size": 10582,
-                      "sizeStr": "10 KB",
+                      "sizeStr": "",
                       "date": "2025-10-31 10:57",
                       "isDir": false,
                       "children": []
@@ -19087,14 +19087,14 @@ export const driveData = {
                 {
                   "name": "ZOOM0016",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2026-01-16 10:12",
                   "isDir": true,
                   "children": [
                     {
                       "name": "ZOOM0016.hprj",
                       "size": 10582,
-                      "sizeStr": "10 KB",
+                      "sizeStr": "",
                       "date": "2026-01-16 10:50",
                       "isDir": false,
                       "children": []
@@ -19154,14 +19154,14 @@ export const driveData = {
             {
               "name": "سيد هادي رمضان ١٤٤٧",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2026-03-14 17:49",
               "isDir": true,
               "children": [
                 {
                   "name": "Sequence 02.00_30_41_19.Still001.jpg",
                   "size": 355820,
-                  "sizeStr": "347 KB",
+                  "sizeStr": "",
                   "date": "2026-04-23 19:32",
                   "isDir": false,
                   "children": []
@@ -19169,7 +19169,7 @@ export const driveData = {
                 {
                   "name": "Sequence 02.00_30_46_09.Still002.jpg",
                   "size": 360102,
-                  "sizeStr": "352 KB",
+                  "sizeStr": "",
                   "date": "2026-04-23 19:32",
                   "isDir": false,
                   "children": []
@@ -19177,7 +19177,7 @@ export const driveData = {
                 {
                   "name": "cam 1",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2026-03-14 20:58",
                   "isDir": true,
                   "children": [
@@ -19202,7 +19202,7 @@ export const driveData = {
                 {
                   "name": "cam 2",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2026-03-14 18:45",
                   "isDir": true,
                   "children": [
@@ -19227,7 +19227,7 @@ export const driveData = {
                 {
                   "name": "cam 3",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2026-03-14 19:27",
                   "isDir": true,
                   "children": [
@@ -19252,7 +19252,7 @@ export const driveData = {
                 {
                   "name": "معدل.png",
                   "size": 19276,
-                  "sizeStr": "19 KB",
+                  "sizeStr": "",
                   "date": "2023-09-22 14:44",
                   "isDir": false,
                   "children": []
@@ -19260,7 +19260,7 @@ export const driveData = {
                 {
                   "name": "ندبة مجموعه ندبه.png",
                   "size": 29045,
-                  "sizeStr": "28 KB",
+                  "sizeStr": "",
                   "date": "2026-04-16 04:21",
                   "isDir": false,
                   "children": []
@@ -19278,7 +19278,7 @@ export const driveData = {
             {
               "name": "ع.تراب - رمضان - ١٤٤٧",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2026-03-20 09:34",
               "isDir": true,
               "children": [
@@ -19293,7 +19293,7 @@ export const driveData = {
                 {
                   "name": "C0001-1.00_03_38_05.Still002.dpx.xmp",
                   "size": 4451,
-                  "sizeStr": "4 KB",
+                  "sizeStr": "",
                   "date": "2026-03-25 02:53",
                   "isDir": false,
                   "children": []
@@ -19309,7 +19309,7 @@ export const driveData = {
                 {
                   "name": "C0001-1.00_10_51_04.Still001.dpx.xmp",
                   "size": 4451,
-                  "sizeStr": "4 KB",
+                  "sizeStr": "",
                   "date": "2026-03-25 02:52",
                   "isDir": false,
                   "children": []
@@ -19437,7 +19437,7 @@ export const driveData = {
                 {
                   "name": "ليت شعري ريلز.00_00_05_20.Still001.dpx.xmp",
                   "size": 4450,
-                  "sizeStr": "4 KB",
+                  "sizeStr": "",
                   "date": "2026-03-31 07:18",
                   "isDir": false,
                   "children": []
@@ -19463,7 +19463,7 @@ export const driveData = {
             {
               "name": "مجتبى -رمضان- ١٤٤٧ه",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2026-03-05 21:06",
               "isDir": true,
               "children": [
@@ -19478,7 +19478,7 @@ export const driveData = {
                 {
                   "name": "New folder",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2026-03-02 21:35",
                   "isDir": true,
                   "children": [
@@ -19501,7 +19501,7 @@ export const driveData = {
                     {
                       "name": "C0146M01.XML",
                       "size": 2182,
-                      "sizeStr": "2 KB",
+                      "sizeStr": "",
                       "date": "2026-02-26 04:39",
                       "isDir": false,
                       "children": []
@@ -19517,7 +19517,7 @@ export const driveData = {
                     {
                       "name": "C0147M01.XML",
                       "size": 2096,
-                      "sizeStr": "2 KB",
+                      "sizeStr": "",
                       "date": "2026-02-26 04:57",
                       "isDir": false,
                       "children": []
@@ -19533,7 +19533,7 @@ export const driveData = {
                     {
                       "name": "C0148M01.XML",
                       "size": 2096,
-                      "sizeStr": "2 KB",
+                      "sizeStr": "",
                       "date": "2026-02-26 05:25",
                       "isDir": false,
                       "children": []
@@ -19549,7 +19549,7 @@ export const driveData = {
                     {
                       "name": "C9412M01.XML",
                       "size": 2146,
-                      "sizeStr": "2 KB",
+                      "sizeStr": "",
                       "date": "2026-02-27 06:01",
                       "isDir": false,
                       "children": []
@@ -19601,14 +19601,14 @@ export const driveData = {
             {
               "name": "مرتضى - رمضان - ١٤٤٧ هـ",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2026-02-20 22:47",
               "isDir": true,
               "children": [
                 {
                   "name": "Adobe Premiere Pro Auto-Save",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2026-04-14 22:17",
                   "isDir": true,
                   "children": [
@@ -19719,7 +19719,7 @@ export const driveData = {
                     {
                       "name": "مرتضي رمضان--30343991-c8d2-a451-30a2-f0f2cac47a8a-2026-03-27_00-15-34--d17e7e1a-a98a-9782-9ef3-b0fc5ec0e8a3-2026-04-16_12-27-30.prproj",
                       "size": 42577,
-                      "sizeStr": "42 KB",
+                      "sizeStr": "",
                       "date": "2026-04-16 12:27",
                       "isDir": false,
                       "children": []
@@ -19727,7 +19727,7 @@ export const driveData = {
                     {
                       "name": "مرتضي رمضان--30343991-c8d2-a451-30a2-f0f2cac47a8a-2026-03-29_21-29-21--c0a44521-426f-1fb9-387f-5f335b5ee421-2026-04-16_12-28-30.prproj",
                       "size": 47701,
-                      "sizeStr": "47 KB",
+                      "sizeStr": "",
                       "date": "2026-04-16 12:28",
                       "isDir": false,
                       "children": []
@@ -19745,7 +19745,7 @@ export const driveData = {
                 {
                   "name": "First M",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2026-02-20 22:18",
                   "isDir": true,
                   "children": [
@@ -19770,7 +19770,7 @@ export const driveData = {
                 {
                   "name": "Fourth  M",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2026-02-20 22:57",
                   "isDir": true,
                   "children": [
@@ -19795,7 +19795,7 @@ export const driveData = {
                 {
                   "name": "Second M",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2026-02-20 22:29",
                   "isDir": true,
                   "children": [
@@ -19812,7 +19812,7 @@ export const driveData = {
                 {
                   "name": "Third M",
                   "size": 1048576,
-                  "sizeStr": "1.0 MB",
+                  "sizeStr": "",
                   "date": "2026-02-20 22:45",
                   "isDir": true,
                   "children": [
@@ -19889,14 +19889,14 @@ export const driveData = {
         {
           "name": "١٠ - شوال",
           "size": 1048576,
-          "sizeStr": "1.0 MB",
+          "sizeStr": "",
           "date": "2026-04-29 09:41",
           "isDir": true,
           "children": [
             {
               "name": "سيد سراج السادة",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2026-04-06 18:05",
               "isDir": true,
               "children": [
@@ -19931,14 +19931,14 @@ export const driveData = {
         {
           "name": "١١ - ذو القعدة",
           "size": 1048576,
-          "sizeStr": "1.0 MB",
+          "sizeStr": "",
           "date": "2026-04-30 00:49",
           "isDir": true,
           "children": [
             {
               "name": "الملا محمد ال سلمان",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2026-04-19 12:55",
               "isDir": true,
               "children": [
@@ -19979,7 +19979,7 @@ export const driveData = {
             {
               "name": "النفيلي",
               "size": 1048576,
-              "sizeStr": "1.0 MB",
+              "sizeStr": "",
               "date": "2026-04-25 19:59",
               "isDir": true,
               "children": [
@@ -20021,5 +20021,21 @@ export const driveData = {
         }
       ]
     }
-  ]
-};
+  ],
+  "stats": {
+    "drive1tb": {
+      "total": "932 GB",
+      "used": "395 GB",
+      "free": "536 GB",
+      "freePercent": 57,
+      "items": 1581
+    },
+    "drive2tb": {
+      "total": "1.8 TB",
+      "used": "1.5 TB",
+      "free": "299 GB",
+      "freePercent": 16,
+      "items": 894
+    }
+  }
+} as const;

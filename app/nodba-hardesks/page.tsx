@@ -283,7 +283,8 @@ export default function NodbaHardesksPage() {
     return count;
   }, []);
 
-  const totalItems = countItems(driveData.drive1tb as TreeNode[]) + countItems(driveData.drive2tb as TreeNode[]);
+  const totalItems = countItems(driveData.drive1tb as unknown as TreeNode[]) + countItems(driveData.drive2tb as unknown as TreeNode[]);
+  const stats = driveData.stats;
 
 
   return (
@@ -365,23 +366,23 @@ export default function NodbaHardesksPage() {
       }}>
         <DriveCard
           title="القرص ١ تيرابايت"
-          subtitle="أرشيف — ١٤٤٥ هـ + ١٤٤٦ هـ"
+          subtitle={`أرشيف — ١٤٤٥ هـ + ١٤٤٦ هـ  |  السعة: ${stats.drive1tb.total}  |  ${stats.drive1tb.items} عنصر`}
           icon="💾"
-          free="536 GB"
-          freePercent={57}
-          totalSize="395 GB"
-          data={driveData.drive1tb as TreeNode[]}
+          free={stats.drive1tb.free}
+          freePercent={stats.drive1tb.freePercent}
+          totalSize={stats.drive1tb.used}
+          data={driveData.drive1tb as unknown as TreeNode[]}
           accentColor="#3b82f6"
           globalKey={globalKey}
         />
         <DriveCard
           title="القرص ٢ تيرابايت"
-          subtitle="نشط — ١٤٤٧ هـ"
+          subtitle={`نشط — ١٤٤٧ هـ  |  السعة: ${stats.drive2tb.total}  |  ${stats.drive2tb.items} عنصر`}
           icon="💽"
-          free="299 GB"
-          freePercent={16}
-          totalSize="1.5 TB"
-          data={driveData.drive2tb as TreeNode[]}
+          free={stats.drive2tb.free}
+          freePercent={stats.drive2tb.freePercent}
+          totalSize={stats.drive2tb.used}
+          data={driveData.drive2tb as unknown as TreeNode[]}
           accentColor="#0d9488"
           globalKey={globalKey}
         />
