@@ -47,7 +47,7 @@ function getExtColor(name: string): string | undefined {
 }
 
 function TreeItem({ item, depth, globalKey }: { item: TreeNode; depth: number; globalKey: number }) {
-  const [localOpen, setLocalOpen] = useState(depth < 2);
+  const [localOpen, setLocalOpen] = useState(false);
 
   useEffect(() => {
     if (globalKey === 999) setLocalOpen(true);
@@ -272,7 +272,7 @@ function DriveCard({
 }
 
 export default function NodbaHardesksPage() {
-  const [globalKey] = useState(2);
+  const [globalKey] = useState(0);
 
   const countItems = useCallback((items: TreeNode[]): number => {
     let count = 0;
