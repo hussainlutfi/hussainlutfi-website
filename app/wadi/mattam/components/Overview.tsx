@@ -1,6 +1,5 @@
 "use client";
 
-import Link from "next/link";
 import type { MattamData, Summary } from "../model";
 import { fmtMoney } from "../model";
 import { Money, VarianceChip } from "./inputs";
@@ -45,15 +44,7 @@ function StatCard({
   );
 }
 
-export default function Overview({
-  data,
-  summary,
-  editHref,
-}: {
-  data: MattamData;
-  summary: Summary;
-  editHref: string;
-}) {
+export default function Overview({ data, summary }: { data: MattamData; summary: Summary }) {
   const c = data.currency;
   const totalVariance = summary.doneCount ? summary.estimatedTotal - summary.hospitalitySpent : null;
 
@@ -94,17 +85,9 @@ export default function Overview({
             <h2 className="text-base font-extrabold text-gray-800 md:text-lg">ليالي الموسم</h2>
             <p className="mt-0.5 text-xs text-gray-400">الضيافة والمصاريف الفعلية لكل ليلة</p>
           </div>
-          <div className="flex items-center gap-2">
-            <span className="rounded-full bg-[#e8f7f5] px-3 py-1.5 text-[11px] font-bold text-[#0e8e81]">
-              {summary.doneCount} من {data.nights.length} مكتملة
-            </span>
-            <Link
-              href={editHref}
-              className="rounded-full border border-[#16b1a1]/30 px-4 py-1.5 text-[11px] font-bold text-[#0e8e81] transition hover:bg-[#e8f7f5]"
-            >
-              تعديل ↗
-            </Link>
-          </div>
+          <span className="rounded-full bg-[#e8f7f5] px-3 py-1.5 text-[11px] font-bold text-[#0e8e81]">
+            {summary.doneCount} من {data.nights.length} مكتملة
+          </span>
         </div>
 
         <ul className="divide-y divide-gray-50">

@@ -172,24 +172,20 @@ export default function MattamApp({
             </div>
 
             <div className="flex flex-col items-end gap-3">
-              <nav className="inline-flex items-center rounded-full bg-white/15 p-1 backdrop-blur-sm">
-                <Link
-                  href={`${base}/overview`}
-                  className={`rounded-full px-5 py-2 text-sm font-bold transition ${
-                    mode === "overview" ? "bg-white text-[#0e8e81] shadow-sm" : "text-white/85 hover:bg-white/10"
-                  }`}
-                >
-                  الملخص العام
-                </Link>
-                <Link
-                  href={`${base}/edit`}
-                  className={`rounded-full px-5 py-2 text-sm font-bold transition ${
-                    mode === "edit" ? "bg-white text-[#0e8e81] shadow-sm" : "text-white/85 hover:bg-white/10"
-                  }`}
-                >
-                  الإدخال والتعديل
-                </Link>
-              </nav>
+              {/* صفحة الملخص عرض فقط — التنقل إلى التعديل يظهر داخل صفحة التعديل حصراً */}
+              {mode === "edit" && (
+                <nav className="inline-flex items-center rounded-full bg-white/15 p-1 backdrop-blur-sm">
+                  <Link
+                    href={`${base}/overview`}
+                    className="rounded-full px-5 py-2 text-sm font-bold text-white/85 transition hover:bg-white/10"
+                  >
+                    الملخص العام
+                  </Link>
+                  <span className="rounded-full bg-white px-5 py-2 text-sm font-bold text-[#0e8e81] shadow-sm">
+                    الإدخال والتعديل
+                  </span>
+                </nav>
+              )}
 
               <div className="flex items-center gap-2">
                 {badge && (
@@ -299,7 +295,7 @@ export default function MattamApp({
             )}
           </div>
         ) : mode === "overview" ? (
-          <Overview data={data} summary={summary} editHref={`${base}/edit`} />
+          <Overview data={data} summary={summary} />
         ) : (
           <Editor data={data} summary={summary} mutate={mutate} />
         )}

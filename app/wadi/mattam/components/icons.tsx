@@ -66,6 +66,22 @@ export function IconTrash({ className = "h-4 w-4" }: { className?: string }) {
   );
 }
 
+export function IconChevronLeft({ className = "h-4 w-4" }: { className?: string }) {
+  return (
+    <svg viewBox="0 0 24 24" className={className} fill="none" stroke="currentColor" strokeWidth="2.5">
+      <path strokeLinecap="round" strokeLinejoin="round" d="m14 6-6 6 6 6" />
+    </svg>
+  );
+}
+
+export function IconArrowRight({ className = "h-4 w-4" }: { className?: string }) {
+  return (
+    <svg viewBox="0 0 24 24" className={className} fill="none" stroke="currentColor" strokeWidth="2.2">
+      <path strokeLinecap="round" strokeLinejoin="round" d="M4 12h16M13 5l7 7-7 7" />
+    </svg>
+  );
+}
+
 export function IconPlus({ className = "h-4 w-4" }: { className?: string }) {
   return (
     <svg viewBox="0 0 24 24" className={className} fill="none" stroke="currentColor" strokeWidth="2.5">
