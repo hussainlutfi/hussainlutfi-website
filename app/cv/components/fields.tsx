@@ -177,24 +177,30 @@ export function CvDateInput({
   required?: boolean;
 }) {
   const both = lang === "both";
+  const calBox = "rounded-xl border border-gray-200 bg-white p-3";
+  const calTitle = "mb-2 text-[11.5px] font-extrabold text-[#0e8e81]";
   return (
     <div>
       <FieldLabel text={label} required={required} />
-      <div className="grid gap-2">
+      <div className={both ? "grid gap-2.5 sm:grid-cols-2" : "grid gap-2"}>
         {needsHijri(lang) && (
-          <div className="flex items-center gap-2">
-            {both && <span className="w-14 shrink-0 text-[11px] font-bold text-gray-400">هجري</span>}
-            <div className="flex-1">
-              <MonthYearInput kind="hijri" value={value.hijri} onValue={(hijri) => onValue({ ...value, hijri })} />
-            </div>
+          <div className={both ? calBox : ""}>
+            {both && (
+              <div className={calTitle}>
+                بالتقويم الهجري <span className="font-bold text-gray-400">— مثال: صفر ١٤٤٧</span>
+              </div>
+            )}
+            <MonthYearInput kind="hijri" value={value.hijri} onValue={(hijri) => onValue({ ...value, hijri })} />
           </div>
         )}
         {needsGreg(lang) && (
-          <div className="flex items-center gap-2">
-            {both && <span className="w-14 shrink-0 text-[11px] font-bold text-gray-400">ميلادي</span>}
-            <div className="flex-1">
-              <MonthYearInput kind="greg" value={value.greg} onValue={(greg) => onValue({ ...value, greg })} />
-            </div>
+          <div className={both ? calBox : ""}>
+            {both && (
+              <div className={calTitle}>
+                بالتقويم الميلادي <span dir="ltr" className="font-bold text-gray-400">— July 2026</span>
+              </div>
+            )}
+            <MonthYearInput kind="greg" value={value.greg} onValue={(greg) => onValue({ ...value, greg })} />
           </div>
         )}
       </div>
