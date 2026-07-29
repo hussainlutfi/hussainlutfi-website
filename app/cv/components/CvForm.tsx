@@ -1,6 +1,7 @@
 "use client";
 
-import { useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
+import Link from "next/link";
 import {
   DEGREES,
   emptyCertificate,
@@ -10,6 +11,7 @@ import {
   emptyExperience,
   emptyProject,
   LANG_LABELS,
+  sanitizeCvRequest,
   validateCvRequest,
   type CvLang,
   type CvRequest,
@@ -29,18 +31,42 @@ import {
   TextInput,
 } from "./fields";
 
-const LANG_OPTIONS: { key: CvLang; title: string; desc: string }[] = [
-  { key: "ar", title: "سيرة ذاتية بالعربية", desc: "المحتوى والتواريخ بالعربية والتقويم الهجري" },
-  { key: "en", title: "سيرة ذاتية بالإنجليزية", desc: "المحتوى بالإنجليزية والتواريخ بالتقويم الميلادي" },
-  { key: "both", title: "سيرة ذاتية بالعربية والإنجليزية", desc: "نسختان كاملتان — تُدخل الأسماء والعناوين باللغتين والتواريخ بالتقويمين" },
-];
+const STORAGE_PREFIX = "cv-request-";
 
-export default function CvForm() {
+export default function CvForm({ lang }: { lang: CvLang }) {
+  const storageKey = STORAGE_PREFIX + lang;
   const [data, setData] = useState<CvRequest | null>(null);
   const [errors, setErrors] = useState<string[]>([]);
   const [sending, setSending] = useState(false);
   const [done, setDone] = useState(false);
   const errorsRef = useRef<HTMLDivElement>(null);
+
+  // تحميل المسودة المحفوظة على جهاز المستخدم (لكل لغة مسودة مستقلة)
+  useEffect(() => {
+    let initial = emptyCvRequest(lang);
+    try {
+      const raw = localStorage.getItem(storageKey);
+      if (raw) {
+        const saved = sanitizeCvRequest(JSON.parse(raw));
+        saved.lang = lang;
+        if (saved.education.length === 0) saved.education = [emptyEducation()];
+        initial = saved;
+      }
+    } catch {
+      // مسودة تالفة — نبدأ من نموذج فارغ
+    }
+    setData(initial);
+  }, [lang, storageKey]);
+
+  // حفظ تلقائي لكل تعديل
+  useEffect(() => {
+    if (!data || done) return;
+    try {
+      localStorage.setItem(storageKey, JSON.stringify(data));
+    } catch {
+      // تجاهل أخطاء التخزين (مساحة ممتلئة أو وضع خاص)
+    }
+  }, [data, done, storageKey]);
 
   /* ---------- شاشة النجاح ---------- */
   if (done) {
@@ -56,7 +82,7 @@ export default function CvForm() {
         <button
           type="button"
           onClick={() => {
-            setData(null);
+            setData(emptyCvRequest(lang));
             setErrors([]);
             setDone(false);
           }}
@@ -68,36 +94,9 @@ export default function CvForm() {
     );
   }
 
-  /* ---------- الخطوة الأولى: اختيار لغة السيرة ---------- */
-  if (!data) {
-    return (
-      <div className="mx-auto max-w-3xl px-4 py-16">
-        <header className="mb-10 text-center">
-          <h1 className="mb-3 text-3xl font-extrabold text-gray-800">طلب سيرة ذاتية</h1>
-          <p className="leading-relaxed text-gray-500">
-            عبّئ بياناتك بدقة وسيتم إعداد سيرة ذاتية احترافية لك. ابدأ باختيار لغة السيرة المطلوبة:
-          </p>
-        </header>
-        <div className="grid gap-4 sm:grid-cols-3">
-          {LANG_OPTIONS.map((opt) => (
-            <button
-              key={opt.key}
-              type="button"
-              onClick={() => setData(emptyCvRequest(opt.key))}
-              className="group rounded-2xl border-2 border-gray-200 bg-white p-6 text-right shadow-sm transition hover:border-[#16b1a1] hover:shadow-md"
-            >
-              <div className="mb-2 text-base font-extrabold text-gray-800 transition group-hover:text-[#0e8e81]">
-                {opt.title}
-              </div>
-              <div className="text-[12.5px] leading-relaxed text-gray-500">{opt.desc}</div>
-            </button>
-          ))}
-        </div>
-      </div>
-    );
-  }
+  /* ---------- بانتظار تحميل المسودة من التخزين المحلي ---------- */
+  if (!data) return null;
 
-  const lang = data.lang;
   const set = (patch: Partial<CvRequest>) => setData({ ...data, ...patch });
 
   /** تحديث عنصر داخل مصفوفة قسم متعدد. */
@@ -130,6 +129,9 @@ export default function CvForm() {
         body: JSON.stringify(data),
       });
       if (res.ok) {
+        try {
+          localStorage.removeItem(storageKey);
+        } catch {}
         setDone(true);
         window.scrollTo({ top: 0 });
       } else {
@@ -149,28 +151,44 @@ export default function CvForm() {
     }
   };
 
+  const resetForm = () => {
+    if (!window.confirm("سيتم مسح جميع البيانات المدخلة في هذا النموذج نهائياً. هل أنت متأكد؟")) return;
+    try {
+      localStorage.removeItem(storageKey);
+    } catch {}
+    setData(emptyCvRequest(lang));
+    setErrors([]);
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  };
+
   return (
     <div className="mx-auto max-w-3xl px-4 py-12">
       <header className="mb-8 text-center">
         <h1 className="mb-2 text-3xl font-extrabold text-gray-800">طلب سيرة ذاتية</h1>
         <p className="text-sm text-gray-500">
-          الحقول المعلّمة بـ <span className="font-bold text-red-500">*</span> إلزامية
+          الحقول المعلّمة بـ <span className="font-bold text-red-500">*</span> إلزامية — تُحفظ مدخلاتك
+          تلقائياً على هذا الجهاز
         </p>
       </header>
 
       {/* شريط لغة السيرة المختارة */}
       <div className="mb-6 flex flex-wrap items-center justify-between gap-3 rounded-2xl border border-[#16b1a1]/25 bg-[#16b1a1]/5 px-5 py-3.5">
         <div className="text-sm font-extrabold text-[#0e8e81]">{LANG_LABELS[lang]}</div>
-        <button
-          type="button"
-          onClick={() => {
-            setData(null);
-            setErrors([]);
-          }}
-          className="text-[12px] font-bold text-gray-500 underline underline-offset-4 transition hover:text-[#0e8e81]"
-        >
-          تغيير اللغة
-        </button>
+        <div className="flex items-center gap-4">
+          <button
+            type="button"
+            onClick={resetForm}
+            className="text-[12px] font-bold text-red-500 underline underline-offset-4 transition hover:text-red-600"
+          >
+            إعادة تعيين النموذج
+          </button>
+          <Link
+            href="/cv"
+            className="text-[12px] font-bold text-gray-500 underline underline-offset-4 transition hover:text-[#0e8e81]"
+          >
+            تغيير اللغة
+          </Link>
+        </div>
       </div>
 
       <div className="grid gap-6">
