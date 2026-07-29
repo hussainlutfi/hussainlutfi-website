@@ -134,9 +134,9 @@ function MonthYearInput({
 }) {
   const months = kind === "hijri" ? HIJRI_MONTHS : GREG_MONTHS;
   return (
-    <div className="flex gap-2">
+    <div className="flex flex-col gap-2">
       <select
-        className={`${inputBase} flex-1 cursor-pointer appearance-none`}
+        className={`${inputBase} cursor-pointer appearance-none`}
         value={value.month}
         onChange={(e) => onValue({ ...value, month: Number(e.target.value) })}
       >
@@ -151,8 +151,8 @@ function MonthYearInput({
         type="text"
         inputMode="numeric"
         dir="ltr"
-        className={`${inputBase} w-24 text-center tabular-nums`}
-        placeholder={kind === "hijri" ? "1447" : "2026"}
+        className={`${inputBase} text-center tabular-nums`}
+        placeholder={kind === "hijri" ? "السنة — 1447" : "السنة — 2026"}
         value={value.year}
         onChange={(e) => onValue({ ...value, year: e.target.value })}
       />
