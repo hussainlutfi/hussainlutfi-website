@@ -398,7 +398,7 @@ export function fmtYM(v: YM, kind: "hijri" | "greg"): string {
 /** يجمع الهجري والميلادي في نص واحد إن وُجدا. */
 export function fmtDate(d: CvDate): string {
   const parts = [fmtYM(d.hijri, "hijri"), fmtYM(d.greg, "greg")].filter(Boolean);
-  return parts.join(" — ");
+  return parts.join(" / ");
 }
 
 export function fmtRange(start: CvDate, end: CvDate, present: boolean): string {

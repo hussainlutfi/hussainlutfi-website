@@ -11,6 +11,7 @@ import {
   type CvLang,
   type CvRequestDoc,
 } from "../model";
+import { buildClaudePrompt, buildPlainText, fmtCreatedAt } from "./prompt";
 
 const LANG_BADGE: Record<CvLang, string> = {
   ar: "عربية",
@@ -18,15 +19,50 @@ const LANG_BADGE: Record<CvLang, string> = {
   both: "عربية + إنجليزية",
 };
 
-function fmtCreatedAt(iso: string | null): string {
-  if (!iso) return "";
-  const d = new Date(iso);
-  if (Number.isNaN(d.getTime())) return "";
-  return new Intl.DateTimeFormat("ar", {
-    dateStyle: "medium",
-    timeStyle: "short",
-    timeZone: "Asia/Riyadh",
-  }).format(d);
+/** زر نسخ مع تأكيد مؤقت. */
+function CopyButton({
+  label,
+  getText,
+  accent = false,
+}: {
+  label: string;
+  getText: () => string;
+  accent?: boolean;
+}) {
+  const [copied, setCopied] = useState(false);
+
+  const copy = async () => {
+    const text = getText();
+    try {
+      await navigator.clipboard.writeText(text);
+    } catch {
+      // متصفحات قديمة أو سياق غير آمن
+      const ta = document.createElement("textarea");
+      ta.value = text;
+      document.body.appendChild(ta);
+      ta.select();
+      document.execCommand("copy");
+      ta.remove();
+    }
+    setCopied(true);
+    setTimeout(() => setCopied(false), 1600);
+  };
+
+  return (
+    <button
+      type="button"
+      onClick={copy}
+      className={`rounded-lg px-3.5 py-1.5 text-[12px] font-bold transition ${
+        copied
+          ? "bg-emerald-50 text-emerald-600 ring-1 ring-emerald-200"
+          : accent
+          ? "bg-[#16b1a1] text-white hover:bg-[#0e8e81]"
+          : "bg-gray-100 text-gray-600 hover:bg-gray-200"
+      }`}
+    >
+      {copied ? "✓ تم النسخ" : label}
+    </button>
+  );
 }
 
 /** عرض نص ثنائي اللغة — العربية أولاً ثم الإنجليزية باتجاه معاكس. */
@@ -98,6 +134,12 @@ function Card({ doc }: { doc: CvRequestDoc }) {
           <div className="mt-0.5 text-[11.5px] font-bold text-gray-400">{counts.join(" · ")}</div>
         </div>
       </button>
+
+      {/* أزرار النسخ */}
+      <div className="flex flex-wrap items-center gap-2 border-t border-gray-50 px-5 py-2.5">
+        <CopyButton accent label="نسخ برومبت Claude" getText={() => buildClaudePrompt(doc)} />
+        <CopyButton label="نسخ النص" getText={() => buildPlainText(doc)} />
+      </div>
 
       {/* التفاصيل */}
       {open && (
