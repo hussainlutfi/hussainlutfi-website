@@ -19,6 +19,45 @@ const LANG_BADGE: Record<CvLang, string> = {
   both: "عربية + إنجليزية",
 };
 
+async function copyToClipboard(text: string) {
+  try {
+    await navigator.clipboard.writeText(text);
+  } catch {
+    // متصفحات قديمة أو سياق غير آمن
+    const ta = document.createElement("textarea");
+    ta.value = text;
+    document.body.appendChild(ta);
+    ta.select();
+    document.execCommand("copy");
+    ta.remove();
+  }
+}
+
+/** زر نسخ صغير يوضع بجانب كل حقل. */
+function MiniCopy({ text }: { text: string }) {
+  const [copied, setCopied] = useState(false);
+  if (!text) return null;
+
+  return (
+    <button
+      type="button"
+      title="نسخ"
+      onClick={async () => {
+        await copyToClipboard(text);
+        setCopied(true);
+        setTimeout(() => setCopied(false), 1200);
+      }}
+      className={`inline-flex h-5.5 shrink-0 items-center rounded-md px-1.5 text-[10.5px] font-bold leading-none transition ${
+        copied
+          ? "bg-emerald-50 text-emerald-600"
+          : "bg-gray-100 text-gray-400 hover:bg-gray-200 hover:text-gray-600"
+      }`}
+    >
+      {copied ? "✓" : "نسخ"}
+    </button>
+  );
+}
+
 /** زر نسخ مع تأكيد مؤقت. */
 function CopyButton({
   label,
@@ -32,18 +71,7 @@ function CopyButton({
   const [copied, setCopied] = useState(false);
 
   const copy = async () => {
-    const text = getText();
-    try {
-      await navigator.clipboard.writeText(text);
-    } catch {
-      // متصفحات قديمة أو سياق غير آمن
-      const ta = document.createElement("textarea");
-      ta.value = text;
-      document.body.appendChild(ta);
-      ta.select();
-      document.execCommand("copy");
-      ta.remove();
-    }
+    await copyToClipboard(getText());
     setCopied(true);
     setTimeout(() => setCopied(false), 1600);
   };
@@ -65,18 +93,26 @@ function CopyButton({
   );
 }
 
-/** عرض نص ثنائي اللغة — العربية أولاً ثم الإنجليزية باتجاه معاكس. */
-function Bi({ value, strong = false }: { value: BiText; strong?: boolean }) {
+/** عرض نص ثنائي اللغة — العربية أولاً ثم الإنجليزية باتجاه معاكس، مع زر نسخ لكل قيمة عند الطلب. */
+function Bi({ value, strong = false, copy = false }: { value: BiText; strong?: boolean; copy?: boolean }) {
   if (isEmptyBi(value)) return <span className="text-gray-300">—</span>;
   const cls = strong ? "font-extrabold text-gray-800" : "text-gray-700";
   return (
-    <span className={cls}>
-      {value.ar}
-      {value.ar && value.en && <span className="mx-1.5 text-gray-300">|</span>}
+    <span className={`inline-flex flex-wrap items-center gap-1.5 ${cls}`}>
+      {value.ar && (
+        <>
+          <span>{value.ar}</span>
+          {copy && <MiniCopy text={value.ar} />}
+        </>
+      )}
+      {value.ar && value.en && <span className="text-gray-300">|</span>}
       {value.en && (
-        <span dir="ltr" className="inline-block">
-          {value.en}
-        </span>
+        <>
+          <span dir="ltr" className="inline-block">
+            {value.en}
+          </span>
+          {copy && <MiniCopy text={value.en} />}
+        </>
       )}
     </span>
   );
@@ -86,11 +122,20 @@ function SectionTitle({ children }: { children: React.ReactNode }) {
   return <h3 className="mb-2.5 text-[13px] font-extrabold text-[#0e8e81]">{children}</h3>;
 }
 
-function DetailRow({ label, children }: { label: string; children: React.ReactNode }) {
+function DetailRow({
+  label,
+  copy,
+  children,
+}: {
+  label: string;
+  copy?: string;
+  children: React.ReactNode;
+}) {
   return (
-    <div className="flex flex-wrap gap-x-2 text-[13.5px] leading-relaxed">
+    <div className="flex flex-wrap items-center gap-x-2 gap-y-1 text-[13.5px] leading-relaxed">
       <span className="font-bold text-gray-400">{label}:</span>
       {children}
+      {copy && <MiniCopy text={copy} />}
     </div>
   );
 }
@@ -150,20 +195,26 @@ function Card({ doc }: { doc: CvRequestDoc }) {
               <DetailRow label="نوع الطلب">
                 <span className="text-gray-700">{LANG_LABELS[d.lang]}</span>
               </DetailRow>
-              <DetailRow label="البريد">
+              <DetailRow label="الاسم الكامل">
+                <Bi value={d.name} copy />
+              </DetailRow>
+              <DetailRow label="المسمى الوظيفي">
+                <Bi value={d.jobTitle} copy />
+              </DetailRow>
+              <DetailRow label="البريد" copy={d.email}>
                 <a dir="ltr" href={`mailto:${d.email}`} className="text-[#0e8e81] underline underline-offset-2">
                   {d.email}
                 </a>
               </DetailRow>
               {d.linkedin && (
-                <DetailRow label="LinkedIn">
+                <DetailRow label="LinkedIn" copy={d.linkedin}>
                   <a dir="ltr" href={d.linkedin} target="_blank" rel="noreferrer" className="break-all text-[#0e8e81] underline underline-offset-2">
                     {d.linkedin}
                   </a>
                 </DetailRow>
               )}
               {d.portfolio && (
-                <DetailRow label="رابط إضافي">
+                <DetailRow label="رابط إضافي" copy={d.portfolio}>
                   <a dir="ltr" href={d.portfolio} target="_blank" rel="noreferrer" className="break-all text-[#0e8e81] underline underline-offset-2">
                     {d.portfolio}
                   </a>
@@ -178,19 +229,22 @@ function Card({ doc }: { doc: CvRequestDoc }) {
               <div className="grid gap-3">
                 {d.education.map((e, i) => (
                   <div key={i} className="rounded-xl bg-gray-50 p-3.5">
-                    <div className="mb-1 text-[14px]">
-                      <Bi value={e.major} strong />
+                    <div className="mb-1 flex flex-wrap items-center gap-2 text-[14px]">
+                      <Bi value={e.major} strong copy />
                       {e.degree && (
-                        <span className="mr-2 rounded-full bg-white px-2.5 py-0.5 text-[11px] font-bold text-gray-500 ring-1 ring-gray-200">
-                          {degreeLabel(e.degree, d.lang)}
-                        </span>
+                        <>
+                          <span className="rounded-full bg-white px-2.5 py-0.5 text-[11px] font-bold text-gray-500 ring-1 ring-gray-200">
+                            {degreeLabel(e.degree, d.lang)}
+                          </span>
+                          <MiniCopy text={degreeLabel(e.degree, d.lang)} />
+                        </>
                       )}
                     </div>
                     <div className="grid gap-1">
                       <DetailRow label="الجهة">
-                        <Bi value={e.authority} />
+                        <Bi value={e.authority} copy />
                       </DetailRow>
-                      <DetailRow label="الفترة">
+                      <DetailRow label="الفترة" copy={fmtRange(e.start, e.end, e.present)}>
                         <span className="text-gray-700">{fmtRange(e.start, e.end, e.present) || "—"}</span>
                       </DetailRow>
                     </div>
@@ -207,20 +261,21 @@ function Card({ doc }: { doc: CvRequestDoc }) {
                 {d.experiences.map((e, i) => (
                   <div key={i} className="rounded-xl bg-gray-50 p-3.5">
                     <div className="mb-1 text-[14px]">
-                      <Bi value={e.title} strong />
+                      <Bi value={e.title} strong copy />
                     </div>
                     <div className="grid gap-1">
                       <DetailRow label="جهة العمل">
-                        <Bi value={e.employer} />
+                        <Bi value={e.employer} copy />
                       </DetailRow>
-                      <DetailRow label="الفترة">
+                      <DetailRow label="الفترة" copy={fmtRange(e.start, e.end, e.present)}>
                         <span className="text-gray-700">{fmtRange(e.start, e.end, e.present) || "—"}</span>
                       </DetailRow>
                     </div>
                     {e.details && (
-                      <p className="mt-2 whitespace-pre-wrap rounded-lg bg-white p-3 text-[13px] leading-relaxed text-gray-600 ring-1 ring-gray-100">
-                        {e.details}
-                      </p>
+                      <div className="mt-2 flex items-start gap-2 rounded-lg bg-white p-3 ring-1 ring-gray-100">
+                        <p className="flex-1 whitespace-pre-wrap text-[13px] leading-relaxed text-gray-600">{e.details}</p>
+                        <MiniCopy text={e.details} />
+                      </div>
                     )}
                   </div>
                 ))}
@@ -235,24 +290,25 @@ function Card({ doc }: { doc: CvRequestDoc }) {
                 {d.projects.map((p, i) => (
                   <div key={i} className="rounded-xl bg-gray-50 p-3.5">
                     <div className="mb-1 text-[14px]">
-                      <Bi value={p.title} strong />
+                      <Bi value={p.title} strong copy />
                     </div>
                     <div className="grid gap-1">
                       {!isEmptyBi(p.owner) && (
                         <DetailRow label="الجهة">
-                          <Bi value={p.owner} />
+                          <Bi value={p.owner} copy />
                         </DetailRow>
                       )}
                       {fmtRange(p.start, p.end, false) && (
-                        <DetailRow label="الفترة">
+                        <DetailRow label="الفترة" copy={fmtRange(p.start, p.end, false)}>
                           <span className="text-gray-700">{fmtRange(p.start, p.end, false)}</span>
                         </DetailRow>
                       )}
                     </div>
                     {p.details && (
-                      <p className="mt-2 whitespace-pre-wrap rounded-lg bg-white p-3 text-[13px] leading-relaxed text-gray-600 ring-1 ring-gray-100">
-                        {p.details}
-                      </p>
+                      <div className="mt-2 flex items-start gap-2 rounded-lg bg-white p-3 ring-1 ring-gray-100">
+                        <p className="flex-1 whitespace-pre-wrap text-[13px] leading-relaxed text-gray-600">{p.details}</p>
+                        <MiniCopy text={p.details} />
+                      </div>
                     )}
                   </div>
                 ))}
@@ -267,12 +323,13 @@ function Card({ doc }: { doc: CvRequestDoc }) {
                 {d.courses.map((c, i) => (
                   <div key={i} className="rounded-xl bg-gray-50 p-3.5">
                     <div className="text-[14px]">
-                      <Bi value={c.title} strong />
+                      <Bi value={c.title} strong copy />
                     </div>
                     {c.details && (
-                      <p className="mt-2 whitespace-pre-wrap rounded-lg bg-white p-3 text-[13px] leading-relaxed text-gray-600 ring-1 ring-gray-100">
-                        {c.details}
-                      </p>
+                      <div className="mt-2 flex items-start gap-2 rounded-lg bg-white p-3 ring-1 ring-gray-100">
+                        <p className="flex-1 whitespace-pre-wrap text-[13px] leading-relaxed text-gray-600">{c.details}</p>
+                        <MiniCopy text={c.details} />
+                      </div>
                     )}
                   </div>
                 ))}
@@ -287,16 +344,16 @@ function Card({ doc }: { doc: CvRequestDoc }) {
                 {d.certificates.map((c, i) => (
                   <div key={i} className="rounded-xl bg-gray-50 p-3.5">
                     <div className="mb-1 text-[14px]">
-                      <Bi value={c.title} strong />
+                      <Bi value={c.title} strong copy />
                     </div>
                     <div className="grid gap-1">
                       {!isEmptyBi(c.issuer) && (
                         <DetailRow label="الجهة المانحة">
-                          <Bi value={c.issuer} />
+                          <Bi value={c.issuer} copy />
                         </DetailRow>
                       )}
                       {fmtDate(c.date) && (
-                        <DetailRow label="التاريخ">
+                        <DetailRow label="التاريخ" copy={fmtDate(c.date)}>
                           <span className="text-gray-700">{fmtDate(c.date)}</span>
                         </DetailRow>
                       )}
@@ -309,7 +366,10 @@ function Card({ doc }: { doc: CvRequestDoc }) {
 
           {d.skills.length > 0 && (
             <div>
-              <SectionTitle>المهارات</SectionTitle>
+              <div className="mb-2.5 flex items-center gap-2">
+                <h3 className="text-[13px] font-extrabold text-[#0e8e81]">المهارات</h3>
+                <MiniCopy text={d.skills.join("، ")} />
+              </div>
               <div className="flex flex-wrap gap-2">
                 {d.skills.map((s) => (
                   <span key={s} className="rounded-full bg-[#16b1a1]/10 px-3 py-1 text-[12.5px] font-bold text-[#0e8e81]">
