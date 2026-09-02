@@ -372,7 +372,7 @@ export function defaultSettings(): Settings {
     location: "اجتماع عن بُعد",
     active: true,
     pausedMessage: "الحجز متوقف مؤقتاً، تواصل معي مباشرة وسأرتب لك موعداً.",
-    showNames: false,
+    showNames: true,
     requireContact: true,
   };
 }

@@ -268,8 +268,8 @@ export default function AvailabilityPanel({
           </div>
 
           {draft.showNames && (
-            <Banner tone="warn">
-              تنبيه: عند التفعيل يرى كل زائر أسماء من حجزوا المواعيد. اتركه مغلقاً إن كانت الأسماء خصوصية.
+            <Banner tone="info">
+              اسم كل حاجز يظهر على فترته في صفحة الحجز لكل الزوار. أغلق الخيار متى أردت إخفاء الأسماء.
             </Banner>
           )}
 
