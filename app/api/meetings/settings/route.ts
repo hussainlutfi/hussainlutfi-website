@@ -1,13 +1,9 @@
 import { NextRequest, NextResponse } from "next/server";
-import { isAdmin } from "@/app/meetings/admin-auth";
 import { getSettings, saveSettings } from "@/app/meetings/store";
 
 export const dynamic = "force-dynamic";
 
-const denied = () => NextResponse.json({ error: "unauthorized" }, { status: 401 });
-
-export async function GET(req: NextRequest) {
-  if (!isAdmin(req)) return denied();
+export async function GET() {
   try {
     return NextResponse.json({ settings: await getSettings() });
   } catch (err) {
@@ -17,8 +13,6 @@ export async function GET(req: NextRequest) {
 }
 
 export async function PUT(req: NextRequest) {
-  if (!isAdmin(req)) return denied();
-
   let body: { settings?: unknown };
   try {
     body = await req.json();

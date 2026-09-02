@@ -8,83 +8,47 @@ import {
   type Booking,
   type Settings,
 } from "../model";
-import {
-  IconCalendar,
-  IconLink,
-  IconList,
-  IconLock,
-  IconRefresh,
-  IconSettings,
-  IconSpark,
-} from "../components/icons";
-import { Banner, Spinner, TextInput } from "../components/ui";
+import { IconLink, IconList, IconRefresh, IconSettings } from "../components/icons";
+import { Banner, Spinner } from "../components/ui";
 import AvailabilityPanel from "./AvailabilityPanel";
 import BookingsPanel from "./BookingsPanel";
-
-const KEY_STORAGE = "meetings:adminKey";
 
 export type Api = (path: string, init?: RequestInit) => Promise<Response>;
 
 type Tab = "bookings" | "availability";
 
 export default function AdminApp() {
-  const [adminKey, setAdminKey] = useState("");
-  const [keyReady, setKeyReady] = useState(false);
-  const [locked, setLocked] = useState(false);
-  const [rejected, setRejected] = useState(false);
-  const [nonce, setNonce] = useState(0);
-
   const [bookings, setBookings] = useState<Booking[]>([]);
   const [settings, setSettings] = useState<Settings | null>(null);
   const [loading, setLoading] = useState(true);
   const [loadError, setLoadError] = useState(false);
   const [tab, setTab] = useState<Tab>("bookings");
 
-  useEffect(() => {
-    try {
-      setAdminKey(localStorage.getItem(KEY_STORAGE) ?? "");
-    } catch {
-      /* تجاهل */
-    }
-    setKeyReady(true);
+  const api = useCallback<Api>((path, init = {}) => {
+    const headers = new Headers(init.headers);
+    headers.set("Content-Type", "application/json");
+    return fetch(path, { ...init, headers, cache: "no-store" });
   }, []);
-
-  const api = useCallback<Api>(
-    (path, init = {}) => {
-      const headers = new Headers(init.headers);
-      headers.set("Content-Type", "application/json");
-      if (adminKey) headers.set("x-admin-key", adminKey);
-      return fetch(path, { ...init, headers, cache: "no-store" });
-    },
-    [adminKey]
-  );
 
   const load = useCallback(async () => {
     setLoading(true);
     setLoadError(false);
     try {
       const res = await api("/api/meetings/bookings");
-      if (res.status === 401) {
-        setRejected(adminKey.length > 0);
-        setLocked(true);
-        return;
-      }
       if (!res.ok) throw new Error(String(res.status));
       const body: { bookings: Booking[]; settings: Settings } = await res.json();
       setBookings(body.bookings);
       setSettings(body.settings);
-      setLocked(false);
     } catch {
       setLoadError(true);
     } finally {
       setLoading(false);
     }
-  }, [api, adminKey]);
+  }, [api]);
 
-  // nonce يعيد المحاولة حتى عند إعادة إدخال المفتاح نفسه
   useEffect(() => {
-    if (keyReady) load();
-  }, [keyReady, load, nonce]);
+    load();
+  }, [load]);
 
   const today = useMemo(
     () => zonedNow(settings?.timezone ?? defaultSettings().timezone).date,
@@ -100,27 +64,6 @@ export default function AdminApp() {
       total: bookings.length,
     };
   }, [bookings, today]);
-
-  if (locked) {
-    return (
-      <KeyGate
-        value={adminKey}
-        rejected={rejected}
-        onSubmit={(k) => {
-          try {
-            localStorage.setItem(KEY_STORAGE, k);
-          } catch {
-            /* تجاهل */
-          }
-          setAdminKey(k);
-          setRejected(false);
-          setLocked(false);
-          setLoading(true);
-          setNonce((n) => n + 1);
-        }}
-      />
-    );
-  }
 
   return (
     <div className="min-h-screen bg-[#f3f8f7] pb-28">
@@ -263,67 +206,5 @@ function TabButton({
       {icon}
       {children}
     </button>
-  );
-}
-
-/** بوابة المفتاح — تظهر فقط عند ضبط MEETINGS_ADMIN_KEY على الخادم. */
-function KeyGate({
-  value,
-  rejected,
-  onSubmit,
-}: {
-  value: string;
-  rejected: boolean;
-  onSubmit: (key: string) => void;
-}) {
-  const [key, setKey] = useState(value);
-
-  return (
-    <div className="grid min-h-screen place-items-center bg-[#f3f8f7] px-6">
-      <div className="w-full max-w-sm rounded-[1.75rem] bg-white p-8 text-center shadow-xl shadow-teal-900/5 ring-1 ring-gray-100">
-        <span className="mx-auto grid h-14 w-14 place-items-center rounded-2xl bg-[#f0faf9] text-[#16b1a1]">
-          <IconLock className="h-6 w-6" />
-        </span>
-        <h1 className="mt-4 text-xl font-extrabold text-gray-800">لوحة المواعيد</h1>
-        <p className="mt-2 text-sm font-medium text-gray-400">أدخل مفتاح الدخول للوصول إلى الحجوزات والإعدادات.</p>
-
-        {rejected && (
-          <div className="mt-4 rounded-xl bg-red-50 p-3 text-xs font-bold text-red-600">
-            المفتاح غير صحيح — حاول مرة أخرى.
-          </div>
-        )}
-
-        <div className="mt-5 space-y-3">
-          <TextInput
-            value={key}
-            onValue={setKey}
-            type="password"
-            dir="ltr"
-            placeholder="مفتاح الدخول"
-            autoFocus
-          />
-          <button
-            type="button"
-            disabled={key.length === 0}
-            onClick={() => onSubmit(key)}
-            className="w-full rounded-2xl bg-[#16b1a1] py-3 text-sm font-extrabold text-white transition hover:bg-[#0e8e81] disabled:cursor-not-allowed disabled:bg-gray-200"
-          >
-            دخول
-          </button>
-        </div>
-
-        <p className="mt-5 flex items-center justify-center gap-1.5 text-[11px] font-medium text-gray-300">
-          <IconSpark className="h-3.5 w-3.5" />
-          صفحة خاصة بالمالك
-        </p>
-        <Link
-          href="/meetings"
-          className="mt-3 inline-flex items-center gap-1.5 text-[11px] font-bold text-gray-400 transition hover:text-[#16b1a1]"
-        >
-          <IconCalendar className="h-3.5 w-3.5" />
-          الذهاب إلى صفحة الحجز
-        </Link>
-      </div>
-    </div>
   );
 }
