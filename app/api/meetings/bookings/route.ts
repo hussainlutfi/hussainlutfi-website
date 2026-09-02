@@ -1,5 +1,4 @@
 import { NextRequest, NextResponse } from "next/server";
-import { isAdmin } from "@/app/meetings/admin-auth";
 import {
   publicInfo,
   sanitizeBookingInput,
@@ -22,9 +21,8 @@ const REASON_TEXT: Record<string, string> = {
   paused: "الحجز متوقف مؤقتاً في الوقت الحالي.",
 };
 
-/** قائمة الحجوزات — للمالك فقط. */
-export async function GET(req: NextRequest) {
-  if (!isAdmin(req)) return NextResponse.json({ error: "unauthorized" }, { status: 401 });
+/** قائمة الحجوزات — تستخدمها لوحة المالك. */
+export async function GET() {
   try {
     const [bookings, settings] = await Promise.all([listBookings(), getSettings()]);
     return NextResponse.json({ bookings, settings });
@@ -44,10 +42,6 @@ export async function POST(req: NextRequest) {
   }
 
   const manual = body.manual === true;
-  if (manual && !isAdmin(req)) {
-    return NextResponse.json({ error: "unauthorized" }, { status: 401 });
-  }
-
   const input = sanitizeBookingInput(body);
 
   let settings: Settings;

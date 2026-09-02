@@ -1,16 +1,12 @@
 import { NextRequest, NextResponse } from "next/server";
-import { isAdmin } from "@/app/meetings/admin-auth";
 import { deleteBooking, updateBooking, type BookingPatch } from "@/app/meetings/store";
 
 export const dynamic = "force-dynamic";
 
 type Ctx = { params: Promise<{ id: string }> };
 
-const denied = () => NextResponse.json({ error: "unauthorized" }, { status: 401 });
-
 /** تعديل حجز — رابط الاجتماع، ملاحظة المالك، الموضوع، أو الحالة. */
 export async function PATCH(req: NextRequest, ctx: Ctx) {
-  if (!isAdmin(req)) return denied();
   const { id } = await ctx.params;
 
   let body: Record<string, unknown>;
@@ -40,8 +36,7 @@ export async function PATCH(req: NextRequest, ctx: Ctx) {
   }
 }
 
-export async function DELETE(req: NextRequest, ctx: Ctx) {
-  if (!isAdmin(req)) return denied();
+export async function DELETE(_req: NextRequest, ctx: Ctx) {
   const { id } = await ctx.params;
   try {
     const removed = await deleteBooking(id);
