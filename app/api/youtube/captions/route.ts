@@ -36,6 +36,7 @@ const STATUS: Record<string, number> = {
   invalid_input: 400,
   bad_format: 400,
   unavailable: 403,
+  blocked: 503,
   no_captions: 404,
   empty_track: 404,
   fetch_failed: 502,
@@ -108,7 +109,14 @@ export async function GET(req: NextRequest) {
     return NextResponse.json({ ...meta, tracks: publicTracks(result.tracks), cues: result.cues });
   } catch (err) {
     if (err instanceof CaptionError) {
-      return NextResponse.json({ error: err.code, detail: err.message }, { status: STATUS[err.code] ?? 500 });
+      // reason و attempts يفرّقان بين "الفيديو خاص" و"يوتيوب يحجب خادمنا".
+      if (err.code === "blocked" || err.code === "unavailable") {
+        console.error(`youtube captions ${err.code}:`, err.message, err.attempts);
+      }
+      return NextResponse.json(
+        { error: err.code, detail: err.message, reason: err.reason, attempts: err.attempts },
+        { status: STATUS[err.code] ?? 500 },
+      );
     }
     if (err instanceof Error && err.name === "AbortError") {
       return NextResponse.json({ error: "timeout" }, { status: 504 });
