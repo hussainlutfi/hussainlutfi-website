@@ -158,5 +158,11 @@ async function main() {
 
 main().catch((error) => {
   console.error(`Error: ${error.message}`);
+
+  // عند الحجب أو الفشل: اطبع ما جُرّب وماذا ردّ كل مصدر.
+  for (const attempt of error.attempts ?? []) {
+    console.error(`  ${attempt.source}: ${attempt.detail}`);
+  }
+
   process.exit(error instanceof CaptionError ? 2 : 1);
 });

@@ -20,7 +20,10 @@ const ERRORS: Record<string, string> = {
   invalid_input: "لم أتعرّف على رابط يوتيوب في ما أدخلته.",
   no_captions: "لا توجد ترجمات منشورة لهذا الفيديو.",
   empty_track: "مسار الترجمة وصل فارغًا من يوتيوب.",
-  unavailable: "يوتيوب يرفض عرض هذا الفيديو (خاص أو مقيّد بالعمر).",
+  unavailable: "يوتيوب يرفض عرض هذا الفيديو (خاص أو محذوف أو مقيّد بالعمر).",
+  blocked:
+    "يوتيوب يحجب خادم الموقع ويطلب تسجيل دخول للتأكد أنه ليس روبوتًا — وهذا قيد على عنوان الخادم لا على الفيديو. " +
+    "شغّل السكربت من جهازك للحصول على النص: npm run captions -- <الرابط>",
   fetch_failed: "تعذّر الوصول إلى يوتيوب. حاول مرة أخرى بعد قليل.",
   rate_limited: "طلبات كثيرة خلال وقت قصير. انتظر دقيقة ثم أعد المحاولة.",
   timeout: "انتهت مهلة الطلب قبل أن يردّ يوتيوب.",
@@ -62,6 +65,7 @@ export default function CaptionsApp() {
   const [input, setInput] = useState("");
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
+  const [reason, setReason] = useState<string | null>(null);
   const [result, setResult] = useState<Result | null>(null);
 
   const [format, setFormat] = useState<CaptionFormat>("txt");
@@ -85,6 +89,7 @@ export default function CaptionsApp() {
 
     setLoading(true);
     setError(null);
+    setReason(null);
 
     const query = new URLSearchParams({ url: cleaned, lang: opts.lang ?? "any" });
     if (opts.auto) query.set("auto", opts.auto);
@@ -96,9 +101,12 @@ export default function CaptionsApp() {
 
       if (!res.ok) {
         setError(ERRORS[payload?.error] ?? ERRORS.unexpected);
+        setReason(payload?.reason ?? null);
         setResult(null);
         return;
       }
+
+      setReason(null);
 
       setResult(payload as Result);
     } catch (err) {
@@ -199,9 +207,14 @@ export default function CaptionsApp() {
         </form>
 
         {error && (
-          <p className="mt-4 rounded-xl border border-red-100 bg-red-50 px-4 py-3 text-sm font-bold text-red-600">
-            {error}
-          </p>
+          <div className="mt-4 rounded-xl border border-red-100 bg-red-50 px-4 py-3">
+            <p className="text-sm font-bold leading-relaxed text-red-600">{error}</p>
+            {reason && (
+              <p dir="ltr" className="mt-2 text-left font-mono text-[11px] leading-relaxed text-red-400">
+                {reason}
+              </p>
+            )}
+          </div>
         )}
 
         {result && (
