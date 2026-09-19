@@ -20,6 +20,41 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
+## Scripts
+
+### YouTube caption extraction
+
+`scripts/youtube-captions.mjs` pulls the caption / subtitle track of a YouTube
+video and prints it as plain text, SRT, WebVTT or JSON. It needs no API key and
+no extra dependencies — just Node 18+.
+
+```bash
+# plain text transcript
+npm run captions -- https://youtu.be/VIDEO_ID
+
+# see which tracks the video has
+npm run captions -- VIDEO_ID --list
+
+# Arabic subtitles as an .srt file
+npm run captions -- https://youtu.be/VIDEO_ID -l ar -f srt -o captions.srt
+
+# machine-translated into English, with [mm:ss] markers
+npm run captions -- VIDEO_ID --translate en --timestamps
+```
+
+| Option | Meaning |
+| --- | --- |
+| `-l, --lang <code>` | Preferred caption language (default `en`, `any` for the first track) |
+| `-f, --format <fmt>` | `txt`, `srt`, `vtt` or `json` (default `txt`) |
+| `-o, --out <file>` | Write to a file instead of stdout |
+| `--translate <code>` | Ask YouTube to machine-translate the track |
+| `--list` | List the available caption tracks and exit |
+| `--auto` / `--no-auto` | Prefer or skip auto-generated (ASR) captions |
+| `--timestamps` | Prefix each `txt` line with `[mm:ss]` |
+
+Only videos whose owner published captions (or that YouTube auto-captioned) can
+be extracted; private, age-gated and caption-free videos exit with an error.
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
