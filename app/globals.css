@@ -20,3 +20,49 @@
     direction: rtl;
   }
 }
+
+/* ── النص المنسّق (النماذج) ── */
+.rich-text {
+  line-height: 1.8;
+  word-wrap: break-word;
+}
+.rich-text p,
+.rich-text div {
+  margin: 0 0 0.5em;
+}
+.rich-text h1,
+.rich-text h2,
+.rich-text h3 {
+  font-weight: 800;
+  color: #111827;
+  margin: 0.8em 0 0.35em;
+  line-height: 1.4;
+}
+.rich-text h1 { font-size: 1.4em; }
+.rich-text h2 { font-size: 1.25em; }
+.rich-text h3 { font-size: 1.1em; }
+.rich-text ul,
+.rich-text ol {
+  padding-inline-start: 1.5em;
+  margin: 0.3em 0 0.6em;
+}
+.rich-text ul { list-style: disc; }
+.rich-text ol { list-style: decimal; }
+.rich-text li { margin: 0.15em 0; }
+.rich-text blockquote {
+  border-inline-start: 3px solid #16b1a1;
+  background: #f0faf9;
+  color: #374151;
+  padding: 0.5em 0.9em;
+  margin: 0.5em 0;
+  border-radius: 0.5rem;
+}
+.rich-text b,
+.rich-text strong { font-weight: 800; }
+.rich-text > :last-child { margin-bottom: 0; }
+
+.rich-editor:empty::before {
+  content: attr(data-placeholder);
+  color: #d1d5db;
+  pointer-events: none;
+}
