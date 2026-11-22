@@ -8,6 +8,9 @@
     "start": "next start",
     "captions": "node scripts/youtube-captions.mjs"
   },
+  "engines": {
+    "node": "26.x"
+  },
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.1",
