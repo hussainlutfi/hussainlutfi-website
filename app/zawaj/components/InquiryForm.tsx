@@ -67,7 +67,7 @@ export default function InquiryForm() {
         <header className="relative overflow-hidden rounded-[1.75rem] bg-gradient-to-bl from-[#16b1a1] via-[#12a091] to-[#0e8e81] p-6 text-white shadow-xl shadow-teal-900/15 md:p-9">
           <div className="pointer-events-none absolute -top-24 -left-16 h-72 w-72 rounded-full bg-white/10 blur-2xl" />
           <p className="relative text-xs font-bold tracking-wide text-white/70">استبيان سرّي</p>
-          <h1 className="relative mt-1 text-2xl font-extrabold md:text-3xl">السؤال عن المرشّحة للزواج</h1>
+          <h1 className="relative mt-1 text-2xl font-extrabold md:text-3xl">استبيان للتعرّف على الشخصية</h1>
           <p className="relative mt-3 text-sm font-medium leading-loose text-white/90">{INTRO}</p>
         </header>
 
