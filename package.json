@@ -17,6 +17,7 @@
     "@mui/icons-material": "^7.3.4",
     "@mui/material": "^7.3.4",
     "@opentelemetry/api": "^1.9.1",
+    "firebase": "^12.19.0",
     "firebase-admin": "^13.10.0",
     "next": "^16.2.4",
     "react": "19.1.0",

@@ -50,7 +50,7 @@ export default function Results({ initial }: { initial: Inquiry[] }) {
       title="إجابات السؤال عن المرشّحات"
       subtitle={`${inquiries.length.toLocaleString("ar-SA")} ردّ عن ${groups.length.toLocaleString("ar-SA")} مرشّحة`}
       actions={
-        <a href="/zawaj" className="inline-flex items-center gap-2 rounded-xl bg-white px-5 py-2.5 text-sm font-extrabold text-[#0e8e81] shadow transition hover:bg-white/90">
+        <a href="/zawaj" target="_blank" className="inline-flex items-center gap-2 rounded-xl bg-white px-5 py-2.5 text-sm font-extrabold text-[#0e8e81] shadow transition hover:bg-white/90">
           فتح الاستبيان
         </a>
       }

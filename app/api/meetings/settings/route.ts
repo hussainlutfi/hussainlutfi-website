@@ -1,9 +1,12 @@
+import { denyUnlessAdmin } from "@/lib/adminAuth";
 import { NextRequest, NextResponse } from "next/server";
 import { getSettings, saveSettings } from "@/app/meetings/store";
 
 export const dynamic = "force-dynamic";
 
 export async function GET() {
+  const denied = await denyUnlessAdmin();
+  if (denied) return denied;
   try {
     return NextResponse.json({ settings: await getSettings() });
   } catch (err) {
@@ -13,6 +16,8 @@ export async function GET() {
 }
 
 export async function PUT(req: NextRequest) {
+  const denied = await denyUnlessAdmin();
+  if (denied) return denied;
   let body: { settings?: unknown };
   try {
     body = await req.json();

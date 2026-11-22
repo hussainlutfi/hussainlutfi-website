@@ -1,3 +1,4 @@
+import { denyUnlessAdmin } from "@/lib/adminAuth";
 import { NextRequest, NextResponse } from "next/server";
 import { deleteInquiry, ID_PATTERN } from "@/app/zawaj/store";
 
@@ -7,6 +8,8 @@ type Ctx = { params: Promise<{ id: string }> };
 
 /** حذف ردّ — من صفحة المراجعة. */
 export async function DELETE(_req: NextRequest, ctx: Ctx) {
+  const denied = await denyUnlessAdmin();
+  if (denied) return denied;
   const { id } = await ctx.params;
   if (!ID_PATTERN.test(id)) return NextResponse.json({ error: "invalid_id" }, { status: 400 });
   try {

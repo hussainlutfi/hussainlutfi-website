@@ -1,3 +1,4 @@
+import { denyUnlessAdmin } from "@/lib/adminAuth";
 import { NextRequest, NextResponse } from "next/server";
 import {
   publicInfo,
@@ -23,6 +24,8 @@ const REASON_TEXT: Record<string, string> = {
 
 /** قائمة الحجوزات — تستخدمها لوحة المالك. */
 export async function GET() {
+  const denied = await denyUnlessAdmin();
+  if (denied) return denied;
   try {
     const [bookings, settings] = await Promise.all([listBookings(), getSettings()]);
     return NextResponse.json({ bookings, settings });
@@ -42,6 +45,10 @@ export async function POST(req: NextRequest) {
   }
 
   const manual = body.manual === true;
+  if (manual) {
+    const denied = await denyUnlessAdmin();
+    if (denied) return denied;
+  }
   const input = sanitizeBookingInput(body);
 
   let settings: Settings;

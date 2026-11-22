@@ -69,7 +69,7 @@ export default function FormDetail({
     try {
       const res = await fetch(`/api/forms/${form.id}`, { method: "DELETE" });
       if (!res.ok) throw new Error();
-      router.push("/forms");
+      router.push("/admin/forms");
       router.refresh();
     } catch {
       setError("تعذر حذف النموذج.");
@@ -110,7 +110,7 @@ export default function FormDetail({
     <Shell
       kicker="النماذج"
       title={form.title}
-      back={{ href: "/forms", label: "كل النماذج" }}
+      back={{ href: "/admin/forms", label: "كل النماذج" }}
       subtitle={
         <div className="flex flex-wrap items-center gap-x-4 gap-y-1">
           <span>
@@ -137,7 +137,7 @@ export default function FormDetail({
           >
             {busy === "refresh" ? <Spinner /> : "↻"}
           </button>
-          <Link href={`/forms/${form.id}/edit`} className="rounded-xl bg-white/15 px-4 py-2 text-sm font-bold text-white transition hover:bg-white/25">
+          <Link href={`/admin/forms/${form.id}/edit`} className="rounded-xl bg-white/15 px-4 py-2 text-sm font-bold text-white transition hover:bg-white/25">
             تعديل
           </Link>
           <button

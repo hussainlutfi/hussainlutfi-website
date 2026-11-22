@@ -1,3 +1,4 @@
+import { denyUnlessAdmin } from "@/lib/adminAuth";
 import { NextRequest, NextResponse } from "next/server";
 import { sanitizeFormInput, validateFormInput } from "@/app/forms/model";
 import {
@@ -22,6 +23,8 @@ const unavailable = (where: string, err: unknown) => {
 
 /** النموذج مع ردوده — للوحة الإدارة. */
 export async function GET(_req: NextRequest, ctx: Ctx) {
+  const denied = await denyUnlessAdmin();
+  if (denied) return denied;
   const { id } = await ctx.params;
   if (!ID_PATTERN.test(id)) return badId();
   try {
@@ -36,6 +39,8 @@ export async function GET(_req: NextRequest, ctx: Ctx) {
 
 /** تعديل العنوان والأسئلة. */
 export async function PUT(req: NextRequest, ctx: Ctx) {
+  const denied = await denyUnlessAdmin();
+  if (denied) return denied;
   const { id } = await ctx.params;
   if (!ID_PATTERN.test(id)) return badId();
   let body: unknown;
@@ -58,6 +63,8 @@ export async function PUT(req: NextRequest, ctx: Ctx) {
 
 /** فتح/إغلاق استقبال الردود. */
 export async function PATCH(req: NextRequest, ctx: Ctx) {
+  const denied = await denyUnlessAdmin();
+  if (denied) return denied;
   const { id } = await ctx.params;
   if (!ID_PATTERN.test(id)) return badId();
   let body: { open?: unknown };
@@ -80,6 +87,8 @@ export async function PATCH(req: NextRequest, ctx: Ctx) {
 
 /** حذف النموذج وكل ردوده. */
 export async function DELETE(_req: NextRequest, ctx: Ctx) {
+  const denied = await denyUnlessAdmin();
+  if (denied) return denied;
   const { id } = await ctx.params;
   if (!ID_PATTERN.test(id)) return badId();
   try {

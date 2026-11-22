@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
-import AdminApp from "./AdminApp";
+import AdminApp from "@/app/meetings/admin/AdminApp";
+import { requireAdminPage } from "@/lib/adminAuth";
 
 export const dynamic = "force-dynamic";
 
@@ -8,6 +9,7 @@ export const metadata: Metadata = {
   robots: { index: false, follow: false },
 };
 
-export default function MeetingsAdminPage() {
+export default async function MeetingsAdminPage() {
+  await requireAdminPage();
   return <AdminApp />;
 }

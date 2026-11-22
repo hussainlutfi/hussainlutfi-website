@@ -1,3 +1,4 @@
+import { denyUnlessAdmin } from "@/lib/adminAuth";
 import { NextRequest, NextResponse } from "next/server";
 import { deleteBooking, updateBooking, type BookingPatch } from "@/app/meetings/store";
 
@@ -7,6 +8,8 @@ type Ctx = { params: Promise<{ id: string }> };
 
 /** تعديل حجز — رابط الاجتماع، ملاحظة المالك، الموضوع، أو الحالة. */
 export async function PATCH(req: NextRequest, ctx: Ctx) {
+  const denied = await denyUnlessAdmin();
+  if (denied) return denied;
   const { id } = await ctx.params;
 
   let body: Record<string, unknown>;
@@ -37,6 +40,8 @@ export async function PATCH(req: NextRequest, ctx: Ctx) {
 }
 
 export async function DELETE(_req: NextRequest, ctx: Ctx) {
+  const denied = await denyUnlessAdmin();
+  if (denied) return denied;
   const { id } = await ctx.params;
   try {
     const removed = await deleteBooking(id);

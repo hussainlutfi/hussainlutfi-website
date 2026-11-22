@@ -1,7 +1,8 @@
 import type { Metadata } from "next";
 import { Banner, Shell } from "@/app/forms/components/ui";
-import Results from "../components/Results";
-import { listInquiries } from "../store";
+import Results from "@/app/zawaj/components/Results";
+import { listInquiries } from "@/app/zawaj/store";
+import { requireAdminPage } from "@/lib/adminAuth";
 
 export const dynamic = "force-dynamic";
 
@@ -11,6 +12,7 @@ export const metadata: Metadata = {
 };
 
 export default async function ZawajResultsPage() {
+  await requireAdminPage();
   try {
     return <Results initial={await listInquiries()} />;
   } catch (err) {

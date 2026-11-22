@@ -1,3 +1,4 @@
+import { denyUnlessAdmin } from "@/lib/adminAuth";
 import { NextRequest, NextResponse } from "next/server";
 import { sanitizeFormInput, validateFormInput } from "@/app/forms/model";
 import { createForm, listForms } from "@/app/forms/store";
@@ -6,6 +7,8 @@ export const dynamic = "force-dynamic";
 
 /** قائمة النماذج — للوحة الإدارة. */
 export async function GET() {
+  const denied = await denyUnlessAdmin();
+  if (denied) return denied;
   try {
     return NextResponse.json({ forms: await listForms() });
   } catch (err) {
@@ -16,6 +19,8 @@ export async function GET() {
 
 /** إنشاء نموذج جديد. */
 export async function POST(req: NextRequest) {
+  const denied = await denyUnlessAdmin();
+  if (denied) return denied;
   let body: unknown;
   try {
     body = await req.json();

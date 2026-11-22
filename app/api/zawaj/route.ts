@@ -1,3 +1,4 @@
+import { denyUnlessAdmin } from "@/lib/adminAuth";
 import { NextRequest, NextResponse } from "next/server";
 import { sanitizeInput, validateInput } from "@/app/zawaj/model";
 import { addInquiry, listInquiries } from "@/app/zawaj/store";
@@ -6,6 +7,8 @@ export const dynamic = "force-dynamic";
 
 /** كل الردود — لصفحة المراجعة. */
 export async function GET() {
+  const denied = await denyUnlessAdmin();
+  if (denied) return denied;
   try {
     return NextResponse.json({ inquiries: await listInquiries() });
   } catch (err) {

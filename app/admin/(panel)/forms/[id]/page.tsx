@@ -1,7 +1,8 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
-import FormDetail from "../components/FormDetail";
-import { getForm, ID_PATTERN, listResponses } from "../store";
+import FormDetail from "@/app/forms/components/FormDetail";
+import { getForm, ID_PATTERN, listResponses } from "@/app/forms/store";
+import { requireAdminPage } from "@/lib/adminAuth";
 
 export const dynamic = "force-dynamic";
 
@@ -19,6 +20,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 }
 
 export default async function FormDetailPage({ params }: Props) {
+  await requireAdminPage();
   const { id } = await params;
   if (!ID_PATTERN.test(id)) notFound();
   const form = await getForm(id);

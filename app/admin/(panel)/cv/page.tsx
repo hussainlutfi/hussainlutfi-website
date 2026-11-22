@@ -1,7 +1,8 @@
 import type { Metadata } from "next";
-import { listCvRequests } from "../store";
-import type { CvRequestDoc } from "../model";
-import ReviewList from "./ReviewList";
+import { listCvRequests } from "@/app/cv/store";
+import type { CvRequestDoc } from "@/app/cv/model";
+import ReviewList from "@/app/cv/review/ReviewList";
+import { requireAdminPage } from "@/lib/adminAuth";
 
 export const dynamic = "force-dynamic";
 
@@ -11,6 +12,7 @@ export const metadata: Metadata = {
 };
 
 export default async function CvReviewPage() {
+  await requireAdminPage();
   let requests: CvRequestDoc[] = [];
   let failed = false;
   try {

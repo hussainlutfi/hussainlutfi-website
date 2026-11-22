@@ -1,7 +1,8 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { fmtDate } from "./model";
-import { listForms } from "./store";
+import { fmtDate } from "@/app/forms/model";
+import { listForms } from "@/app/forms/store";
+import { requireAdminPage } from "@/lib/adminAuth";
 
 export const dynamic = "force-dynamic";
 
@@ -11,6 +12,7 @@ export const metadata: Metadata = {
 };
 
 export default async function FormsPage() {
+  await requireAdminPage();
   let forms = null;
   try {
     forms = await listForms();
@@ -33,7 +35,7 @@ export default async function FormsPage() {
               </p>
             </div>
             <Link
-              href="/forms/new"
+              href="/admin/forms/new"
               className="inline-flex items-center gap-2 rounded-xl bg-white px-5 py-2.5 text-sm font-extrabold text-[#0e8e81] shadow transition hover:bg-white/90"
             >
               + إنشاء نموذج جديد
@@ -59,7 +61,7 @@ export default async function FormsPage() {
             {forms.map((f) => (
               <li key={f.id}>
                 <Link
-                  href={`/forms/${f.id}`}
+                  href={`/admin/forms/${f.id}`}
                   className="block h-full rounded-2xl border border-gray-100 bg-white p-5 shadow-sm transition hover:-translate-y-0.5 hover:border-[#16b1a1]/40 hover:shadow-md"
                 >
                   <div className="flex items-start justify-between gap-3">

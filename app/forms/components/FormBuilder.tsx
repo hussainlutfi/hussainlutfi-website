@@ -69,7 +69,7 @@ export default function FormBuilder({ initial }: { initial?: FormDef }) {
       });
       const body = await res.json().catch(() => ({}));
       if (!res.ok) throw new Error(body.error || "تعذر الحفظ");
-      router.push(`/forms/${body.form.id}`);
+      router.push(`/admin/forms/${body.form.id}`);
       router.refresh();
     } catch (err) {
       setError(err instanceof Error && err.message !== "database_unavailable" ? err.message : "تعذر الاتصال بقاعدة البيانات.");
@@ -83,7 +83,7 @@ export default function FormBuilder({ initial }: { initial?: FormDef }) {
       kicker="النماذج"
       title={initial ? "تعديل النموذج" : "نموذج جديد"}
       subtitle="أضف الأسئلة ثم احفظ، وستحصل على رابط للمشاركة."
-      back={{ href: initial ? `/forms/${initial.id}` : "/forms", label: initial ? "رجوع إلى النموذج" : "كل النماذج" }}
+      back={{ href: initial ? `/admin/forms/${initial.id}` : "/admin/forms", label: initial ? "رجوع إلى النموذج" : "كل النماذج" }}
     >
       <Card className="mt-6">
         <div className="space-y-4">

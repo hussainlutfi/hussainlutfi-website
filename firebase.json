@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "providers": {
+      "googleSignIn": {
+        "oAuthBrandDisplayName": "Hussain Lutfi",
+        "supportEmail": "7ussain212@gmail.com"
+      }
+    }
+  }
+}
